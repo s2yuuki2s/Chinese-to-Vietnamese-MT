@@ -58,6 +58,8 @@
 5881,这就是癌症和癌症转移的本质，一个涌现系统。,"Và đó là bản chất của ung thư và di căn ung thư, một hệ thống nổi lên."
 5882,这对物理学家和工程师来说非常自然，因为工程师是组装这辆车的人。,"Điều này rất tự nhiên đối với các nhà vật lý và kỹ sư, bởi vì các kỹ sư là những người lắp ráp chiếc xe này."
 5883,那么，我们能否将不同的基因或蛋白质以它们在细胞中相互作用的方式组合在一起，以便更好地理解转移？,"Vậy, chúng ta có thể kết hợp các gen hoặc protein khác nhau theo cách chúng tương tác trong tế bào để hiểu rõ hơn về quá trình di căn không?"
+5884,作为一个系统，作为一个新兴的、复杂的系统？,"Là một hệ thống, như một hệ thống mới nổi, phức tạp?"
+5884,让我举个例子：天气预报。,Hãy để tôi đưa ra một ví dụ: dự báo thời tiết.
 5884,今天，我们可以非常准确地预测天气……,"Ngày nay, chúng ta có thể dự đoán thời tiết rất chính xác..."
 5885,好吧，接下来 7 天甚至更远的时间会发生什么？,"Vâng, điều gì sẽ xảy ra trong 7 ngày tới hoặc thậm chí xa hơn?"
 5885,我们什么时候会遇到雷暴？,Khi nào chúng ta sẽ có bão giông?
@@ -71,7 +73,8 @@
 5891,将相互作用以控制转移的各种基因和蛋白质组合在一起，并非今天，而是未来几年内，,"kết hợp nhiều gen và protein khác nhau tương tác với nhau để kiểm soát di căn và, không nhất thiết là ngày hôm nay, mà là một vài năm sau,"
 5892,我们能否建立一个能够真正预测转移的模型？,Chúng ta có thể xây dựng một mô hình thực sự có thể dự đoán sự di căn không?
 5892,我们能像信任今天的预报一样信任它吗？,Chúng ta có thể tin tưởng nó như cách chúng ta tin tưởng dự báo thời tiết ngày hôm nay không?
-5893,所以，今天我将带您踏上我所坚持的旅程的第一步。好的……那么，转移……,"Vì vậy, hôm nay tôi sẽ đưa bạn đến những bước đầu tiên trong hành trình mà tôi đã nắm giữ. Được rồi... vậy, di căn..."
+5893,所以，今天我将带您踏上我所坚持的旅程的第一步。,"Vì vậy, hôm nay tôi sẽ đưa bạn đến những bước đầu tiên trong hành trình mà tôi đã nắm giữ. Được rồi... vậy, di căn..."
+5894,当癌细胞离开原发肿瘤时，它们可以通过两种不同的方式进行：它们可以作为单个细胞离开，也可以形成一个簇。,"Khi các tế bào ung thư rời khỏi khối u chính, chúng có thể làm điều đó theo hai cách khác nhau: chúng có thể rời đi dưới dạng các tế bào đơn lẻ hoặc chúng có thể tạo thành một cụm."
 5895,在进入高速公路之前，然后一起离开。,"trước khi vào đường cao tốc, sau đó cùng nhau rời đi."
 5895,这就像是否……有一组汽车在不同时间离开,Nó giống như liệu... có một nhóm xe rời đi vào những thời điểm khác nhau
 5896,或者，是否有一组汽车停在匝道上，等待进入高速公路？,"Hoặc liệu có một tập hợp các xe ô tô cùng nhau trên một đoạn đường dốc, chỉ chờ để lên đường cao tốc?"
@@ -86,16 +89,18 @@
 5901,所以，如果这些是转移的真正罪魁祸首，,"Vì vậy, nếu đây là những kẻ phản diện thực sự của di căn,"
 5902,这些簇，然后让我们尝试理解，癌细胞是如何形成这些簇的？,"Những cụm này, sau đó chúng ta hãy cố gắng hiểu, các tế bào ung thư hình thành những cụm này như thế nào?"
 5902,我们如何破坏这些簇，我们能使用什么靶点？,"Làm cách nào chúng ta có thể phá vỡ những cụm này, mục tiêu nào chúng ta có thể sử dụng?"
-5903,让我们先看看第一部分：癌细胞是如何形成这些簇的？,Các tế bào ung thư hình thành những cụm này như thế nào?
+5903,让我们先看看第一部分：癌细胞是如何形成这些簇的？,Hãy cùng đi đến phần đầu tiên: Các tế bào ung thư hình thành những cụm này như thế nào?
+5903,那么，为什么这些簇会形成更多转移？,"Và cuối cùng, tại sao những cụm này lại hình thành nhiều di căn hơn?"
 5904,在我们深入了解细节之前，让我先向您详细解释一下转移是如何发生的。,"Trước khi đi vào chi tiết, hãy để tôi cung cấp cho bạn một sự hiểu biết tương đối chi tiết về cách di căn thực sự xảy ra."
 5905,这些原发性肺癌细胞现在没有固有的迁移能力，正如我们之前讨论的那样，,"Những tế bào ung thư phổi nguyên phát này, hiện tại, chúng không có tính chất bẩm sinh để di chuyển, như chúng ta đã thảo luận trước đây,"
+5906,因此，为了移动，为了进入高速公路，他们需要做两件事：他们需要断开与邻居的联系，也就是他们拥有的紧密的细胞间粘附；,"Vì vậy, để di chuyển, để lên đường cao tốc, họ cần làm hai điều: họ cần phải phá vỡ các liên kết của họ với hàng xóm, sự kết dính tế bào chặt chẽ mà họ có;"
 5907,同时，他们需要获得迁移和入侵的特性。,"và cùng lúc đó, chúng cần có được khả năng di cư và xâm chiếm."
 5908,它是我们身体中上皮细胞的特性，例如皮肤以及衬里多个器官的细胞，例如乳房、前列腺和肺。,"Đây là đặc tính của các tế bào biểu mô trong cơ thể chúng ta, chẳng hạn như da và các tế bào lót nhiều cơ quan, chẳng hạn như vú, tuyến tiền liệt và phổi."
 5909,另一方面，不粘附和迁移的特性是我们体内间充质细胞的特性。,"Mặt khác, tính chất không bám dính và di cư là tính chất của các tế bào trung mô trong cơ thể chúng ta."
 5910,因此，当癌细胞需要上高速公路时，它们需要获得间充质细胞的这些特性。,"Vì vậy, khi tế bào ung thư phải lên đường cao tốc, chúng cần phải có được những đặc tính này của tế bào trung mô."
 5910,例如红细胞。,Ví dụ như hồng cầu.
 5911,我并不是说它们必须转化为间充质细胞，它们不必变成红血球，但它们必须具备这些特性。,"Tôi không nói rằng chúng phải chuyển đổi thành tế bào trung mô, chúng không cần phải trở thành hồng cầu, nhưng chúng phải có những đặc tính này."
-5912,而这种转变被称为上皮间质转化，通常是转移级联反应的第一步。,"Và sự chuyển đổi này được gọi là chuyển đổi biểu mô sang trung mô, thường là bước đầu tiên trong thác chuyển metastatic."
+5912,而这种转变被称为上皮间质转化，通常是转移级联反应的第一步。,"Và sự chuyển đổi này được gọi là chuyển đổi biểu mô sang trung mô, thường là bước đầu tiên trong thác chuyển  metastatic."
 5913,现在，一旦它们进入高速公路，一旦它们进入血液循环，并且它们存活下来，并且它们从不同的器官出来，下高速公路，,"Bây giờ, một khi chúng vào đường cao tốc, một khi chúng ở trong tuần hoàn máu và chúng sống sót và chúng ra khỏi một cơ quan khác, đi ra khỏi đường cao tốc,"
 5914,现在他们需要做的是……长出一个全新的肿瘤，为此他们需要脱落迁移能力,"Bây giờ những gì họ cần làm là... phát triển một khối u hoàn toàn mới, mà để làm được điều đó, họ cần phải loại bỏ khả năng di chuyển của mình"
 5916,我们刚才谈到的间充质向上皮转化，通常是这种转移循环的最后一步，而循环可以继续，周而复始。,"mà chúng ta vừa thảo luận, chuyển đổi từ trung mô sang biểu mô, thường là bước cuối cùng trong chu kỳ di căn này, và chu kỳ có thể tiếp tục, lặp đi lặp lại."
@@ -116,6 +121,10 @@
 5928,但尽管如此，,"Nhưng bất chấp điều này,"
 5928,混合细胞之间的联系……有多少混合细胞存在以及肿瘤的侵略性有多强。,Mối liên hệ giữa các tế bào lai... có bao nhiêu tế bào lai tồn tại và mức độ hung hăng của khối u.
 5929,人们普遍认为，这种感觉只是暂时的；细胞实际上无法长时间维持这种状态。,"Cảm giác chung là, tốt, đây chỉ là bản chất thoáng qua; các tế bào không thể thực sự duy trì trạng thái này trong một thời gian dài."
+5930,所以，这就是最让我兴奋的问题：,"Vì vậy, đó là câu hỏi đã khiến tôi phấn khích nhất:"
+5930,而这仅仅是在细胞在EMT途中被捕获时的快照。,Và đây chỉ là một khoảnh khắc được ghi lại khi các tế bào đang di chuyển đến EMT.
+5931,这是稳定状态还是只是暂时的、中间的、不稳定的状态？,"Đây là một trạng thái ổn định hay chỉ là một trạng thái thoáng qua, trung gian, không ổn định?"
+5931,所以，这里是我们一直在讨论的三个状态：,"Vì vậy, đây là ba trạng thái mà chúng ta đã thảo luận:"
 5932,上皮细胞位于最左边，细胞粘附力很强，不移动；间充质细胞位于最右边，细胞可以迁移，但不能粘附。,"biểu mô, ở cực trái, nơi các tế bào bám rất chặt và không di chuyển; trung mô ở cực phải, nơi các tế bào di chuyển nhưng không bám dính;"
 5933,而在这两者之间，存在一种混合状态，细胞既能粘附又能迁移，因此导致了这种集体的细胞迁移。,"Và giữa hai trạng thái đó là trạng thái lai, nơi các tế bào vừa bám dính vừa di chuyển, do đó dẫn đến sự di chuyển tế bào tập thể này."
 5934,现在，我们该如何理解细胞如何才能达到这种状态，以及混合状态是否稳定？,"Bây giờ, làm thế nào để chúng ta hiểu cách các tế bào có thể đạt được trạng thái này, liệu trạng thái lai có ổn định hay không?"
@@ -126,7 +135,7 @@
 5938,其中有四个不同的参与者，他们以一种相对复杂的方式相互关联，我不会详细介绍这些细节。,"nơi có bốn người chơi khác nhau, những người được kết nối với nhau theo một cách tương đối phức tạp, mà tôi sẽ không đi sâu vào chi tiết."
 5939,这里看到的数字代表它们之间某种定量的关系。,Các con số bạn thấy ở đây đại diện cho một loại mối quan hệ định lượng giữa chúng.
 5939,其中两个是转录因子，两个是microRNA。,Và ở đó ... hai trong số đó là các yếu tố phiên mã và hai là microRNA.
-5940,但是，我不想再详细说明了。我只想让你记住，我们通过实验知道的是，SNAIL和ZEB的含量... 如果SNAIL和ZEB的含量很高，,"Nhưng một lần nữa, tôi sẽ không làm bạn chán với những chi tiết. Điều duy nhất tôi muốn bạn nhớ là những gì chúng ta biết về mặt thực nghiệm là lượng... nếu lượng SNAIL và ZEB cao,"
+5940,我只想让你记住，我们通过实验知道的是，SNAIL和ZEB的含量... 如果SNAIL和ZEB的含量很高，,"Điều duy nhất tôi muốn bạn nhớ là những gì chúng ta biết về mặt thực nghiệm là lượng... nếu lượng SNAIL và ZEB cao,"
 5941,然后，如果细胞是间充质的，并且 SNAIL 和 ZEB 的含量低，那么细胞就是上皮细胞。,"Sau đó, các tế bào là trung mô, và nếu lượng SNAIL và ZEB thấp, thì các tế bào là biểu mô. Được rồi."
 5942,然后，在找到这些相互作用之后，我写下了实际上代表这些相互作用的数学方程式，并在用这些方程式进行计算之后，,"Sau đó, sau khi tìm ra những tương tác này, tôi đã viết ra các phương trình toán học thực sự thể hiện những tương tác này, và sau khi thực hiện các phép tính với những phương trình này,"
 5943,所以，这是模型的预测，其中有三个实线。,"Vì vậy, đây là dự đoán của mô hình, nơi có ba dòng liền nét."
@@ -140,19 +149,22 @@
 5946,现在，让我为你分解一下这张图。,"Bây giờ, hãy để tôi phân tích biểu đồ này cho bạn."
 5947,因此，在非常低的 ZEB 水平（即 Y 轴）上，,"Vì vậy, ở mức ZEB rất thấp, tức là trục y,"
 5947,看看模型到底说了什么。,để xem chính xác mô hình nói gì.
-5948,您看到只有一个状态，即上皮状态，这是我们从实验中得知的。在非常高的 ZEB 水平下，,"Bạn thấy rằng chỉ có một trạng thái, đó là biểu mô, và đó là những gì chúng ta biết từ các thí nghiệm. Ở mức độ ZEB rất cao,"
+5948,在非常高的 ZEB 水平下，,"Ở mức độ ZEB rất cao,"
+5948,您看到只有一个状态，即上皮状态，这是我们从实验中得知的。,"Bạn thấy rằng chỉ có một trạng thái, đó là biểu mô, và đó là những gì chúng ta biết từ các thí nghiệm."
 5949,再说一次，只有一种状态，即间充质。,"Một lần nữa, chỉ có một trạng thái, đó là trung mô."
 5949,在两者之间，你会看到这条…另一条实心的蓝色线，,"Và ở giữa, bạn thấy cái này ... một đường màu xanh lam rắn khác,"
 5950,对应于中等 ZEB 水平，即高于上皮细胞中观察到的 ZEB 水平,"tương ứng với mức ZEB trung gian, mức ZEB cao hơn mức được thấy trong biểu mô"
 5951,因此，模型的预测是，,"Vì vậy, một dự đoán của mô hình là,"
 5951,并且低于间充质细胞中观察到的水平，这种中间状态对应于稳定的混合状态。,"và thấp hơn so với những gì được thấy ở mesenchymal, và trạng thái trung gian này tương ứng với trạng thái lai ổn định."
 5952,所以，如果你看，图表的左边...,"Vì vậy, nếu bạn nhìn thấy, phần bên trái nhất của biểu đồ..."
+5952,好的。,Được rồi.
 5952,让我带你了解这个图表的另一个方面。,Hãy để tôi hướng dẫn bạn qua một khía cạnh khác của biểu đồ này.
-5952,是的，细胞可以达到稳定的混合状态。,"Vâng, có một trạng thái lai ổn định mà tế bào có thể đạt được. Được rồi."
+5952,是的，细胞可以达到稳定的混合状态。,"Vâng, có một trạng thái lai ổn định mà tế bào có thể đạt được."
 5953,现在让我们看一下……我们已经水平地看过了，现在让我们垂直地看……所以在这里，你看到的是,"Bây giờ chúng ta hãy xem... chúng ta đã xem theo chiều ngang rồi, bây giờ hãy xem theo chiều dọc... vậy nên ở đây, những gì bạn thấy là"
 5954,"如果 SNAIL 蛋白量的分子数少于 180,000 个，并且如果你垂直向上行走，你只会穿过一条蓝色的实线，","nếu lượng protein SNAIL nhỏ hơn 180.000 phân tử và nếu bạn đi bộ thẳng đứng lên trên, bạn chỉ đi qua một đường nét liền màu xanh dương,"
 5955,这意味着该参数区域或条件区域中的细胞只能达到一种状态，从ZEB水平可以看出，这种状态是,"có nghĩa là chỉ có một trạng thái mà các tế bào trong vùng tham số này, hoặc trong vùng điều kiện này, có thể đạt được, và trạng thái đó, như bạn có thể thấy từ mức độ ZEB,"
-5956,这是上皮状态。最右边，还有一个区域，那里也只有一个状态，,"Đây là trạng thái biểu mô. Đi sang bên phải cùng, có một vùng khác mà, một lần nữa, chỉ có một trạng thái,"
+5956,最右边，还有一个区域，那里也只有一个状态，,"Đi sang bên phải cùng, có một vùng khác mà, một lần nữa, chỉ có một trạng thái,"
+5956,这是上皮状态。,Đây là trạng thái biểu mô.
 5957,但那个特定状态不是上皮状态，而是具有最高 ZEB 水平的状态，实际上是间充质状态。,"Nhưng trạng thái cụ thể đó không phải là biểu mô, mà là trạng thái có mức ZEB cao nhất, thực chất là trung mô."
 5957,而在这两者之间，我们看到了这个有趣的区域。,"Và ở giữa, chúng ta thấy khu vực thú vị này."
 5958,"例如，让我们从 200,000 个 SNAIL 分子中画一条垂直线，您会看到它会穿过三条不同的蓝色曲线。","Ví dụ, hãy vẽ một đường thẳng đứng từ 200.000 phân tử SNAIL, và bạn sẽ thấy nó cắt qua ba đường cong màu xanh lam riêng biệt."
@@ -171,7 +183,7 @@
 5968,因此，在我们与他们讨论后，他们拥有这些位于上皮细胞和间充质细胞之间的中间细胞系，他们是如何确定这些是中间细胞系的？,"Vì vậy, sau khi chúng tôi thảo luận với họ, họ đã có những dòng tế bào trung gian này nằm ở đâu đó giữa biểu mô và trung mô, và làm cách nào họ xác định được rằng chúng là trung gian?"
 5969,但请注意，所有这些测量,"Nhưng hãy cẩn thận, tất cả các phép đo này"
 5969,因为他们测量了多种上皮和间充质蛋白及其mRNA水平。,Bởi vì họ đã đo lường một số protein biểu mô và trung mô cũng như mức độ mRNA của chúng.
-5970,这些是在人群水平上进行的：他们采集了 1000 个或更多个细胞，然后将它们粉碎，看看它们中存在多少 RNA？,"họ đã lấy 1000 tế bào trở lên, nghiền nát chúng và xem lượng RNA có trong chúng là bao nhiêu?"
+5970,这些是在人群水平上进行的：他们采集了 1000 个或更多个细胞，然后将它们粉碎，看看它们中存在多少 RNA？,"Những dữ liệu này được thu thập ở cấp độ dân số: họ đã lấy 1000 tế bào trở lên, nghiền nát chúng và xem lượng RNA có trong chúng là bao nhiêu?"
 5971,而这就是用群体水平测量的问题所在，你实际上看不到单细胞水平上发生了什么。,"Và đây là vấn đề khi thực hiện các phép đo ở cấp độ quần thể, bạn thực sự không nhìn thấy những gì đang xảy ra ở cấp độ tế bào đơn lẻ."
 5972,因此，当我们观察这些细胞系时，我们观察到一些细胞系中存在一些上皮细胞。,"Vì vậy, khi chúng tôi xem xét các dòng tế bào đó, chúng tôi quan sát thấy rằng có một số dòng tế bào có chứa một số tế bào biểu mô."
 5973,以及一些间充质细胞，但不是杂交细胞。,"và một số tế bào trung mô, nhưng không phải là tế bào lai."
@@ -179,7 +191,8 @@
 5974,绿色标记了这些免疫荧光图像中的间充质蛋白，因此您看到细胞只有红色或只有绿色，这意味着它们只有上皮细胞或只有间充质细胞。,"Và màu xanh lá cây đang đánh dấu một protein trung mô trong các hình ảnh miễn dịch huỳnh quang này, vì vậy bạn thấy các tế bào chỉ có màu đỏ hoặc chỉ có màu xanh lá cây, điều đó có nghĩa là chúng chỉ là biểu mô hoặc chỉ là trung mô."
 5975,在另一个细胞系中，你观察到细胞在单个细胞水平上共表达红色和绿色，因此这些确实是杂交细胞。,"Một dòng tế bào khác mà bạn thấy rằng các tế bào thực sự đồng biểu hiện màu đỏ và màu xanh lá cây ở cấp độ tế bào đơn lẻ, vì vậy đây thực sự là các tế bào lai."
 5976,这与混合物不同。,Điều này khác với hỗn hợp.
-5976,因此，混合物不同于杂交细胞。它的特征不同，它的迁移特性预计也不同。,"Vì vậy, hỗn hợp khác với tế bào lai. Đặc điểm của nó khác nhau, các đặc điểm di chuyển của nó được dự kiến ​​sẽ khác nhau."
+5976,它的特征不同，它的迁移特性预计也不同。,"Đặc điểm của nó khác nhau, các đặc điểm di chuyển của nó được dự kiến ​​sẽ khác nhau."
+5976,因此，混合物不同于杂交细胞。,"Vì vậy, hỗn hợp khác với tế bào lai."
 5977,什么是稳定状态？,Trạng thái ổn định là gì?
 5977,如果它受到干扰，它会恢复过来，,"Nếu nó bị xáo trộn, nó sẽ trở lại,"
 5977,再说一次，这是一个快照。,"Một lần nữa, đây là một khoảnh khắc."
@@ -200,7 +213,8 @@
 5991,那么，我们该如何调整模型？如何添加或删除其中的组件，以便获得一个区域，其中唯一的状态是,"Vâng, làm sao... làm sao chúng ta có thể điều chỉnh mô hình, làm sao chúng ta có thể thêm hoặc xóa các thành phần từ nó để chúng ta có thể nhận được một khu vực mà trạng thái duy nhất"
 5992,同时，我们还想确定，哪些目标可以打破这些集群？,"Và đồng thời, chúng tôi muốn xác định, à, mục tiêu nào có thể phá vỡ các cụm này?"
 5992,所以，如果我们能确定,"Vì vậy, nếu chúng ta có thể xác định"
-5994,并且可能导致集体细胞迁移受阻。好吧，让我们回到数学上来。,"và tiềm ẩn dẫn đến sự gián đoạn di cư tế bào tập thể. Được rồi, hãy quay lại toán học."
+5994,好吧，让我们回到数学上来。,"Được rồi, hãy quay lại toán học."
+5994,并且可能导致集体细胞迁移受阻。,và tiềm ẩn dẫn đến sự gián đoạn di cư tế bào tập thể.
 5995,所以，这是我之前给您看过的图表，我想再次强调的是，不存在参数区域仅处于混合状态。,"Vì vậy, đây là sơ đồ mà tôi đã cho bạn xem trước đó và tôi muốn, một lần nữa, nhấn mạnh rằng không có vùng tham số nào mà trạng thái duy nhất là lai."
 5996,存在一个参数区域，其中唯一的状态是上皮细胞，存在一个参数区域，其中唯一的状态是间充质细胞，但不存在一个区域，其中唯一的状态是混合型。,"Có một vùng tham số trong đó trạng thái duy nhất là biểu mô, có một vùng tham số trong đó trạng thái duy nhất là mô liên kết, nhưng không có vùng nào trong đó trạng thái duy nhất là lai."
 5997,然后，我回到伤口愈合和发育性EMT文献，看看它们是否谈论了一些可以破坏或维持的因素。,"Sau đó, tôi quay lại tài liệu về chữa lành vết thương và EMT phát triển để xem liệu họ có nói về một số nhân tố có thể phá vỡ hoặc duy trì hay không."
@@ -211,7 +225,8 @@
 6001,这种叫做 GRHL2 的特定蛋白质与 ZEB 相连 - 它抑制 ZEB 并被 ZEB 抑制 - 你会看到图表发生了变化,"Loại protein đặc biệt này được gọi là GRHL2, nó kết nối với ZEB - nó ức chế ZEB và bị ức chế bởi ZEB - và bạn thấy biểu đồ thay đổi"
 6002,如果你观察大约 40 万个 SNAIL 分子，并像这个虚线矩形区域所示的那样垂直向上移动，,"và nếu bạn nhìn vào khoảng 400.000 phân tử SNAIL và đi thẳng lên trên, như được hiển thị trong vùng được tô sáng bằng hình chữ nhật chấm này,"
 6003,因此，添加这个单一因素稳定了混合状态。,"Vì vậy, việc thêm yếu tố duy nhất này đã ổn định trạng thái lai."
-6006,再次，正如你在左栏中看到的，它们在集体移动。在右栏中，我们所做的是从细胞系中删除了该特定蛋白质，并且你看到它们的迁移,"Một lần nữa, chúng di chuyển cùng nhau, như bạn có thể thấy trong cột bên trái. Ở cột bên phải, những gì chúng tôi đã làm là xóa protein cụ thể đó khỏi dòng tế bào, và bạn thấy rằng sự di chuyển của chúng"
+6006,在右栏中，我们所做的是从细胞系中删除了该特定蛋白质，并且你看到它们的迁移,"Ở cột bên phải, những gì chúng tôi đã làm là xóa protein cụ thể đó khỏi dòng tế bào, và bạn thấy rằng sự di chuyển của chúng"
+6006,再次，正如你在左栏中看到的，它们在集体移动。,"Một lần nữa, chúng di chuyển cùng nhau, như bạn có thể thấy trong cột bên trái."
 6007,另外，当我们寻找红色和绿色的存在时，,"Ngoài ra, khi chúng tôi tìm kiếm sự hiện diện của màu đỏ và màu xanh lá cây,"
 6007,现在还没有完全聚集在一起 - 它已经被破坏了，它们开始以单个细胞的形式开始移动。,Nó không hoàn toàn tập trung vào thời điểm này - nó đã bị gián đoạn và chúng bắt đầu di chuyển nhiều hơn dưới dạng các tế bào đơn lẻ.
 6009,在同一个细胞中共同表达红色和绿色，但根据数学模型预测，这种单一蛋白质的敲除会导致,"biểu hiện đồng thời màu đỏ và màu xanh lục trong cùng một tế bào, nhưng với việc loại bỏ protein đơn lẻ này, như dự đoán bởi mô hình toán học,"
@@ -225,9 +240,9 @@
 6015,更多的簇，更多的簇会缩短生存期。,"Nhiều cụm hơn, và nhiều cụm hơn sẽ làm giảm thời gian sống sót."
 6016,这些患者被分为高和低蛋白质含量组，然后我们观察了他们的5年和10年生存概率。,"được chia thành lượng protein cao và thấp, sau đó chúng tôi đã xem xét xác suất sống sót 5 năm và 10 năm của họ. Như bạn có thể thấy, những bệnh nhân có"
 6017,这种蛋白质含量高，无进展生存期概率较低，这意味着在更多情况下，疾病实际上已经进展。,"Lượng protein này cao có xác suất sống sót không tiến triển thấp hơn, có nghĩa là bệnh thực sự đã tiến triển trong nhiều trường hợp hơn."
-6018,与蛋白质含量较低的病例百分比相比，这就是图表中显示的内容。红线显示了蛋白质...,"so với tỷ lệ trường hợp có lượng protein cụ thể này thấp hơn, và đó là những gì được hiển thị trong biểu đồ ở đây. Đường màu đỏ cho thấy các trường hợp mà protein..."
 6019,黑色曲线显示了患者体内这种蛋白质含量较低的病例，而患者体内这种蛋白质含量较高的病例则用黑色图形表示。,"đường cong màu đen cho thấy những trường hợp bệnh nhân có lượng protein này thấp, trong khi biểu đồ màu đen cho thấy những trường hợp bệnh nhân có lượng protein này cao."
-6020,而且，在5年和10年生存概率方面存在差异，一个明显的差异，这与我们的假设一致。好的，我们已经讨论了这两个方面，,"và có sự khác biệt, một sự khác biệt rõ rệt trong cả khả năng sống sót 5 năm và 10 năm, điều này phù hợp với giả thuyết của chúng tôi. Được rồi, vì vậy chúng ta đã thảo luận về hai khía cạnh này,"
+6020,好的，我们已经讨论了这两个方面，,"Được rồi, vì vậy chúng ta đã thảo luận về hai khía cạnh này,"
+6020,而且，在5年和10年生存概率方面存在差异，一个明显的差异，这与我们的假设一致。,"và có sự khác biệt, một sự khác biệt rõ rệt trong cả khả năng sống sót 5 năm và 10 năm, điều này phù hợp với giả thuyết của chúng tôi."
 6021,这两个都与癌细胞如何进入高速公路有关。,Cả hai đều liên quan đến cách các tế bào ung thư lên đường cao tốc.
 6021,现在，让我们讨论最后一个方面，,"Bây giờ, hãy nói về khía cạnh cuối cùng,"
 6022,也就是说，一旦它们在循环中存活下来，并从高速公路上驶离到另一个器官，到一个遥远的器官，,"nghĩa là, một khi chúng đã sống sót qua vòng tuần hoàn và rời khỏi đường cao tốc đến một cơ quan thứ cấp, đến một cơ quan ở xa,"
@@ -270,9 +285,12 @@
 6052,因为它能够形成循环肿瘤细胞（CTC）的簇。,"bởi vì nó cho phép sự hình thành các cụm tế bào khối u lưu thông, hoặc CTC."
 6053,那么，什么是液体活检呢？,Vậy sinh thiết lỏng là gì?
 6053,它与实体活检有什么区别？,Nó khác với sinh thiết rắn như thế nào?
+6055,传染病研究员，他说，好吧，让我检查一下你，所以他几天后检查了我，他打电话给我说,"một bác sĩ nội trú về bệnh truyền nhiễm, và anh ấy nói: ừm, để tôi kiểm tra bạn. Và anh ấy đã kiểm tra tôi vài ngày sau đó, anh ấy gọi điện cho tôi và nói"
 6056,我们会带你去看医生，也就是说，我有点儿被传染病困住了，我有点儿认为可能是这个男人。,"Chúng tôi sẽ đưa bạn đi, vì vậy tôi đã bị cuốn vào bệnh truyền nhiễm và tôi nghĩ có lẽ là người đàn ông."
 6057,楼上希望我成为一个身份证件，所以这就是我最终成为……好吧，我们会在稍后谈论你传染病之旅的更多细节。,"Tầng trên muốn tôi trở thành một giấy tờ tùy thân, nên đó là cách tôi kết thúc ... à, chúng ta sẽ tìm hiểu thêm về hành trình mắc bệnh truyền nhiễm của bạn sau."
-6058,对于那些想从事传染病研究的人来说，第二次机会很好。医学院毕业后，你的培训要多长时间？好的，你必须完成一个,"Lần thứ hai ổn cho những người muốn theo đuổi bệnh truyền nhiễm. Đào tạo của bạn mất bao lâu sau khi học y? Được rồi, bạn phải làm một"
+6058,好的，你必须完成一个,"Được rồi, bạn phải làm một"
+6058,医学院毕业后，你的培训要多长时间？,Đào tạo của bạn mất bao lâu sau khi học y?
+6058,对于那些想从事传染病研究的人来说，第二次机会很好。,Lần thứ hai ổn cho những người muốn theo đuổi bệnh truyền nhiễm.
 6060,然后，您有资格参加内科委员会考试，一旦您有资格参加委员会考试，您就可以参加考试，然后参加为期两到三年的考试,"Sau đó, bạn đủ điều kiện để tham gia kỳ thi hội đồng y khoa nội, một khi bạn đủ điều kiện tham gia hội đồng, bạn có thể tham gia kỳ thi, sau đó tham gia một khóa đào tạo hai hoặc ba năm"
 6061,如果您选择三年制的住院医师培训项目，这意味着其中一年将用于研究，但大多数人只做两年。,"Nếu bạn chọn chương trình nghiên cứu chuyên sâu kéo dài ba năm, điều đó có nghĩa là một năm sẽ dành cho nghiên cứu, nhưng hầu hết mọi người chỉ thực hiện trong hai năm."
 6062,完成住院医师培训后，他们就有资格参加传染病委员会考试，您认为最独特的是什么？,"Sau khi hoàn thành chương trình nghiên cứu chuyên sâu, họ đủ điều kiện để tham gia kỳ thi hội đồng về bệnh truyền nhiễm, vậy bạn nghĩ điều gì là độc đáo nhất?"
@@ -281,13 +299,15 @@
 6066,最后但并非最不重要的是，你得动动脑筋，想办法找出史密斯夫人或琼斯先生到底怎么了，你知道他们发烧了，,"Cuối cùng nhưng không kém phần quan trọng, bạn cần dùng bộ não của mình để cố gắng tìm ra vấn đề gì với bà Smith hoặc ông Jones, và bạn biết họ bị sốt và"
 6067,例如，没有人能弄明白，所以这就是 ID 医师所做的事情。,"Ví dụ, không ai có thể hiểu được, vì vậy đó là loại điều mà các bác sĩ ID làm."
 6067,说到这一点，为了详细说明，ID 医师的平均一天是什么样子的？,"Nói về điều đó, để làm rõ hơn, một ngày bình thường của một bác sĩ ID trông như thế nào?"
-6068,一个典型的工作日？嗯，这取决于那天你是否有门诊，或者你是学术人员。,"Một ngày bình thường? Ờ, nó phụ thuộc vào việc bạn có lịch khám bệnh vào ngày đó hay là bạn là một học giả."
+6068,一个典型的工作日？,Một ngày bình thường?
+6068,嗯，这取决于那天你是否有门诊，或者你是学术人员。,"Ờ, nó phụ thuộc vào việc bạn có lịch khám bệnh vào ngày đó hay là bạn là một học giả."
 6069,像我这样，你知道你并非每个月都要值班，你知道有些月份你要值班，有些月份你不用值班。,"giống như tôi ấy, bạn biết đấy, bạn không phải trực mỗi tháng đâu, bạn biết đấy, có một vài tháng bạn trực, rồi một vài tháng bạn không trực."
 6071,抱歉，我的狗在背景中吠叫，但是，如果您在私人执业，您可能在,"Xin lỗi, con chó của tôi đang sủa ở hậu cảnh, nhưng ờ, nếu bạn đang hành nghề tư nhân, bạn có thể gặp một số bệnh nhân trong"
 6073,对于那些要求你咨询他们患者的医生的患者的文档，你正在进行咨询式的查房,"Đối với hồ sơ của những bệnh nhân của các bác sĩ đã yêu cầu bạn tư vấn cho bệnh nhân của họ, bạn đang thực hiện các vòng khám tư vấn"
 6074,好的，我一直让医生像汽车销售员一样推销他们的专长，那么为什么学生应该出去呢？,"Được rồi, vậy tôi luôn để các bác sĩ cố gắng bán chuyên môn của họ như một nhân viên bán hàng ô tô, vậy tại sao một sinh viên lại muốn đi ra ngoài?"
 6076,实际上，外面天气相当宜人，佐治亚州的确开始有了秋天的感觉。,"Thực ra, thời tiết bên ngoài khá dễ chịu, Georgia thực sự bắt đầu có cảm giác mùa thu."
-6077,好的，所以，最后一个问题是什么？哦，所以为什么有人会选择传染病呢？,"Được rồi, vậy thì, câu hỏi cuối cùng là gì? Ồ, vậy tại sao ai đó nên chọn bệnh truyền nhiễm?"
+6077,好的，所以，最后一个问题是什么？,"Được rồi, vậy thì, câu hỏi cuối cùng là gì?"
+6077,哦，所以为什么有人会选择传染病呢？,"Ồ, vậy tại sao ai đó nên chọn bệnh truyền nhiễm?"
 6078,好吧，正如我所说，如果你喜欢试图找出诊断结果，那么这是一个适合你的专业。,"Vâng, như tôi đã nói, nếu bạn thích cố gắng tìm ra chẩn đoán là gì, thì đó là một chuyên ngành phù hợp với bạn."
 6079,因为每个病人都是一个谜题，而且不是所有病人都是一样的，他们有不同的表达方式。,"Bởi vì mỗi bệnh nhân là một câu đố và ừm, không phải tất cả bệnh nhân đều giống nhau và họ có những cách thể hiện khác nhau."
 6080,你有病史，所以你必须尽力查明到底发生了什么,"Bạn có tiền sử bệnh, vì vậy bạn phải cố gắng tìm hiểu xem chuyện gì đang xảy ra."
@@ -302,6 +322,8 @@
 6090,强迫症可能是传染病医生的一个刻板印象，我不知道这是否完全正确，但我认为他们多少有点这样,"Rối loạn ám ảnh cưỡng chế sẽ là một định kiến ​​cho bác sĩ bệnh truyền nhiễm, tôi không biết điều đó có hoàn toàn đúng hay không, nhưng tôi nghĩ rằng họ có phần"
 6091,可以把传染病医生想象成四处探查、检查一切的人，如果你明白我的意思，现在我知道你与许多人一起工作。,"Hãy nghĩ về các bác sĩ bệnh truyền nhiễm như những người tò mò và kiểm tra mọi thứ, và nếu bạn hiểu ý tôi, ừm, bây giờ tôi biết bạn làm việc với rất nhiều"
 6092,医学院的学生，他们有一种叫做“pimping”的东西，我想实习医生也会这么叫。,"Sinh viên ở trường y, và có một thứ mà sinh viên, ờ, và tôi đoán các bác sĩ nội trú gọi là pimping."
+6093,哦，我的第一个问题是，你认为诊断是什么？,"Ôi, câu hỏi đầu tiên của tôi là: Bạn nghĩ chẩn đoán là gì?"
+6093,那么，你在病房里给学生问的第一个问题是什么？,Vậy câu hỏi đầu tiên bạn thường hỏi sinh viên khi họ ở trên các khoa là gì?
 6094,为什么，而且我常说，如果你是医院里唯一的医生，你会怎么处理这个病人？,"Và tại sao, và tôi thường nói, nếu bạn là bác sĩ duy nhất trong bệnh viện, bạn sẽ làm gì cho bệnh nhân này?"
 6094,我经常听到这句话。,Tôi đã nghe điều đó rất nhiều.
 6095,记住那个对的，我问了你很多次，天啊，所以我写下了我喜欢做的就是让学生们,"Hãy nhớ rằng cái đúng, tôi đã hỏi bạn điều đó nhiều lần rồi, trời ơi, vì vậy tôi đã viết rằng những gì tôi thích làm là đưa học sinh"
@@ -320,7 +342,7 @@
 6111,你在给奥哈拉先生吸出什么？我们可以叫他奥哈拉，他们说，嗯，这只是一点,"Bạn đang hút gì ra khỏi ông O'Hara, chúng ta có thể gọi ông ấy là O'Hara, và họ nói, ừm, nó chỉ là"
 6113,他们在显微镜下，所以他们给我拿了一个无菌杯吸出他的东西，我把它带到实验室，开始玩弄它。,"Dưới kính hiển vi nên họ đã đưa cho tôi một cốc vô trùng, hút nó ra và tôi đã mang nó xuống phòng thí nghiệm và bắt đầu nghịch nó."
 6115,他基本上被虫子吃掉了，所以他患上了我们医学上称为广泛性强直性脊柱炎的疾病。,"Anh ta về cơ bản bị giun ăn hết, vì vậy anh ta mắc phải căn bệnh mà chúng tôi gọi trong y học là bệnh Crohn lan tỏa."
-6116,而且那可能是我见过的最稀有的东西之一 哇 那是 那是不可思议的故事 因为那是其中一件第一件事,và đó có lẽ là một trong những điều hiếm hoi nhất mà tôi từng thấy wow đó là đó là một câu chuyện đáng kinh ngạc bởi vì đó là một trong những điều đầu tiên
+6116,而且那可能是我见过的最稀有的东西之一 哇 那是 那是不可思议的故事 因为那是其中一件第一件事,và đó có lẽ là một trong những điều hiếm hoi nhất mà tôi từng thấy  wow  đó là  đó là một câu chuyện đáng kinh ngạc bởi vì đó là một trong những điều đầu tiên
 6117,你在医学院学到的东西我还记得，就像我们最初的几周，是的，结果是，他…,"Những gì bạn học ở trường y, tôi vẫn nhớ, chúng ta đã học điều đó trong vài tuần đầu tiên, phải rồi, và hóa ra là… làm sao anh ấy…"
 6119,他在草地上赤脚行走，但问题是他正在服用皮质类固醇，免疫力低下。,"Anh ấy đi bộ trên cỏ chân đất, nhưng vấn đề là anh ấy đang dùng corticosteroid, anh ấy bị suy giảm miễn dịch."
 6122,我认为最常见的情况可能是由于葡萄球菌或链球菌引起的皮肤感染，这些可能是最常见的。,"Tôi nghĩ trường hợp phổ biến nhất sẽ là một cái gì đó như nhiễm trùng da do tụ cầu khuẩn hoặc liên cầu khuẩn, đó có lẽ là những trường hợp phổ biến nhất."
@@ -341,6 +363,8 @@
 6138,所以我一周工作五天，只拿一半的工资，但因为我喜欢写作，我设法把它扩展成了一整天。,"Vì vậy, tôi nhận được một nửa lương cho nửa ngày làm việc, năm ngày một tuần, nhưng tôi đã xoay sở để kéo dài nó thành một ngày làm việc trọn vẹn vì tôi yêu thích viết."
 6139,像这样的事情，但只是平凡的一天,"Những thứ như vậy, nhưng là một ngày bình thường"
 6140,嗯，如果你想知道，我可能会每周工作 60 个小时，就是这样。,"Ừm, tôi có lẽ sẽ làm việc 60 giờ mỗi tuần nếu đó là điều bạn muốn biết, được rồi."
+6141,我每天早上 4:00 起床，真是太棒了。,"Tôi thức dậy lúc 4 giờ sáng mỗi ngày, thật tuyệt vời."
+6141,你通常几点起床？,Bạn thường thức dậy lúc mấy giờ?
 6141,你睡几个小时？,Bạn ngủ bao nhiêu giờ?
 6142,我通常在晚上9点到9点半之间睡觉。,"Thông thường, tôi đi ngủ khoảng từ 9 giờ đến 9 giờ 30 tối."
 6142,所以我可能睡6个小时。,"Vì vậy, tôi có thể ngủ khoảng 6 tiếng."
@@ -363,7 +387,7 @@
 6156,我医疗团队中的护理团队，我的意思是当我真正看病人的时候，是的，我想应该是传染病研究员,"Nhóm chăm sóc trong nhóm chăm sóc của tôi, ý tôi là khi tôi thực sự khám bệnh nhân, vâng, tôi đoán đó sẽ là các bác sĩ nội trú về bệnh truyền nhiễm"
 6157,谁能告诉我今天要看多少新病人，让我对今天的工作有个概念,Ai có thể cho tôi biết chúng tôi phải khám bao nhiêu bệnh nhân mới để tôi có thể hình dung ngày hôm nay sẽ như thế nào
 6158,现在，这可能会打开,"Và bây giờ, điều này có thể mở ra"
-6159,虽然我有很多患者故事，但我最喜欢的还是关于一个…… 你呢，你最喜欢的患者故事是什么？,"Tôi có rất nhiều câu chuyện về bệnh nhân, nhưng câu chuyện yêu thích của tôi là về... Còn bạn, câu chuyện về bệnh nhân yêu thích của bạn là gì?"
+6159,虽然我有很多患者故事，但我最喜欢的还是关于一个……  你呢，你最喜欢的患者故事是什么？,"Tôi có rất nhiều câu chuyện về bệnh nhân, nhưng câu chuyện yêu thích của tôi là về... Còn bạn, câu chuyện về bệnh nhân yêu thích của bạn là gì?"
 6160,嗯，那个，那个病人的主教更强大，是其中之一。嗯，但我之前也遇到过其他情况，嗯。,"Vâng, cái bệnh nhân có giáo phận mạnh hơn thì là một trong số họ, ờ, nhưng tôi đã từng gặp một số trường hợp khác, ờ..."
 6161,我认为其中一个女人免疫系统受损，她进来了。,Tôi nghĩ một trong số họ là một phụ nữ cũng bị suy giảm miễn dịch và cô ấy đã vào.
 6163,痰液送往实验室进行染色和培养，以及其他类似的检查。,"Đờm được đưa đến phòng thí nghiệm để nhuộm và nuôi cấy, và tất cả mọi thứ như vậy."
@@ -385,7 +409,8 @@
 6187,他们一直在你梦里萦绕，我不会说是萦绕，我需要它，嗯，现在，我认为这是我最喜欢问你的问题，是的，嗯,"Chúng đang ám ảnh giấc mơ của bạn, tôi sẽ không nói là ám ảnh, tôi cần nó, ừm, bây giờ, tôi nghĩ đây là câu hỏi yêu thích của tôi để hỏi bạn, vâng, ừm"
 6188,因为我知道你对医学艺术充满热情，就像你所说，你已经做了很长时间了,"Bởi vì tôi biết bạn rất đam mê nghệ thuật y học, như bạn nói, và bạn đã làm điều này trong một thời gian rồi"
 6189,甚至多次提到，你已经能够把半天时间延长到整天，因为你太喜欢做这件事了,bạn thậm chí đã đề cập nhiều lần rằng bạn đã có thể kéo dài những ngày nửa buổi thành những ngày đầy đủ vì bạn rất thích làm điều đó
-6190,那么，你热爱行医这么久，秘诀是什么呢？嗯，其中一点是解决难题，但,"Vậy bí mật để yêu thích việc hành nghề y trong một thời gian dài như bạn đã làm là gì? Ừm, một điều là giải quyết các câu đố, nhưng"
+6190,那么，你热爱行医这么久，秘诀是什么呢？,Vậy bí mật để yêu thích việc hành nghề y trong một thời gian dài như bạn đã làm là gì?
+6190,嗯，其中一点是解决难题，但,"Ừm, một điều là giải quyết các câu đố, nhưng"
 6191,你知道，我认为真正激励我的是，我热爱人们，我希望他们过得好，我，我,"Bạn biết đấy, tôi nghĩ điều thực sự thúc đẩy tôi là tôi yêu mọi người và tôi muốn họ làm tốt, và tôi, tôi"
 6192,我真的觉得这是上帝希望我做的事情，我认为这是上帝的工作。,"Tôi thực sự cảm thấy rằng đây là điều mà Chúa muốn tôi làm, tôi nghĩ đây là công việc của Chúa."
 6193,而且我感觉我想让他为我感到骄傲，这与爱你的同胞有关。,"Và tôi cảm thấy như muốn khiến anh ấy tự hào về tôi, nó có liên quan đến việc yêu thương đồng loại."
@@ -396,7 +421,7 @@
 6197,但是，如果我自己一个人，我最喜欢做的事情，而且周围没有人，就是去打高尔夫球，我喜欢打高尔夫球。,"Nhưng nếu tôi được tự do, điều tôi thích làm nhất, và khi không có ai ở xung quanh, là đi chơi gôn, tôi yêu gôn."
 6198,我们有六个孩子，三个男孩，三个女孩。,"Chúng tôi có sáu người con, ba trai và ba gái."
 6198,你说你有孩子和孙子，那么你有多少个呢？,"Bạn đã nói rằng bạn có con và cháu, vậy bạn có bao nhiêu người?"
-6199,哇，生了一对双胞胎女孩，太棒了！哈哈，她们真是很棒的女孩，但是...,"Ôi, sinh đôi hai bé gái, tuyệt vời! À, vâng, ding và dong! [Cười] Các con gái thực sự tuyệt vời nhưng ừm..."
+6199,哇，生了一对双胞胎女孩，太棒了！,"Ôi, sinh đôi hai bé gái, tuyệt vời!"
 6200,所以我们有六个孩子，十二个孙辈，还有一个正在路上。,"Vì vậy, chúng tôi có sáu người con và 12 cháu và một đứa đang trên đường đến."
 6201,恭喜，那是我的宝贝女儿，她快要生了，你的家庭正在不断扩大,"Chúc mừng, đó là con gái yêu quý của tôi, con bé sắp sinh, gia đình bạn ngày càng đông"
 6202,你的家人有没有问过你一些随机的医疗建议，哦，是的，是的，我的儿媳妇会打电话给我，还有我的,"Gia đình bạn có bao giờ hỏi bạn về những lời khuyên y tế ngẫu nhiên không? Ồ vâng vâng, con dâu tôi sẽ gọi cho tôi và tôi"
@@ -419,7 +444,8 @@
 6220,如果可以和历史上任何一个人共进晚餐，我想我会选择和……共进晚餐。,"Nếu tôi có thể ăn tối với bất kỳ ai trong lịch sử, tôi nghĩ tôi muốn ăn tối với ..."
 6221,拿撒勒的耶稣，很棒的答案，你们在那顿晚餐上会吃什么？,"Giê-su Nazareth, câu trả lời tuyệt vời và các bạn sẽ ăn gì trong bữa tối đó?"
 6222,我们很可能在那里有面包和鱼，很可能像熟鱼和面包,"Chúng tôi có thể sẽ có bánh mì và cá ở đó, rất có thể là cá nấu chín và bánh mì"
-6223,您有坚持的艺术爱好吗？嗯，我喜欢写作，我喜欢写作,"Và bạn có bất kỳ sở thích nghệ thuật nào mà bạn theo đuổi không? Ờ, tôi thích viết và tôi thích viết"
+6223,嗯，我喜欢写作，我喜欢写作,"Ờ, tôi thích viết và tôi thích viết"
+6223,您有坚持的艺术爱好吗？,Và bạn có bất kỳ sở thích nghệ thuật nào mà bạn theo đuổi không?
 6224,我喜欢写幽默作品，我也喜欢写医学哲学，而且我开始写剧本了，不过还没写完。,"Tôi thích viết hài hước và tôi thích viết về triết học y học, và tôi bắt đầu viết một vở kịch, nó chưa đi xa lắm."
 6227,非天主教徒并不真正理解，而且许多天主教徒也不真正理解他们的天主教信仰,"Những người không phải Công giáo không thực sự hiểu, và nhiều người Công giáo không thực sự hiểu đức tin Công giáo của họ"
 6228,而且很多非天主教徒对天主教的看法非常荒谬。,Và rất nhiều người không phải Công giáo có những ý tưởng về tôn giáo Công giáo hoàn toàn vô lý.
@@ -447,7 +473,7 @@
 6252,嗯，海滩上，你会认为自己更像内向者还是外向者？,"À, ở bãi biển, bạn có xem mình là người hướng nội hơn hay hướng ngoại hơn? Hướng ngoại."
 6253,这肯定是在选择药物时的一个因素，不是专门的传染病，而是因为我喜欢人，我喜欢与人相处。,"Đó chắc chắn là một yếu tố khi chọn ngành y, không phải là bệnh truyền nhiễm cụ thể, mà bởi vì tôi yêu con người, tôi thích ..."
 6254,了解他们和他们的家人，这样我想,"tìm hiểu về họ và gia đình của họ, ờ, và vì vậy, tôi nghĩ"
-6255,他说：“我很高兴，我们在医学方面取得了进展。,"“Tôi rất vui, chúng ta đang tiến bộ tốt trong y học."
+6255,他说：“我很高兴，我们在医学方面取得了进展。,"Anh ấy nói: “Tôi rất vui, chúng ta đang tiến bộ tốt trong y học."
 6255,我们快到最后了，只剩下几个问题了。,"Chúng ta gần đến hồi kết, chỉ còn một vài câu hỏi nữa thôi."
 6255,当然，但是这些问题很重要。,"Chắc chắn rồi, nhưng những câu hỏi này rất quan trọng.”"
 6256,我小时候以为我会去打棒球。,"Khi còn nhỏ, tôi nghĩ mình sẽ chơi bóng chày."
@@ -465,6 +491,7 @@
 6266,我对教学充满热情，我喜欢它。,"Tôi đam mê giảng dạy, tôi yêu thích nó."
 6266,你说过你从小就非常渴望成为一名医生，但我认为任何经历过,"Bạn đã nói rằng bạn rất say mê trở thành bác sĩ từ khi còn nhỏ, nhưng tôi nghĩ bất kỳ ai đã trải qua"
 6267,我的意思是，即使在治疗的开始，我也知道这并不容易。,"Ý tôi là, ngay từ đầu quá trình, tôi biết rằng điều đó không dễ dàng."
+6268,那么，有没有过你怀疑自己能否胜任这个职位的时候？,"Vậy, đã có lúc nào bạn nghi ngờ mình có thể thành công trong vị trí này không?"
 6269,一开始我尝试报读文科专业，因为我的成绩达不到科学预科医学院的录取标准。,Lúc đầu tôi đã thử theo học một chuyên ngành nghệ thuật tự do vì điểm số của tôi không đủ để được nhận vào chương trình tiền y khoa khoa học.
 6271,我读的是预科医学，在大一的时候，到期中考试的时候，有三分之二的科目都挂了。,"Tôi học ngành y dự bị, và tôi đã trượt 3 môn học trong năm nhất của mình ở thời điểm giữa kỳ."
 6272,肺部或胃肠道或胰腺器官，以及胰腺器官，以及胰腺器官，它们起源于这些神经内分泌细胞。,Phổi hoặc đường tiêu hóa hoặc cũng là cơ quan tuyến tụy Và cũng là cơ quan tuyến tụy Và cũng là cơ quan tuyến tụy Và chúng bắt nguồn từ bắt nguồn chúng bắt nguồn từ bắt nguồn chúng bắt nguồn từ bắt nguồn từ các tế bào thần kinh nội tiết này
@@ -478,11 +505,19 @@
 6277,这些肿瘤来自胰腺内分泌细胞，对吧？,"Các tế bào nơi những khối u này đến từ là các tế bào từ tuyến nội tiết của tuyến tụy, phải không?"
 6278,内分泌胰腺非常重要，它实际上是两种器官合二为一。,"Tuyến tụy nội tiết rất quan trọng, nó giống như hai cơ quan trong một."
 6279,它不仅分泌胰液帮助消化，而且也是一个内分泌器官，分泌胰岛素等激素。,"Nó tiết ra dịch tụy để tiêu hóa, nhưng nó cũng là một cơ quan nội tiết, sản xuất các hormone như insulin."
-6280,还有胰岛素的一些。,Và một số insulin. Đúng không?
-6280,还有胰岛素的一些。,Và một số insulin. Đúng không?
+6280,对吧？,Đúng không?
+6280,对吧？,Đúng không?
+6280,对吧？,Đúng không?
+6280,还有胰岛素的一些。,Và một số insulin.
+6280,还有胰岛素的一些。,Và một số insulin.
+6281,嗯，患者会,"Ừm, bệnh nhân sẽ"
 6281,例如，胰腺可以产生胰岛素。,"Ví dụ, tuyến tụy có thể tạo ra insulin."
-6282,嗯，患者会患有综合征。嗯，患者会患有你知道的胰岛素过多，你知道的胰岛素过多，你知道的胰岛素过多，并且可能会出现低血糖。,"Hội chứng. Ừm, bệnh nhân sẽ bị hội chứng. Ừm, bệnh nhân sẽ có, bạn biết đấy, quá nhiều insulin, bạn biết đấy, quá nhiều insulin, bạn biết đấy, quá nhiều insulin, và có thể bị, và có thể bị, và có thể bị hạ đường huyết. Ừm, nhưng"
-6283,嗯，但低血糖。嗯，但是神经内分泌肿瘤，就像我说的，它们实际上可以起源于任何地方。,"Đường huyết thấp. Ừm, nhưng đường huyết thấp. Ừm, nhưng các khối u thần kinh nội tiết, như tôi đã nói, chúng thực sự có thể bắt nguồn từ bất cứ đâu. Ừm, từ"
+6282,嗯，但是,"Ừm, nhưng"
+6282,嗯，患者会患有综合征。,"Hội chứng. Ừm, bệnh nhân sẽ bị hội chứng."
+6282,嗯，患者会患有你知道的胰岛素过多，你知道的胰岛素过多，你知道的胰岛素过多，并且可能会出现低血糖。,"Ừm, bệnh nhân sẽ có, bạn biết đấy, quá nhiều insulin, bạn biết đấy, quá nhiều insulin, bạn biết đấy, quá nhiều insulin, và có thể bị, và có thể bị, và có thể bị hạ đường huyết."
+6283,低血糖。,Đường huyết thấp.
+6283,嗯，但是神经内分泌肿瘤，就像我说的，它们实际上可以起源于任何地方。,"Ừm, nhưng các khối u thần kinh nội tiết, như tôi đã nói, chúng thực sự có thể bắt nguồn từ bất cứ đâu. Ừm, từ"
+6283,嗯，但低血糖。,"Ừm, nhưng đường huyết thấp."
 6284,原发部位可以是任何地方。,Nguồn gốc có thể ở bất cứ đâu.
 6284,典型或我们器官中的一个典型或我们器官中的一个典型或我们器官中的一个是小肠，它通常与类癌相关联。,"Một trong những cơ quan điển hình hoặc cơ quan của chúng ta là cơ quan điển hình hoặc cơ quan của chúng ta là cơ quan điển hình hoặc cơ quan của chúng ta là ruột non, nơi nó thường liên quan đến u tế bào nhỏ."
 6285,它们常与类癌综合征相关，因为它们会产生导致腹泻、潮红和的某些物质。,"Chúng thường liên quan đến hội chứng carcinoid vì chúng cũng tạo ra một số chất dẫn đến tiêu chảy, đỏ bừng và"
@@ -491,23 +526,32 @@
 6288,它们实际上起源于支气管，并且可能导致类似哮喘的症状，对吧？,"Chúng thực sự bắt nguồn từ phế quản, và có thể dẫn đến các triệu chứng giống như hen suyễn, phải không?"
 6289,他们实际上起源于通常产生神经内分泌细胞的那些即将结束的消费者,"Họ thực sự bắt nguồn từ những người tiêu dùng sắp kết thúc, bắt nguồn từ các tế bào thần kinh nội tiết thường"
 6290,通常散布在许多器官中的细胞，我们会在临床上根据器官的不同来区分它们。,"Các tế bào thường được phân tán trong nhiều cơ quan, chúng ta sẽ phân biệt chúng lâm sàng theo cơ quan."
-6292,实际上，可以将其称为胰腺神经内分泌肿瘤、肺神经内分泌肿瘤或肺神经内分泌肿瘤，有时也称为神经内分泌肿瘤。,"Thực tế, nó có thể được gọi là một khối u thần kinh nội tiết tuyến tụy hoặc một khối u thần kinh nội tiết phổi hoặc một khối u thần kinh nội tiết phổi hoặc một người tiêu thụ neuroendo. Đôi khi, người tiêu thụ neuroendo. Đôi khi, người tiêu thụ neuroendo. Đôi khi, thuật ngữ cũng được sử dụng thay thế cho nhau"
-6293,也常互换使用“类癌”一词，它实际上是一个旧词。嗯，但它是一个重要的词，因为,"Cũng có thể thay thế bằng thuật ngữ carcinoid, thực ra là một thuật ngữ cũ. À, nhưng nó là một thuật ngữ quan trọng bởi vì"
+6292,实际上，可以将其称为胰腺神经内分泌肿瘤、肺神经内分泌肿瘤或肺神经内分泌肿瘤，有时也称为神经内分泌肿瘤。,"Thực tế, nó có thể được gọi là một khối u thần kinh nội tiết tuyến tụy hoặc một khối u thần kinh nội tiết phổi hoặc một khối u thần kinh nội tiết phổi hoặc một người tiêu thụ neuroendo. Đôi khi, người tiêu thụ neuroendo."
+6293,嗯，但它是一个重要的词，因为,"À, nhưng nó là một thuật ngữ quan trọng bởi vì"
 6294,然而，他们没有,"Tuy nhiên, họ không có"
 6294,这是一个重要的术语，因为卡森和我基本上说，在显微镜下，它看起来非常像癌症。,"Đây là một thuật ngữ quan trọng bởi vì Carson và tôi về cơ bản nói rằng, dưới kính hiển vi, nó trông rất giống ung thư."
 6295,然而，他们并没有癌症。,"Tuy nhiên, họ không bị ung thư."
+6295,癌症。,Ung thư.
 6295,然而，他们并没有真正表现出这种这种经典的真正这种这种经典的真正这种这种经典的癌性行为，就像我们在许多其他癌症中看到的那样。,"Tuy nhiên, họ không thực sự có hành vi ung thư cổ điển này này hành vi ung thư cổ điển này này hành vi ung thư cổ điển này như chúng ta thấy ở nhiều loại ung thư khác."
 6296,我认为这是对的？,Và tôi nghĩ rằng đó là đúng?
 6296,我认为这是另一个重要的观点，我总是提到，如果你，为了,"Và tôi nghĩ rằng đó là một điểm quan trọng khác mà tôi luôn đề cập nếu bạn, để"
 6296,与许多其他癌症一样，对吧？,"giống như nhiều loại ung thư khác, với nhiều loại ung thư khác, phải không?"
-6297,总是提到如果你，例如，你看看客人的例子，你看看客人的例子，你看看特斯拉路上的客人。嗯，当我们在特斯拉路上的时候。嗯，当我们在特斯拉路上的时候。,"Luôn đề cập nếu bạn, ví dụ, bạn xem xét ví dụ về khách, bạn xem xét ví dụ về khách, bạn xem xét khách trên tuyến đường Tesla. Ừm, khi chúng ta ở trên tuyến đường Tesla. Ừm, khi chúng ta ở trên tuyến đường Tesla. Ừm, khi chúng ta ở trên tuyến đường Tesla. Ừm, khi chúng ta nghĩ về Kansas và cách"
+6297,嗯，当我们在特斯拉路上的时候。,"Ừm, khi chúng ta ở trên tuyến đường Tesla."
+6297,嗯，当我们在特斯拉路上的时候。,"Ừm, khi chúng ta ở trên tuyến đường Tesla."
+6297,嗯，当我们在特斯拉路上的时候。,"Ừm, khi chúng ta ở trên tuyến đường Tesla."
+6297,总是提到如果你，例如，你看看客人的例子，你看看客人的例子，你看看特斯拉路上的客人。,"Luôn đề cập nếu bạn, ví dụ, bạn xem xét ví dụ về khách, bạn xem xét ví dụ về khách, bạn xem xét khách trên tuyến đường Tesla."
+6297,嗯，当我们想到堪萨斯州以及如何,"Ừm, khi chúng ta nghĩ về Kansas và cách"
 6298,想想堪萨斯州，以及堪萨斯州的常见程度，我们认为它们在两个方面都很常见，即事件，意味着有多少患者,"Hãy nghĩ về Kansas và mức độ phổ biến của chúng, chúng ta nghĩ về chúng theo hai thuật ngữ, đó là các sự cố, có nghĩa là, có bao nhiêu bệnh nhân"
 6299,意思是，每年有多少患者被诊断出患有某种疾病，例如，另一种术语患病率是多少？,"Nói cách khác, có bao nhiêu bệnh nhân được chẩn đoán mỗi năm mắc một bệnh nhất định, hoặc ví dụ, tỷ lệ mắc bệnh là bao nhiêu?"
+6300,并且,Và
 6300,另一个术语的患病率，另一个术语的患病率是指在特定时间点有多少人患有某种疾病，对吧？,"Sự phổ biến của thuật ngữ khác là sự phổ biến của thuật ngữ khác, nghĩa là có bao nhiêu người đang sống ở một thời điểm nào đó với một bệnh nhất định, phải không?"
 6301,某些疾病，对吧？,"Một số bệnh, phải không?"
-6301,而且它们实际上在结肠后，实际上在结肠后，实际上在结肠后，是癌症，最常见的癌症，最常见的癌症，最常见的癌症。这也告诉你癌症。,"Và chúng thực sự sau đại tràng, chúng thực sự sau đại tràng, chúng thực sự sau đại tràng, ung thư, ung thư phổ biến nhất, ung thư phổ biến nhất, những loại ung thư phổ biến nhất. Điều đó cũng cho bạn biết ung thư. Điều đó cũng cho bạn biết"
+6301,这也告诉你癌症。,Điều đó cũng cho bạn biết ung thư.
 6301,还有某些疾病，对吧？,"Và một số bệnh, phải không?"
-6302,这也告诉您，患有神经内分泌肿瘤的患者通常比患有其他癌症的患者预后好得多。,Ung thư. Điều đó cũng cho bạn biết rằng những bệnh nhân bị u thần kinh nội tiết thường khỏe hơn nhiều so với những bệnh nhân bị các loại ung thư khác.
+6301,而且它们实际上在结肠后，实际上在结肠后，实际上在结肠后，是癌症，最常见的癌症，最常见的癌症，最常见的癌症。,"Và chúng thực sự sau đại tràng, chúng thực sự sau đại tràng, chúng thực sự sau đại tràng, ung thư, ung thư phổ biến nhất, ung thư phổ biến nhất, những loại ung thư phổ biến nhất."
+6301,这也告诉你,Điều đó cũng cho bạn biết
+6302,癌症。,Ung thư.
+6302,这也告诉您，患有神经内分泌肿瘤的患者通常比患有其他癌症的患者预后好得多。,Điều đó cũng cho bạn biết rằng những bệnh nhân bị u thần kinh nội tiết thường khỏe hơn nhiều so với những bệnh nhân bị các loại ung thư khác.
 6303,虽然那是肿瘤。,Mặc dù đó là khối u.
 6303,虽然那是肿瘤。,Mặc dù đó là khối u.
 6303,比其他肿瘤好很多。,làm tốt hơn nhiều so với các khối u khác.
@@ -523,12 +567,19 @@
 6309,我认为其中一个问题。,Tôi nghĩ một trong những câu hỏi.
 6309,我认为我告诉患者的最主要的事情是，我告诉患者的最主要的事情是，我告诉患者的最主要的事情是，我的意思是，作为埃尔莎医生,"Tôi nghĩ một trong những điều chính tôi nói với bệnh nhân là, những điều chính tôi nói với bệnh nhân là, những điều chính tôi nói với bệnh nhân là, ý tôi là, với tư cách là Bác sĩ Elsa"
 6310,我的意思是，就像艾尔莎医生提到的，这些肿瘤可能发生在身体的任何部位，所以我们的第一个问题是,"Ý tôi là, như Tiến sĩ Elsa đã đề cập, những khối u này có thể phát sinh từ bất kỳ bộ phận nào của cơ thể, vì vậy câu hỏi đầu tiên chúng ta"
-6311,身体，所以我们问的第一个问题是，它从哪里来？嗯，很多时候，我们可以真正找到它的来源。,"cơ thể, vì vậy câu hỏi đầu tiên chúng tôi đặt ra là, nó đến từ đâu? Ờ, rất nhiều lần, chúng tôi có thể thực sự tìm ra nó đến từ đâu."
+6311,身体，所以我们问的第一个问题是，它从哪里来？,"cơ thể, vì vậy câu hỏi đầu tiên chúng tôi đặt ra là, nó đến từ đâu?"
+6311,嗯，很多时候，我们可以真正找到它的来源。,"Ờ, rất nhiều lần, chúng tôi có thể thực sự tìm ra nó đến từ đâu."
+6312,因为,Bởi vì
 6312,所以，位置是关键。,"Vì vậy, vị trí là chìa khóa."
 6312,真的要弄清楚它的来源，但有时我们不知道它的来源。,"Thật sự cần phải tìm ra nguồn gốc của nó, nhưng có những lúc chúng ta không biết nó đến từ đâu."
-6313,位置是关键。因为位置是关键。因为三个总体和三个总体和三个总体，以及管理是，这是，有管理是，这是，有,"Vị trí là chìa khóa. À, bởi vì vị trí là chìa khóa. À, bởi vì ba tổng thể và ba tổng thể và ba tổng thể, và quản lý là, là điều này, có quản lý là, là điều này, có"
-6314,管理方面有一些相似之处，但也有一些差异，具体取决于来源。嗯，还有来源。,"Có những điểm tương đồng trong quản lý, nhưng cũng có những khác biệt, tùy thuộc vào nguồn gốc. Ờm, và nguồn gốc. Ờm, và"
-6315,我问自己，它来自哪里？嗯，然后第二件事我，我告诉病人，这是，我，病人中的一件事，这是，我，病人中的一件事，这是，我，我问自己的主要问题之一，当,"nó đến từ đâu. Ờm, và sau đó điều thứ hai tôi, tôi nói với bệnh nhân, nó là, tôi, một trong những bệnh nhân, nó là, tôi, một trong những bệnh nhân, nó là, tôi, một trong những điều chính tôi tự hỏi, khi"
+6313,位置是关键。,Vị trí là chìa khóa.
+6313,因为三个总体和三个总体和三个总体，以及管理是，这是，有管理是，这是，有,"À, bởi vì ba tổng thể và ba tổng thể và ba tổng thể, và quản lý là, là điều này, có quản lý là, là điều này, có"
+6313,因为位置是关键。,"À, bởi vì vị trí là chìa khóa."
+6314,管理方面有一些相似之处，但也有一些差异，具体取决于来源。,"Có những điểm tương đồng trong quản lý, nhưng cũng có những khác biệt, tùy thuộc vào nguồn gốc."
+6314,嗯，还有,"Ờm, và"
+6314,嗯，还有来源。,"Ờm, và nguồn gốc."
+6315,嗯，然后第二件事我，我告诉病人，这是，我，病人中的一件事，这是，我，病人中的一件事，这是，我，我问自己的主要问题之一，当,"Ờm, và sau đó điều thứ hai tôi, tôi nói với bệnh nhân, nó là, tôi, một trong những bệnh nhân, nó là, tôi, một trong những bệnh nhân, nó là, tôi, một trong những điều chính tôi tự hỏi, khi"
+6316,当我遇到神经系统疾病患者时，我总是问自己，也总是告诉患者以下问题：,"Những điều chính tôi tự hỏi bản thân khi tôi gặp một bệnh nhân bị tổn thương thần kinh, đó là những điều tôi luôn nói với bệnh nhân:"
 6317,我问病理学家，我问病理学家，我问病理学家，这些癌细胞在显微镜下是什么样子的？,"Tôi hỏi nhà bệnh lý học, tôi hỏi nhà bệnh lý học, tôi hỏi nhà bệnh lý học, những tế bào ung thư này trông như thế nào dưới kính hiển vi?"
 6318,这些癌细胞在形状上看起来像身体中的正常细胞吗？我们称之为良好的形状。,"Những tế bào ung thư này có giống với các tế bào bình thường trong cơ thể về hình dạng, điều mà chúng ta gọi là hình dạng tốt không?"
 6319,形状，这就是我们所说的良好区分神经和区分神经和区分神经和消费者或它们看起来很丑陋，消费者或它们看起来很丑陋，消费者或它们看起来很丑陋，大或小，侵略性，大或小，侵略性，,"Hình dạng, đó là những gì chúng ta gọi là sự phân biệt tốt giữa thần kinh và sự phân biệt thần kinh và sự phân biệt thần kinh và người tiêu dùng hoặc chúng trông xấu xí, người tiêu dùng hoặc chúng trông xấu xí, người tiêu dùng hoặc chúng trông xấu xí, lớn hoặc nhỏ, hung hăng, lớn hoặc nhỏ, hung hăng,"
@@ -544,10 +595,13 @@
 6326,所以，我一直告诉患者，你可以想象,"Vì vậy, tôi luôn nói với bệnh nhân rằng bạn có thể tưởng tượng rằng"
 6326,并根据这个百分比，我们可以将其评定为一级、二级或三级。,"Và dựa trên điều đó, chúng ta có thể xếp hạng một, hai hoặc ba."
 6328,区分北方消费者最终获得二等，然后三等，二等，然后三等，然后三等，然后最终获得最高等级,"Khách hàng phía bắc được phân biệt cuối cùng nhận được hạng hai, sau đó hạng ba, sau đó hạng hai, sau đó hạng ba, sau đó hạng ba, và cuối cùng nhận được hạng cao nhất"
-6329,然后最终达到最高等级的是三级。较差等级为三级。,sau đó kết thúc ở mức độ cao nhất là cấp ba. Độ kém là cấp ba. Độ kém là cấp ba.
+6329,较差等级为三级。,Độ kém là cấp ba.
+6329,较差等级为三级。,Độ kém là cấp ba.
+6329,然后最终达到最高等级的是三级。,sau đó kết thúc ở mức độ cao nhất là cấp ba.
 6330,因此，在那时，这种区别很重要，因为跨越整个范围的管理也很重要。,"Vì vậy, ở thời điểm đó, sự phân biệt này rất quan trọng bởi vì việc quản lý trên toàn bộ phổ cũng rất quan trọng."
 6330,我们在那时开始称之为癌。,Chúng tôi bắt đầu gọi đó là ung thư ở thời điểm đó.
-6331,跨越整个范围，跨越整个范围是不同的。我们讨论的另一件事是阶段。,Trên toàn bộ quang phổ là trên toàn bộ quang phổ là khác nhau. Điều khác mà chúng ta thảo luận là giai đoạn.
+6331,所以,Vì vậy
+6331,我们讨论的另一件事是阶段。,Điều khác mà chúng ta thảo luận là giai đoạn.
 6332,所以我们已经了解到有一些东西我们已经了解到有一些东西我们已经了解到有一些东西叫做分级，它是在叫做分级，它是在叫做分级，它是在显微镜下，然后显微镜下，然后,"Vì vậy, chúng tôi đã học được rằng có một cái gì đó chúng tôi đã học được rằng có một cái gì đó chúng tôi đã học được rằng có một cái gì đó được gọi là cấp độ, được xếp dưới được gọi là cấp độ, được xếp dưới được gọi là cấp độ, được xếp dưới kính hiển vi, sau đó kính hiển vi, sau đó"
 6333,显微镜，然后是载玻片，问题是载玻片，问题是载玻片，问题是，这种癌症是否转移了，这种癌症是否转移了，这种癌症是否转移了，还是离开了原位？,"kính hiển vi, và sau đó là bục, câu hỏi là bục, câu hỏi là bục, câu hỏi là, ung thư này đã di căn chưa, ung thư này đã di căn chưa, ung thư này đã di căn chưa, hoặc đã rời khỏi vị trí ban đầu?"
 6334,或者它离开了原来的位置，或者它离开了原来的位置，例如，假设它来自胰腺。,"Hoặc nó đã rời khỏi vị trí ban đầu, hoặc nó đã rời khỏi vị trí ban đầu, ví dụ, giả sử nó đến từ tuyến tụy."
@@ -564,6 +618,7 @@
 6336,而且通常我们那样还是那样。,Và thường chúng ta có hoặc không.
 6336,所以通过扫描来确定。,Vì vậy xác định điều đó bằng cách quét.
 6336,所以通过扫描来确定。,Vì vậy xác định điều đó bằng cách quét.
+6336,当,Khi
 6336,是那样还是那样。,Có hoặc không.
 6337,一、二、三或四。,"Một, hai, ba hoặc bốn."
 6337,当它已经扩散时，这就是已经扩散了，这就是已经扩散了，这就是我们称之为四期癌症。,"Khi nó đã lan rộng, đó là nó đã lan rộng, đó là nó đã lan rộng, đó là những gì gọi là ung thư giai đoạn bốn. Gọi là ung thư giai đoạn bốn."
@@ -580,11 +635,14 @@
 6348,我认为，以及它从哪里来。,Tôi nghĩ và nó đến từ đâu
 6348,它是否工作正常，以及舞台是否扩散。,Nó có hoạt động hay không và sân khấu có lan rộng hay không.
 6349,思考它来自哪里，这些主要的东西来自哪里，这些主要的东西非常重要，需要知道。,"Hãy suy nghĩ và nơi nó đến, những điều chính đó đến từ, những điều chính đó rất quan trọng để biết."
-6350,啊，科伊肯医生，神经内分泌肿瘤是如何诊断的？好的，所以,"Cảm ơn. À, Bác sĩ Koiken, khối u thần kinh nội tiết được chẩn đoán như thế nào? Được rồi, vậy"
-6351,肿瘤诊断了吗？好的，这是一个很好的问题。,"U bướu được chẩn đoán? Được rồi, đó là một câu hỏi tuyệt vời."
+6350,谢谢。,Cảm ơn.
+6350,好的，所以,"Được rồi, vậy"
+6350,啊，科伊肯医生，神经内分泌肿瘤是如何诊断的？,"À, Bác sĩ Koiken, khối u thần kinh nội tiết được chẩn đoán như thế nào?"
+6351,好的，这是一个很好的问题。,"Được rồi, đó là một câu hỏi tuyệt vời."
 6351,嗯，很多时候，他们不是很多时候，他们不是很多时候，他们不是在一段时间内被诊断出来的，,"Chà, rất nhiều lần, chúng không phải là rất nhiều lần, chúng không phải là rất nhiều lần, chúng không được chẩn đoán trong một thời gian khá dài,"
 6351,嗯，这是一个很好的问题。,"Chà, đó là một câu hỏi tuyệt vời."
 6351,嗯，这是一个很好的问题。,"Chà, đó là một câu hỏi tuyệt vời."
+6351,肿瘤诊断了吗？,U bướu được chẩn đoán?
 6352,所以，正如我们之前所说，他们是,"Vì vậy, như chúng tôi đã nói trước đây, họ là"
 6352,他被诊断已有一段时间了，不幸的是，因为他有点像斑马。,"Anh ấy đã được chẩn đoán trong một thời gian dài, thật không may, bởi vì anh ấy hơi giống một con ngựa vằn."
 6353,就像我们之前所说，它们是内分泌肿瘤，它们是内分泌肿瘤，它们是内分泌肿瘤，它们是功能性的，因此它们是功能性的，因此它们是功能性的，因此它们是产生激素的，因此它们是产生激素的，因此它们是产生激素的。,"Như chúng tôi đã nói trước đây, chúng là các khối u nội tiết, chúng là các khối u nội tiết, chúng là các khối u nội tiết, chúng hoạt động, vì vậy chúng hoạt động, vì vậy chúng hoạt động, vì vậy chúng sản xuất hormone, vì vậy chúng sản xuất hormone, vì vậy chúng sản xuất hormone."
@@ -600,12 +658,16 @@
 6361,网络研讨会，因为我认为这会将整个神经内分泌肿瘤话题提升到我们患者的层面,Hội thảo trên web vì tôi nghĩ rằng điều đó sẽ nâng cao toàn bộ chủ đề về khối u thần kinh nội tiết cho bệnh nhân của chúng tôi
 6363,这也是这样。,Điều này cũng vậy.
 6363,可以被诊断出来。,Có thể được chẩn đoán.
+6363,有,Có
 6363,但是，这样，这就是这样。,"Nhưng như vậy, như vậy, đây cũng là điều đó."
 6363,但是，这样，这是一种方法，阿妮特可以是一种方法，阿妮特可以是一种方法，阿妮特可以被诊断出来。,"Nhưng như vậy, như vậy, đó là một cách như thế nào Annette có thể một cách như thế nào Annette có thể một cách như thế nào Annette có thể được chẩn đoán."
 6364,可以诊断。,Có thể được chẩn đoán.
-6364,再说一次，这可能不是大多数。,"Một lần nữa, nó có lẽ không phải là đa số. Ừm"
+6364,再说一次，这可能不是大多数。,"Một lần nữa, nó có lẽ không phải là đa số."
 6364,有些神经鞘瘤会引起症状。,Có một số khối u thần kinh gây ra các triệu chứng.
-6365,可能不是大多数。嗯，可能不是大多数。嗯，但是例如，如果你，但是例如，如果你，但是例如，如果你有一个小的内分泌肿瘤，有一个小的内分泌肿瘤，有一个小的内分泌肿瘤，它足够大，所以它,"có lẽ không phải là phần lớn. Ừm, có lẽ không phải là phần lớn. Ừm, nhưng ví dụ, một lần nữa, nếu bạn, nhưng ví dụ, một lần nữa, nếu bạn, nhưng ví dụ, một lần nữa, nếu bạn có một khối u nội tiết nhỏ, có một khối u nội tiết nhỏ, có một khối u nội tiết nhỏ đủ lớn để"
+6364,嗯,Ừm
+6365,可能不是大多数。,có lẽ không phải là phần lớn.
+6365,嗯，可能不是大多数。,"Ừm, có lẽ không phải là phần lớn."
+6365,嗯，但是例如，如果你，但是例如，如果你，但是例如，如果你有一个小的内分泌肿瘤，有一个小的内分泌肿瘤，有一个小的内分泌肿瘤，它足够大，所以它,"Ừm, nhưng ví dụ, một lần nữa, nếu bạn, nhưng ví dụ, một lần nữa, nếu bạn, nhưng ví dụ, một lần nữa, nếu bạn có một khối u nội tiết nhỏ, có một khối u nội tiết nhỏ, có một khối u nội tiết nhỏ đủ lớn để"
 6367,他小肠阻塞或导致出血，所以你或导致出血，所以你或导致出血，所以你就会便血就会便血,"tắc nghẽn ruột non của anh ấy hoặc nó gây chảy máu, vì vậy bạn hoặc nó gây chảy máu, vì vậy bạn hoặc nó gây chảy máu, vì vậy bạn sẽ có máu trong phân sẽ có máu trong phân"
 6368,你知道，那些也是可能发生的。,"Bạn biết đấy, những cái đó cũng có thể xảy ra."
 6368,它们也可能发生。,Chúng có thể xảy ra.
@@ -631,17 +693,19 @@
 6379,因此，一旦诊断做出，通常情况下诊断是通过活检或通过有时进行的特殊,"Vì vậy, một khi chẩn đoán được đưa ra, và thường là chẩn đoán được đưa ra và thường là chẩn đoán được đưa ra và thường là nó được đưa ra thông qua sinh thiết hoặc nó được đưa ra thông qua sinh thiết hoặc nó được đưa ra thông qua sinh thiết hoặc thông qua đôi khi một"
 6380,就像 PET 扫描，被称为多罗特 PET 扫描，对神经内分泌消费者高度敏感，但一旦,"Giống như chụp PET, được gọi là chụp PET Dorotate, rất nhạy cảm đối với người tiêu dùng thần kinh nội tiết, nhưng một khi"
 6381,但是，一旦诊断做出，我们就谈论分期，就像我们谈论分期一样。,"Tuy nhiên, một khi chẩn đoán được đưa ra, chúng ta sẽ nói về giai đoạn, giống như chúng ta nói về giai đoạn."
-6382,关于分期，就像我们之前简要提到的，是为了简要提到的，为了简要提到的，为了尝试理解，肿瘤是否局限？嗯，它可以,"Về giai đoạn, như chúng ta đã đề cập ngắn gọn trước đó, để đề cập ngắn gọn trước đó, để đề cập ngắn gọn trước đó, để cố gắng hiểu, khối u có khu trú không? Ừm, và nó có thể"
-6383,它可以被定位吗？嗯，它可以被手术切除吗？或者它是被手术切除的？,"Có thể định vị được không? Ừm, và nó có thể được định vị được không? Ừm, và nó có thể được loại bỏ bằng phẫu thuật, hoặc nó được loại bỏ bằng phẫu thuật, hoặc nó được loại bỏ bằng phẫu thuật, hoặc nó là, lan rộng hơn, vượt quá, của, lan rộng hơn, vượt quá,"
+6382,嗯，它可以,"Ừm, và nó có thể"
+6383,它可以被定位吗？,Có thể định vị được không?
+6383,或者它是被手术切除的？或者它是被手术切除的？或者它是，进一步扩散，超越，,"Ừm, và nó có thể được loại bỏ bằng phẫu thuật, hoặc nó được loại bỏ bằng phẫu thuật, hoặc nó được loại bỏ bằng phẫu thuật, hoặc nó là, lan rộng hơn, vượt quá, của, lan rộng hơn, vượt quá,"
 6384,此外，它还蔓延到开始的地方以外，并且对于开始的地方，并且对于开始的地方，并且为了这一点，有很多，有很多,"Hơn nữa, nó lan rộng ra ngoài nơi nó bắt đầu, và đối với nơi nó bắt đầu, và đối với nơi nó bắt đầu, và đối với điều đó, có rất nhiều điều đó, có rất nhiều"
 6385,是的，有很多治疗方法，我们肯定会在稍后讨论，但我认为关于神经内分泌肿瘤的一般概念是，,"Vâng, có rất nhiều liệu pháp, chúng ta chắc chắn sẽ thảo luận về chúng sau, nhưng tôi nghĩ khái niệm chung về cách thức các khối u thần kinh nội tiết,"
-6386,神经内分泌肿瘤的诊断方法很多。有时是偶然发现的，比如在进行其他检查时发现肿瘤。,"U khối nội tiết thần kinh được chẩn đoán bằng nhiều cách khác nhau. Đôi khi, chúng được phát hiện tình cờ, chẳng hạn như trong quá trình kiểm tra cho các lý do khác."
+6386,神经内分泌肿瘤的诊断方法很多。,U khối nội tiết thần kinh được chẩn đoán bằng nhiều cách khác nhau.
 6387,偶然地，因为你做了一个扫描检查，是为了其他原因，扫描检查是为了其他原因，扫描检查是为了其他原因，因为你有症状，是因为你有症状，是因为你有症状，要么是由于激素,"Ngẫu nhiên, bởi vì bạn nhận được một lần quét cho một cái gì đó khác, quét cho một cái gì đó khác, quét cho một cái gì đó khác, bởi vì bạn có các triệu chứng, bởi vì bạn có các triệu chứng, bởi vì bạn có các triệu chứng, đó là do hormone"
 6388,要么是由于激素分泌引起的，要么是由于激素分泌引起的，要么是由于激素分泌引起的，要么是由于阻塞引起的，要么是肿瘤引起的某些问题。,"hoặc là do sản xuất hormone, hoặc là do các triệu chứng do sản xuất hormone, hoặc là do các triệu chứng do sản xuất hormone, hoặc là do tắc nghẽn, hoặc là do khối u gây ra một số vấn đề."
 6389,肿瘤引起了一些局部问题，会导致疼痛或体重减轻等。,"Khối u gây ra một số vấn đề cục bộ có thể gây ra đau hoặc sụt cân, v.v."
 6390,非常感谢您。,Cảm ơn bạn rất nhiều.
 6390,休斯医生，您能解释一下什么是多学科团队吗？,"Bác sĩ Hughes, bạn có thể giải thích cho tôi biết đội ngũ đa ngành là gì không?"
-6391,多学科团队是什么，多学科团队是什么，以及团队如何就患者的治疗进行沟通。,"Đội ngũ đa ngành là gì, và đội ngũ đa ngành là gì, và cách đội ngũ giao tiếp về cách đội ngũ giao tiếp về cách đội ngũ giao tiếp về việc chăm sóc bệnh nhân. Điều gì xảy ra Điều gì xảy ra Điều gì xảy ra trong hội nghị chuyên khoa ung thư? Bệnh nhân"
+6391,患者,Bệnh nhân
+6391,多学科团队是什么，多学科团队是什么，以及团队如何就患者的治疗进行沟通。,"Đội ngũ đa ngành là gì, và đội ngũ đa ngành là gì, và cách đội ngũ giao tiếp về cách đội ngũ giao tiếp về cách đội ngũ giao tiếp về việc chăm sóc bệnh nhân."
 6392,患者可以参加肿瘤委员会的讨论吗？,Bệnh nhân có thể tham dự các cuộc thảo luận của hội đồng ung thư không?
 6392,是的，所以多学科肿瘤委员会讨论。,"Vâng, vì vậy các hội đồng ung thư đa ngành."
 6393,多学科肿瘤委员会非常重要。,Các hội đồng ung thư đa ngành rất quan trọng.
@@ -659,18 +723,22 @@
 6401,对于患者来说，没有一个标准的正确答案。,Không có câu trả lời đúng nào cho bệnh nhân.
 6401,他们可以讨论患者。,Họ có thể nói về bệnh nhân.
 6401,他们可以讨论患者。,Họ có thể nói về bệnh nhân.
-6402,权衡所有方案的利弊，达成共识。嗯，但总的来说，这很重要，因为它,"Cân nhắc những ưu điểm và nhược điểm của tất cả chúng và đưa ra một sự đồng thuận. À, nhưng nhìn chung, điều này rất quan trọng bởi vì"
+6402,嗯，但总的来说，这很重要，因为它,"À, nhưng nhìn chung, điều này rất quan trọng bởi vì"
 6403,这很重要，因为它允许每个人查看整个病例，审查病理学，确保你,"Điều này rất quan trọng bởi vì nó cho phép mọi người xem xét toàn bộ trường hợp, xem xét lại toàn bộ trường hợp, xem xét lại bệnh lý, đảm bảo rằng bạn"
 6404,病理学，确保你理解等级，无论是高等级还是低等级，以及起作用，你知道，就像一个,"Bệnh lý học, hãy chắc chắn rằng bạn hiểu độ phân loại, cho dù đó là độ phân loại cao hay thấp, và hành động, bạn biết đấy, giống như một"
-6406,这是侵略性癌症，所以它允许每个人对他们认为治疗患者的最佳方法发表意见。嗯，我认为,"Đây là một loại ung thư hung hăng và điều đó cho phép tất cả mọi người đưa ra ý kiến ​​của họ về cách điều trị tốt nhất cho bệnh nhân. Ừm, tôi nghĩ"
-6407,治疗病人。嗯，我认为治疗病人。嗯，我认为是另一部分，是另一部分，是另一部分，当你选择的时候很重要，当你选择的时候很重要，当你选择的时候很重要，外科医生，这部分是,"để điều trị bệnh nhân. Ừm, tôi nghĩ để điều trị bệnh nhân. Ừm, tôi nghĩ đó là phần khác mà nó quan trọng khi bạn chọn quan trọng khi bạn chọn quan trọng khi bạn chọn bác sĩ phẫu thuật và điều này một phần là"
+6406,嗯，我认为,"Ừm, tôi nghĩ"
+6406,这是侵略性癌症，所以它允许每个人对他们认为治疗患者的最佳方法发表意见。,Đây là một loại ung thư hung hăng và điều đó cho phép tất cả mọi người đưa ra ý kiến ​​của họ về cách điều trị tốt nhất cho bệnh nhân.
+6407,嗯，我认为治疗病人。,"Ừm, tôi nghĩ để điều trị bệnh nhân."
+6407,治疗病人。,để điều trị bệnh nhân.
+6407,嗯，我认为是另一部分，是另一部分，是另一部分，当你选择的时候很重要，当你选择的时候很重要，当你选择的时候很重要，外科医生，这部分是,"Ừm, tôi nghĩ đó là phần khác mà nó quan trọng khi bạn chọn quan trọng khi bạn chọn quan trọng khi bạn chọn bác sĩ phẫu thuật và điều này một phần là"
 6408,外科医生，这在一定程度上是因为美国内分泌外科医生协会拥有庞大的人口，你知道,"các bác sĩ phẫu thuật, và một phần là do Hiệp hội Phẫu thuật Nội tiết Hoa Kỳ có một dân số lớn, bạn biết đấy"
 6409,你知道，有很多非常优秀的、对神经内分泌肿瘤有深入了解的外科医生。,"Bạn biết đấy, có rất nhiều bác sĩ phẫu thuật có trình độ cao, những người có rất nhiều kiến thức về U tế bào nội tiết thần kinh, và vì vậy tôi..."
 6410,神经内分泌肿瘤，所以我认为当你去看神经内分泌肿瘤专科医生时，重要的是,"U bướu nội tiết thần kinh, và vì vậy tôi nghĩ rằng điều quan trọng là khi bạn đi khám chuyên khoa về u bướu nội tiết thần kinh, bạn"
 6411,神经内分泌肿瘤，您需要确保他们有一些基本知识，因为没有成千上万的人像我们一样做。,"U bướu nội tiết thần kinh, bạn cần đảm bảo rằng họ có một số kiến thức cơ bản, bởi vì không có hàng ngàn người như chúng ta làm được điều đó."
 6412,不是我们中的数千人，不是我们中的数千人，而是我们这样做，而是有足够多的人，而是有足够多的人，而是有足够多的人，遍布全国，你可以，遍布全国，你可以，遍布全国，你可以得到真正好的照护，无论是在,"Không phải hàng ngàn người trong chúng ta không phải hàng ngàn người trong chúng ta làm điều này, nhưng có đủ, nhưng có đủ, nhưng có đủ trên khắp đất nước để bạn có thể, trên khắp đất nước để bạn có thể, trên khắp đất nước để bạn có thể nhận được sự chăm sóc thực sự tốt trong cả"
+6413,谢谢。,Cảm ơn bạn.
 6413,在两个州都获得非常好的医疗服务。,Nhận được sự chăm sóc thực sự tốt ở cả hai bang.
-6413,嗯，尹小姐，患有神经内分泌肿瘤会怎样？,"Cảm ơn bạn. Ừm, Cô Yin, việc có một khối u thần kinh nội tiết sẽ như thế nào?"
+6413,嗯，尹小姐，患有神经内分泌肿瘤会怎样？,"Ừm, Cô Yin, việc có một khối u thần kinh nội tiết sẽ như thế nào?"
 6414,他们还能工作、旅行、锻炼和其他活动吗？,"Họ có thể làm việc, đi du lịch, tập thể dục và làm những việc khác không?"
 6414,患有神经内分泌肿瘤会影响患者的生活吗？,Bị u nội tiết thần kinh có ảnh hưởng đến cuộc sống của bệnh nhân không?
 6415,谢谢您提出这个问题。,Cảm ơn bạn đã đặt câu hỏi này.
@@ -681,20 +749,28 @@
 6418,它如何影响一个人的生活？,Nó ảnh hưởng đến cuộc sống của một người như thế nào?
 6418,这一切都取决于很多因素。,Tất cả phụ thuộc vào rất nhiều yếu tố.
 6418,这一切都取决于很多因素。,Tất cả phụ thuộc vào rất nhiều yếu tố.
+6418,真的吗？,Thật sao?
+6418,真的吗？,Thật sao?
+6418,真的吗？,Thật sao?
 6418,这取决于很多因素。,Nó phụ thuộc vào rất nhiều yếu tố.
-6418,它是一个人的生活？,Thật sao? Cuộc sống của một người?
-6418,它是一个人的生活？,Thật sao? Cuộc sống của một người?
+6418,它是一个人的生活？,Cuộc sống của một người?
+6418,它是一个人的生活？,Cuộc sống của một người?
 6418,它如何影响亲人。,Nó ảnh hưởng đến những người thân yêu như thế nào.
+6418,亲人。,Những người thân yêu.
 6419,Sombal 医生和 Koiken 医生都描述得很详细。,Bác sĩ Sombal và bác sĩ Koiken đã mô tả rất tốt.
+6421,嗯，但这些只是医疗因素。,"À, nhưng đó chỉ là những yếu tố y tế."
 6421,那些医疗因素。,Những yếu tố y tế đó.
-6421,人们会经历什么症状，治疗类型，经历，治疗类型，经历，治疗类型等等。嗯，但这些只是等等。,"Những triệu chứng mà mọi người gặp phải, loại hình điều trị, kinh nghiệm, loại hình điều trị, kinh nghiệm, loại hình điều trị, v.v. À, nhưng đó chỉ là v.v. À, nhưng đó chỉ là v.v. À, nhưng đó chỉ là những yếu tố y tế."
+6421,人们会经历什么症状，治疗类型，经历，治疗类型，经历，治疗类型等等。,"Những triệu chứng mà mọi người gặp phải, loại hình điều trị, kinh nghiệm, loại hình điều trị, kinh nghiệm, loại hình điều trị, v.v."
 6422,这甚至没有提到人们经历的压力、焦虑、抑郁和创伤。,"Điều đó thậm chí không đề cập đến căng thẳng, lo lắng, trầm cảm và sang chấn mà mọi người phải trải qua."
 6423,所以我丈夫，一个人的能力。,"Vì vậy, chồng tôi đến khả năng của một người."
 6423,所以我丈夫，一个人的能力。,"Vì vậy, chồng tôi đến khả năng của một người."
-6423,以及创伤对人们的影响。嗯，所有这些都会影响嗯，所有这些都会影响嗯，所有这些都会影响一个人的能力。,"và những chấn thương mà mọi người trải qua. Ừm, và tất cả những điều đó ảnh hưởng Ừm, và tất cả những điều đó ảnh hưởng Ừm, và tất cả những điều đó ảnh hưởng đến khả năng của một người."
+6423,嗯，所有这些都会影响嗯，所有这些都会影响嗯，所有这些都会影响一个人的能力。,"Ừm, và tất cả những điều đó ảnh hưởng Ừm, và tất cả những điều đó ảnh hưởng Ừm, và tất cả những điều đó ảnh hưởng đến khả năng của một người."
 6423,所以我丈夫，我和他喜欢这样想,"Vì vậy, chồng tôi và tôi thích nghĩ về nó như"
+6423,以及创伤对人们的影响。,và những chấn thương mà mọi người trải qua.
+6425,而且我们,Và chúng tôi
 6425,而且还有像支持和教育这样的东西，这些东西可能会增加存款。,Và có những điều như hỗ trợ và giáo dục có thể tạo ra tiền gửi.
 6426,而且我们现在肯定比诊断前更了解我们的银行账户。,Và chúng tôi chắc chắn nhận thức rõ hơn về tài khoản ngân hàng của mình bây giờ so với trước khi được chẩn đoán.
+6426,而且还有,Và có
 6427,在诊断之前。,Trước khi chẩn đoán.
 6428,对于我和我丈夫来说，他的诊断、手术和治疗，它们完全,"Và đối với chồng tôi và tôi, chẩn đoán, phẫu thuật và điều trị của anh ấy, chúng hoàn toàn"
 6428,可能比以前少。,có thể ít hơn trước.
@@ -702,7 +778,8 @@
 6430,但并非每个人都有这种经历。,Nhưng không phải ai cũng có loại trải nghiệm đó.
 6430,至少在最初的几年里旅行。,Du lịch ít nhất trong vài năm đầu.
 6430,我能说的一件事,Một điều tôi có thể nói
-6431,我能肯定地说，自从他确诊以来，我们做出了不同的选择。,"Kinh nghiệm. Một điều tôi có thể nói chắc chắn là chúng tôi đưa ra những lựa chọn khác biệt bây giờ, kể từ khi anh ấy được chẩn đoán."
+6431,经验。,Kinh nghiệm.
+6431,我能肯定地说，自从他确诊以来，我们做出了不同的选择。,"Một điều tôi có thể nói chắc chắn là chúng tôi đưa ra những lựa chọn khác biệt bây giờ, kể từ khi anh ấy được chẩn đoán. Và đó là"
 6432,他的诊断。,Chẩn đoán của anh ấy.
 6432,当我说不同的时候。,Và khi tôi nói rằng chúng khác nhau.
 6432,当我说不同的时候。,Và khi tôi nói rằng chúng khác nhau.
@@ -739,16 +816,22 @@
 6452,类癌综合征可以表现出多种类型的症状，这些症状可以取决于多种因素，包括肿瘤的大小、位置和扩散程度。,"Hội chứng carcinoid có thể biểu hiện bằng nhiều loại triệu chứng, có thể phụ thuộc vào nhiều yếu tố, bao gồm kích thước, vị trí và mức độ lây lan của khối u."
 6453,这可能取决于最常见的情况，它确实来自小肠的肿瘤,"Điều đó có thể phụ thuộc vào, thường thì nó thực sự đến từ các khối u ở ruột non"
 6454,它来自小肠，也可能发生在神经内分泌肿瘤或肺神经内分泌肿瘤中，例如类癌。,"Nó đến từ ruột non và cũng có thể xảy ra trong một khối u neuroendocrine hoặc ung thư neuroendocrine phổi, ví dụ như carcinoid."
+6455,类癌。,Carcinoid.
 6455,例如，在小边界内分泌肿瘤中，我们看到卡森综合征的症状。,"Vì vậy, ví dụ, trong các khối u nội tiết nhỏ ở biên, các khối u nội tiết nhỏ ở biên, các khối u nội tiết nhỏ ở biên, chúng ta thấy với hội chứng Carson, triệu chứng, hội chứng, triệu chứng, các"
 6456,综合征，症状，患者描述的是潮红，与热潮红不同。,"Hội chứng, triệu chứng, bệnh nhân mô tả là đỏ bừng mặt, khác với nóng bừng mặt. Nóng bừng mặt là"
-6458,潮红，就是它。潮红，客观地讲，即使是其他人也能看到它，或者患者可以在镜子中看到它。,"Nó. Ửng đỏ, chính là nó. Ửng đỏ, nó là khách quan, ngay cả khi một người khác quan sát cũng có thể thấy nó, hoặc bệnh nhân có thể thấy nó trong gương."
+6458,潮红，就是它。,"Nó. Ửng đỏ, chính là nó."
+6458,潮红，客观地讲，即使是其他人也能看到它，或者患者可以在镜子中看到它。,"Ửng đỏ, nó là khách quan, ngay cả khi một người khác quan sát cũng có thể thấy nó, hoặc bệnh nhân có thể thấy nó trong gương. Nó"
 6459,我在镜子里可以看到它。,Tôi có thể nhìn thấy nó trong gương.
 6459,它主要出现在胸部和脸上，这种情况也会发生在脸上。然后，我也会,"Nó chủ yếu ở trên ngực và chủ yếu ở trên ngực và chủ yếu ở trên ngực và trên mặt, điều đó có thể xảy ra và trên mặt, điều đó có thể xảy ra và trên mặt, điều đó có thể xảy ra và sau đó, tôi cũng, như một"
 6460,然后，我也，作为这种表现的一种体现，我们看到了这种表现的一种体现，我们看到了这种表现的一种体现，我们看到了稀便和频繁的稀便和频繁的稀便和频繁的便或腹泻。,"Sau đó, tôi cũng, như là một biểu hiện của điều đó, chúng ta thấy biểu hiện của điều đó, chúng ta thấy biểu hiện của điều đó, chúng ta thấy phân lỏng và phân lỏng thường xuyên và phân lỏng thường xuyên và phân lỏng thường xuyên hoặc tiêu chảy. Ờ, như là"
-6461,大便或腹泻。嗯，作为类癌综合征的表现，在患者中也是如此。嗯，更严重的类型或,"Phân hoặc tiêu chảy. Ừm, như là biểu hiện của hội chứng carcinoid, cũng ở bệnh nhân. Ừm, dạng nghiêm trọng hơn hoặc"
+6461,大便或腹泻。,Phân hoặc tiêu chảy.
+6461,嗯，更严重的类型或,"Ừm, dạng nghiêm trọng hơn hoặc"
+6461,嗯，作为类癌综合征的表现，在患者中也是如此。,"Ừm, như là biểu hiện của hội chứng carcinoid, cũng ở bệnh nhân."
 6462,嗯，更严重的类癌综合征形式有时是当这些肿瘤...,"À, dạng nghiêm trọng hơn của hội chứng carcinoid là khi những khối u này..."
 6463,有时，当这些肿瘤产生大量激素时，它们会产生大量激素，它们会产生大量激素，如果可以进行任何操作，如果可以进行任何操作,"Đôi khi, khi những khối u này sản xuất nhiều hormone, chúng sản xuất nhiều hormone, chúng sản xuất nhiều hormone, nếu bất kỳ thao tác nào có thể được thực hiện, nếu bất kỳ thao tác nào có thể được thực hiện"
 6464,如果肿瘤可以进行操作，最常见的干预措施是手术，例如肿瘤切除术。,"Nếu khối u có thể được thao tác, can thiệp phổ biến nhất là phẫu thuật, ví dụ như phẫu thuật cắt bỏ khối u."
+6465,有时，当你对这些肿瘤进行干预时，,"Ờ, đôi khi khi bạn can thiệp vào những khối u này,"
+6465,例如，对肿瘤进行干预，而这些肿瘤会产生肿瘤，而这些肿瘤会产生肿瘤，而这些肿瘤会产生血清素。,"Ví dụ, can thiệp vào khối u, và những khối u này sản xuất ra khối u, và những khối u này sản xuất ra khối u, và những khối u này sản xuất ra serotonin."
 6466,所以，很多这些激素类的药物只是,"Vì vậy, rất nhiều những loại hormone này chỉ"
 6467,很多这些激素类物质会在体内释放到血液中，这可能会导致非常危险的结果。,"Rất nhiều loại hormone này được giải phóng trong cơ thể, vào máu, và điều đó có thể dẫn đến những hậu quả rất nguy hiểm."
 6469,现在，指的是类癌危象。现在，我只想提一下，我只想提一下，我只想提一下，类癌危象非常类癌危象非常,"Bây giờ, tôi chỉ muốn đề cập rằng tôi chỉ muốn đề cập rằng tôi chỉ muốn đề cập rằng khủng hoảng carcinoid là rất khủng hoảng carcinoid là rất"
@@ -761,10 +844,12 @@
 6473,他们进行手术，认为病人风险很高。,Họ phẫu thuật và họ cảm thấy rằng bệnh nhân có nguy cơ cao.
 6475,如果需要，滴注准备好。,"Nếu cần, thuốc nhỏ giọt đã sẵn sàng."
 6475,有人可能会争论说，这实际上很少见，因为我们对此更加了解。,"Ai đó có thể tranh luận rằng nó thực sự hiếm, bởi vì chúng ta nhận thức rõ hơn về nó."
+6476,最后,Cuối cùng
 6476,因为我们更了解它，因为我们更了解它，并且我们正在预防它。,"bởi vì chúng tôi nhận thức rõ hơn về nó, bởi vì chúng tôi nhận thức rõ hơn về nó và chúng tôi đang ngăn chặn nó."
 6476,所以，我们正在预防它。,"Vì vậy, và chúng tôi đang ngăn chặn nó."
 6476,所以，我们正在预防它。,"Vì vậy, và chúng tôi đang ngăn chặn nó."
-6477,最后一次类癌危象。最后一点是，有些事情是你你认为是有些事情是你你认为是有些事情是你你没有问的，但我想要,"Khủng hoảng carcinoid cuối cùng. Điều cuối cùng là, có một số điều mà bạn bạn nghĩ rằng có một số điều mà bạn bạn nghĩ rằng có một số điều mà bạn bạn đã không hỏi nhưng tôi muốn"
+6477,最后一点是，有些事情是你你认为是有些事情是你你认为是有些事情是你你没有问的，但我想要,"Điều cuối cùng là, có một số điều mà bạn bạn nghĩ rằng có một số điều mà bạn bạn nghĩ rằng có một số điều mà bạn bạn đã không hỏi nhưng tôi muốn"
+6477,最后一次类癌危象。,Khủng hoảng carcinoid cuối cùng.
 6478,虽然没有问到，但我还想涵盖心脏病，因为患者也需要了解心脏病，这是很重要的。,"Tôi đã không hỏi về nó, nhưng tôi cũng muốn bao gồm bệnh tim, bởi vì bệnh nhân cũng cần biết về bệnh tim, điều đó rất quan trọng."
 6479,这很重要，因为它仍然被诊断不足。,Điều này rất quan trọng vì nó vẫn chưa được chẩn đoán đầy đủ.
 6480,诊断不足，这意味着许多患有神经内分泌肿瘤的患者正在四处走动，却患有致癌性心脏病。,"Chẩn đoán chưa đầy đủ, có nghĩa là nhiều bệnh nhân mắc bệnh u thần kinh nội tiết đang đi lại và bị bệnh tim gây ung thư."
@@ -779,12 +864,14 @@
 6485,因此类癌性心脏病。,Vì vậy bệnh tim carcinoid.
 6485,因此类癌性心脏病。,Vì vậy bệnh tim carcinoid.
 6485,肺瓣膜，以及肺瓣膜，以及肺瓣膜，以及可能导致我们所说的可能导致我们所说的可能导致我们所说的类癌性心脏病。,các van phổi và rằng các van phổi và rằng có thể dẫn đến cái mà chúng ta gọi là có thể dẫn đến cái mà chúng ta gọi là có thể dẫn đến cái mà chúng ta gọi là bệnh tim carcinoid.
+6486,谢谢医生,Cảm ơn bác sĩ
 6486,及早识别这些早期识别这些事物通常是管理这些事物中的任何一个的关键。,Nhận biết sớm những điều này nói chung là chìa khóa để quản lý bất kỳ điều nào trong số những điều này.
 6487,艾尔莎医生，神经内分泌肿瘤是遗传性的吗？,"Bác sĩ Elsa, u thần kinh nội tiết có di truyền không?"
 6487,谢谢您，桑巴尔医生。,Cảm ơn bác sĩ Samball.
 6488,神经内分泌肿瘤具有遗传性吗？,U bướu nội tiết thần kinh có tính di truyền không?
 6488,他们应该进行基因检测或筛查吗？,Họ có nên xét nghiệm hoặc sàng lọc không?
 6488,患者需要进行基因检测吗？,Bệnh nhân có cần xét nghiệm di truyền không?
+6489,虽然我,Mặc dù tôi
 6489,所以，需要进行测试或筛查吗？,"Vì vậy, có cần kiểm tra hoặc sàng lọc không?"
 6489,需要进行测试或筛查吗？,Có cần kiểm tra hoặc sàng lọc không?
 6489,所以，这当然是一个很重要的问题，也是一个非常关切的问题。,"Vì vậy, đó chắc chắn là một câu hỏi quan trọng và một câu hỏi rất gần gũi với trái tim tôi."
@@ -792,9 +879,11 @@
 6490,我为一个癌症遗传学团队工作。,Tôi làm việc trong một bộ phận di truyền học ung thư.
 6491,我也在癌症遗传学诊所工作。,Tôi cũng làm việc tại một phòng khám di truyền ung thư.
 6491,癌症遗传学诊所。,Phòng khám di truyền ung thư.
-6491,癌症遗传学诊所。嗯，当谈到评估遗传时,"Phòng khám di truyền ung thư. Ừm, vậy nên, khi nói đến việc đánh giá di truyền"
+6491,癌症遗传学诊所。,Phòng khám di truyền ung thư.
 6491,癌症遗传学。,Di truyền ung thư.
-6493,开发这些神经内分泌消费者。这再次非常重要，要了解这些肿瘤是从哪里产生的。,Phát triển những người tiêu dùng nội tiết thần kinh này. Điều quan trọng là phải xem những khối u này xuất phát từ đâu.
+6491,嗯，当谈到评估遗传时,"Ừm, vậy nên, khi nói đến việc đánh giá di truyền"
+6493,开发这些神经内分泌消费者。,Phát triển những người tiêu dùng nội tiết thần kinh này.
+6493,这再次非常重要，要了解这些肿瘤是从哪里产生的。,Điều quan trọng là phải xem những khối u này xuất phát từ đâu.
 6494,肿瘤正在生长。,U bướu đang phát triển.
 6494,而且，对于肿瘤正在生长的患者来说，遗传因素尤其重要，尤其是当肿瘤实际上,Và điều đó đặc biệt quan trọng cần xem xét các yếu tố di truyền đối với những bệnh nhân mà khối u thực sự
 6496,实际上包括肺，胰腺和十二指肠以及胃。,"Thực ra nó bao gồm phổi, tuyến tụy cũng như tá tràng và dạ dày."
@@ -804,19 +893,25 @@
 6501,我们的患者，他们要么患有胃癌、胰腺癌，要么患有十二指肠类癌。,"Bệnh nhân của chúng tôi, những người bị ung thư dạ dày hoặc ung thư tuyến tụy hoặc ung thư dạ dày hoặc ung thư tuyến tụy hoặc ung thư dạ dày hoặc ung thư tuyến tụy hoặc ung thư tá tràng."
 6502,了解内分泌激素的产生很重要，例如，胃泌素瘤患者可能会出现胃泌素分泌过多。,"Điều quan trọng là phải biết những loại hormone nào được sản xuất. Ví dụ, bệnh nhân mắc bệnh gastrinome có thể sản xuất quá nhiều gastrin."
 6503,患有胃液分泌过多，导致胃酸过多，以及溃疡的患者。,"Những bệnh nhân có tiết dịch gastrin quá mức, dẫn đến axit dạ dày rất cao, cũng như loét. Ừm, những"
-6504,以及溃疡。嗯，这些患者可能更容易患有一些遗传性疾病。,"cũng như loét. Ừm, những bệnh nhân này có thể có nguy cơ cao hơn để thực sự có một số tiền sử di truyền."
-6506,主要消费者是多发性内分泌肿瘤 1 型。,Những người tiêu dùng chính là các hội chứng u nội tiết đa phát loại 1.
+6504,嗯，这些患者可能更容易患有一些遗传性疾病。,"Ừm, những bệnh nhân này có thể có nguy cơ cao hơn để thực sự có một số tiền sử di truyền."
 6507,肿瘤类型一。,U bướu loại một.
 6510,血液和胰腺神经，以及消费者，以及消费者，以及消费者，以及有时神经内分泌肿瘤，以及有时神经内分泌肿瘤，以及有时神经内分泌肿瘤，以及肺部和十二指肠，以及肺部和十二指肠，以及,"máu và thần kinh tuyến tụy, cũng như người tiêu dùng, cũng như người tiêu dùng, cũng như người tiêu dùng, cũng như đôi khi Neuroendocrine của đôi khi Neuroendocrine của đôi khi Neuroendocrine của phổi và tá tràng như phổi và tá tràng như"
+6511,嗯，但是对于多发性内分泌肿瘤类型一，我认为始终重要的是,"Ừm, tuy nhiên, đối với nhiều u nội tiết đa tuyến loại 1, tôi nghĩ điều quan trọng là luôn"
+6511,还有肺和十二指肠。,Và cả phổi và tá tràng nữa.
 6512,我认为重要的是要了解，通常这些患者在出现这些症状之前，会出现其他一些表现。,"Tôi nghĩ điều quan trọng là phải hiểu rằng, thường thì những bệnh nhân này sẽ có một số biểu hiện khác trước khi có những biểu hiện này."
 6513,因此，我可以告诉你，我从未诊断出神经内分泌疾病。,"Vì vậy, tôi có thể nói với bạn rằng tôi chưa bao giờ chẩn đoán Neuroendocrine."
 6513,在出现神经内分泌症状或诊断之前，是否有任何表现？,Có bất kỳ biểu hiện nào trước khi có triệu chứng hoặc chẩn đoán Neuroendocrine không?
 6514,我从未在专业生涯中根据神经和消费者的发生情况诊断过患者。,Tôi chưa bao giờ chẩn đoán bệnh nhân trong đời làm nghề của tôi dựa trên sự xuất hiện của thần kinh và người tiêu dùng.
 6515,一个神经内科医生和一个患者，该患者患有多发性内分泌肿瘤症 I 型，特别是甲状旁腺功能亢进。,"Một bác sĩ thần kinh và một bệnh nhân bị bệnh đa u nội tiết loại 1, đặc biệt là chức năng cao của tuyến cận giáp."
-6516,甲状旁腺的功能和高钙水平是诊断之前的先兆。,"Chức năng của tuyến cận giáp và mức canxi cao là dấu hiệu báo trước chẩn đoán. Ừm, và bệnh nhân sẽ có một"
+6516,甲状旁腺的功能和高钙水平是诊断之前的先兆。,Chức năng của tuyến cận giáp và mức canxi cao là dấu hiệu báo trước chẩn đoán.
 6517,从本质上来说，这与第二种情况相同。,"Về cơ bản, điều này giống như hai trường hợp."
 6518,与脑出血相关的文替帕林多病，与脑出血相关的文替帕林多病，与脑出血相关的文替帕林多病，其表现为其表现为其表现为脑出血，脑出血，脑出血。,"Bệnh Ventipalindo, bệnh biểu hiện với các biểu hiện của não với hemoji, bệnh Ventipalindo, bệnh biểu hiện với các biểu hiện của não với hemoji, bệnh Ventipalindo, bệnh biểu hiện với các biểu hiện của não với hemoji."
-6521,那就是神经内分泌肿瘤。那就是神经内分泌肿瘤。这就是为什么总的来说，我相信这就是为什么总的来说，我相信这就是为什么总的来说，我相信进行遗传评估是,"tiến hành chẩn đoán ung thư nội tiết thần kinh. Đó là ung thư nội tiết thần kinh. Đó là ung thư nội tiết thần kinh. Đó là lý do tại sao nói chung, tôi tin rằng tại sao nói chung, tôi tin rằng tại sao nói chung, tôi tin rằng việc đánh giá di truyền với"
+6520,再说一次，肾上腺。,"Ừm, một lần nữa, tuyến thượng thận."
+6520,再说一次，肾上腺。,"Ừm, một lần nữa, tuyến thượng thận."
+6521,那就是神经内分泌肿瘤。,Đó là ung thư nội tiết thần kinh.
+6521,那就是神经内分泌肿瘤。,Đó là ung thư nội tiết thần kinh.
+6521,这就是为什么总的来说，我相信这就是为什么总的来说，我相信这就是为什么总的来说，我相信进行遗传评估是,"Đó là lý do tại sao nói chung, tôi tin rằng tại sao nói chung, tôi tin rằng tại sao nói chung, tôi tin rằng việc đánh giá di truyền với"
+6521,在神经内分泌肿瘤的诊断之前。,tiến hành chẩn đoán ung thư nội tiết thần kinh.
 6522,对患者进行遗传评估，包括完整的家族史和个人史，这是诊断的关键,"một đánh giá di truyền với lịch sử gia đình đầy đủ và lịch sử cá nhân đầy đủ, điều này thực sự là chìa khóa cho chẩn đoán"
 6523,实际上，基因检测对每个人来说都是有价值的。,"Thực sự, xét nghiệm di truyền có giá trị cho tất cả mọi người."
 6523,然而，决定进行基因检测的关键在于我们所做的事情以及最终我们为每个人做出的决定。,"Tuy nhiên, chìa khóa cho việc chẩn đoán, những gì chúng ta làm và cuối cùng là những gì chúng ta quyết định làm cho xét nghiệm di truyền, nằm ở chỗ chúng có giá trị cho tất cả mọi người."
@@ -826,14 +921,20 @@
 6525,神经内分泌肿瘤在遗传检测方面可能结果较低。,Ung thư nội tiết thần kinh có thể có kết quả khá thấp về xét nghiệm di truyền.
 6526,例如，神经内分泌肿瘤常与一种重要的相关肿瘤一起提及，这种肿瘤通常与神经内分泌肿瘤一起提及。,"Ví dụ, một khối u quan trọng thường được đề cập cùng với các khối u thần kinh nội tiết, khối u này thường liên quan đến các khối u thần kinh nội tiết."
 6527,神经内分泌肿瘤，以及这些神经内分泌肿瘤，是少数的肿瘤，这些肿瘤是肾上腺肿瘤。,U bướu nội tiết thần kinh và những u bướu nội tiết thần kinh và những u bướu nội tiết thần kinh đó là một số ít u tân sinh là u của tuyến thượng thận.
-6528,肾上腺肿瘤或其他部位的相关肿瘤。嗯，其他部位的相关肿瘤。嗯，其他部位的相关肿瘤。,"U nhú tuyến thượng thận hoặc các khối u liên quan ở những vị trí khác. Ừm, các khối u liên quan ở những vị trí khác. Ừm, các khối u liên quan ở những vị trí khác. Ừm, những khối u đó có thành phần di truyền rất, rất cao và khoảng một"
+6528,肾上腺肿瘤或其他部位的相关肿瘤。,U nhú tuyến thượng thận hoặc các khối u liên quan ở những vị trí khác.
+6528,嗯，其他部位的相关肿瘤。,"Ừm, các khối u liên quan ở những vị trí khác."
+6528,嗯，其他部位的相关肿瘤。,"Ừm, các khối u liên quan ở những vị trí khác."
+6528,嗯，这些具有非常非常高的遗传成分，大约占,"Ừm, những khối u đó có thành phần di truyền rất, rất cao và khoảng một"
 6529,遗传因素和大约三分之一患有这种疾病的人会有一种潜在的基因改变。,Thành phần di truyền và khoảng một trong ba người được chẩn đoán mắc bệnh sẽ có một thay đổi di truyền tiềm ẩn.
+6530,嗯，还有一个新兴领域，它,"Ừm, cũng có một lĩnh vực mới nổi khác, nơi nó"
 6531,这是一个新兴领域，了解患者是否患有潜在的遗传综合征非常重要。,"Đây là một lĩnh vực mới nổi, nơi điều quan trọng là phải biết liệu bệnh nhân có thực sự mắc hội chứng di truyền tiềm ẩn hay không."
 6532,例如突出的带有例如突出的带有例如突出的带有疾病的潜在遗传综合征。,hội chứng di truyền tiềm ẩn như hội chứng được làm nổi bật với như hội chứng được làm nổi bật với như hội chứng được làm nổi bật với bệnh.
 6533,最近的一项研究测试了一种针对与胰腺神经内分泌瘤相关的疾病的新型药物。,Một nghiên cứu gần đây đã thử nghiệm một loại thuốc mới đặc hiệu cho các bệnh liên quan đến u tế bào nội tiết tuyến tụy.
 6534,胰腺神经内分泌肿瘤患者，这些患者几乎都通过该药对治疗做出了反应，而且反应效果非常好。,"Bệnh nhân bị u nội tiết thần kinh tuyến tụy, những bệnh nhân này gần như đều đáp ứng với thuốc, và đáp ứng rất tốt."
-6535,这种药物副作用很少，几乎没有。这说明了肿瘤的基因构成以及,"Thuốc này có rất ít tác dụng phụ, gần như không có. Điều này cho thấy thành phần di truyền của khối u và cũng"
+6535,这种药物副作用很少，几乎没有。,"Thuốc này có rất ít tác dụng phụ, gần như không có."
 6536,肿瘤的构成以及患者的遗传构成，其与这些肿瘤的风险增加密切相关。,"Thành phần của khối u cũng như thành phần di truyền của bệnh nhân, với nguy cơ gia tăng đối với các khối u này, có mối liên quan chặt chẽ."
+6538,这些肿瘤的治疗方案。,các thuật ngữ điều trị của những khối u này.
+6538,最后我想说的是，如果,Điều cuối cùng tôi muốn nói là trong trường hợp
 6539,我想说的是，如果诊断出遗传综合征，这对于家庭来说当然非常重要，因为每个,"Điều tôi muốn nói là, trong trường hợp một hội chứng di truyền được chẩn đoán, điều đó tất nhiên rất quan trọng đối với gia đình bởi vì mỗi"
 6540,因为每个一级亲属都有 50% 的几率携带相同的基因改变，并且会处于,cho gia đình bởi vì mỗi người thân họ hàng trực hệ đầu tiên sẽ có 50% cơ hội mang cùng sự thay đổi di truyền và sẽ ở
 6541,这种基因改变会导致肿瘤风险，而这种基因改变也可能导致肿瘤风险，这实际上给了我们机会开始,"Sự thay đổi di truyền này dẫn đến nguy cơ ung thư, và sự thay đổi di truyền này cũng có thể dẫn đến nguy cơ ung thư, điều này thực sự mang lại cho chúng ta cơ hội để bắt đầu"
@@ -842,13 +943,16 @@
 6544,这个面板可以处理这些肿瘤，在它们实际转移并无法治疗之前。,Bảng điều khiển này có thể xử lý các khối u này trước khi chúng di căn và không thể điều trị được.
 6545,因此，家庭测试可能很重要。,"Vì vậy, vâng, xét nghiệm gia đình có thể là điều quan trọng."
 6546,测试可能是，但家庭测试才是真正的测试。,"Việc kiểm tra có thể là, nhưng kiểm tra gia đình mới thực sự là một điều gì đó."
-6547,我们称之为探针的东西，以及初始病人。嗯，然后我们走遍了整个家庭。,"Cái mà chúng ta gọi là thăm dò và bệnh nhân ban đầu. Ừm, và sau đó chúng ta đi qua gia đình."
+6547,嗯，然后我们走遍了整个家庭。,"Ừm, và sau đó chúng ta đi qua gia đình."
+6547,我们称之为探针的东西，以及初始病人。,Cái mà chúng ta gọi là thăm dò và bệnh nhân ban đầu.
 6548,医生，谢谢埃尔莎医生。,"Bác sĩ, cảm ơn bác sĩ Elsa."
 6548,谢谢埃尔莎医生。,Cảm ơn bác sĩ Elsa.
 6548,医生，您如何确定肿瘤的来源，以及这如何指导您的治疗？,"Bác sĩ, làm cách nào để bác sĩ xác định nguồn gốc của khối u và điều này hướng dẫn điều trị của bác sĩ như thế nào?"
 6549,本指南将如何指导您的治疗决策？,Hướng dẫn này sẽ hướng dẫn các quyết định điều trị của bạn như thế nào?
 6549,找到肿瘤的主要部位对我们来说有多重要？,Việc tìm thấy vị trí chính của khối u quan trọng như thế nào đối với chúng ta?
 6550,当然可以。,Chắc chắn rồi.
+6551,当然。,Chắc chắn rồi.
+6551,当然。,Chắc chắn rồi.
 6551,原发部位不清楚？,Bên nguồn gốc không rõ ràng?
 6551,原发部位不清楚？,Bên nguồn gốc không rõ ràng?
 6551,所以，再说一次，这又回到了这些肿瘤的诊断，,"Vì vậy, một lần nữa, nó quay trở lại chẩn đoán của những khối u này,"
@@ -856,11 +960,13 @@
 6552,这些肿瘤的诊断，对吧？,"Chẩn đoán của những khối u này, đúng không?"
 6552,所以，再说一遍，用，用，对吧？,"Vì vậy, một lần nữa, với, với, đúng không?"
 6553,确定是否有肿块，就像我说的，你可以进行活检，或者如果肿块在可以进行 PET-CT 扫描的部位，也可以进行 PET-CT 扫描。,"Cần phải xác định xem có khối u hay không, và như tôi đã nói, bạn có thể sinh thiết nó hoặc chụp PET-CT nếu nó nằm ở vị trí có thể chụp được."
-6554,如果它位于无法进行活检的区域，则对宠物进行 PET-CT 检查，看看它是否为神经内分泌肿瘤。,"Làm PET-CT cho thú cưng nếu khối u nằm ở vùng mà bạn không thể sinh thiết, để xem liệu đó có phải là khối u thần kinh nội tiết hay không. À, nhưng"
-6555,神经内分泌肿瘤。嗯，但偶尔我们会遇到患者，他们患有被称为原发灶不明的肿瘤。,"U nhú nội tiết. Ừm, nhưng đôi khi chúng tôi có đôi khi chúng tôi có đôi khi chúng tôi có những bệnh nhân mắc phải cái gọi là khối u nguyên phát chưa rõ."
+6554,嗯，但是,"À, nhưng"
+6554,如果它位于无法进行活检的区域，则对宠物进行 PET-CT 检查，看看它是否为神经内分泌肿瘤。,"Làm PET-CT cho thú cưng nếu khối u nằm ở vùng mà bạn không thể sinh thiết, để xem liệu đó có phải là khối u thần kinh nội tiết hay không."
+6555,嗯，但偶尔我们会遇到患者，他们患有被称为原发灶不明的肿瘤。,"U nhú nội tiết. Ừm, nhưng đôi khi chúng tôi có đôi khi chúng tôi có đôi khi chúng tôi có những bệnh nhân mắc phải cái gọi là khối u nguyên phát chưa rõ."
 6556,所以你知道这种疾病。,"Vì vậy, bạn biết bệnh."
 6556,在转移性疾病的情况下，被称为未知原发肿瘤。,Được gọi là khối u nguyên phát chưa xác định trong bối cảnh bệnh di căn.
 6557,所以你知道偶尔我们会看到一些病人，他们确信自己患有神经内分泌肿瘤，但他们,"Vì vậy, bạn biết rằng đôi khi chúng tôi gặp những bệnh nhân, đôi khi chúng tôi gặp những bệnh nhân, đôi khi chúng tôi gặp những bệnh nhân tin rằng họ bị u thần kinh nội tiết, nhưng họ"
+6558,所以你,"Vì vậy, bạn"
 6559,神经内分泌肿瘤。,U bướu nội tiết thần kinh.
 6559,所以你知道这些是 最难的案例，因为你知道就像我们所说的，它们可以分泌激素，,"Vì vậy, bạn biết những trường hợp này là những trường hợp khó khăn nhất, bởi vì bạn biết, như chúng tôi đã nói, chúng có thể tiết ra hormone, điều đó"
 6561,但症状可能会出现。,Nhưng các triệu chứng có thể xuất hiện.
@@ -877,11 +983,14 @@
 6565,你知道它是一种神经内分泌肿瘤。,Bạn biết đó là một khối u thần kinh nội tiết.
 6565,你知道它是一种神经内分泌肿瘤。,Bạn biết đó là một khối u thần kinh nội tiết.
 6565,你知道它是一种神经内分泌肿瘤。,Bạn biết đó là một khối u thần kinh nội tiết.
+6565,呃，你,"Uh, bạn"
 6566,这些都是肿瘤，有些可能是无法在扫描中检测到的原发肿瘤。,"Đó là những loại khối u, một số có thể là khối u nguyên phát không thể phát hiện được trên quét."
 6567,因此，当我们谈论未知原发肿瘤时，通常指原发部位不明确的肿瘤。,"Vì vậy, khi chúng ta nói về các khối u nguyên phát chưa biết, chúng ta thường nói về các khối u có nguồn gốc ban đầu không rõ ràng."
 6567,在扫描中可检测到。,Nó có thể được phát hiện trên một bản quét.
 6568,所以，我们不讨论你扫描后发现的未知原发肿瘤。,"Vì vậy, chúng ta không nói về các khối u nguyên phát không xác định mà bạn quét và thấy."
-6569,你在扫描的地方，那里什么都没有。嗯，什么都没有。嗯，什么都没有。,"Nơi bạn quét, không có gì ở đó. À, không có gì ở đó. À, không có gì ở đó. À, bạn biết đấy, bạn đã nội soi, bạn biết đấy, bạn đã nội soi, bạn biết đấy, bạn đã nội soi, bạn đã nội soi đại tràng, bạn đã nội soi đại tràng, bạn"
+6569,你在扫描的地方，那里什么都没有。,"Nơi bạn quét, không có gì ở đó. À, không có gì ở đó."
+6569,嗯，什么都没有。,"À, không có gì ở đó."
+6569,你知道的，你做过内窥镜检查，你知道的，你做过内窥镜检查，你知道的，你做过内窥镜检查，你做过结肠镜检查，你做过结肠镜检查，你,"À, bạn biết đấy, bạn đã nội soi, bạn biết đấy, bạn đã nội soi, bạn biết đấy, bạn đã nội soi, bạn đã nội soi đại tràng, bạn đã nội soi đại tràng, bạn"
 6570,你做了结肠镜检查，也做了PET扫描，还做了CT扫描和核磁共振，但什么都没发现。,"Bạn đã làm nội soi đại tràng, bạn đã làm xét nghiệm PET, bạn đã làm xét nghiệm CT, bạn đã làm MRI, và không có gì cả."
 6571,那里什么都没有。,Không có gì ở đó cả.
 6571,你可能没有内分泌肿瘤。,Có lẽ bạn không có khối u nội tiết.
@@ -889,7 +998,8 @@
 6571,即使你的内分泌肿瘤。,Ngay cả khi khối u nội tiết của bạn.
 6572,例如，您的生化检查显示石榴呈阳性，并且有一个原因，为什么我上次诊断时没有提及它。,"Ví dụ, xét nghiệm sinh hóa của bạn cho thấy quả lựu của bạn là dương tính, và có một lý do tại sao tôi không đề cập đến điều đó trong chẩn đoán trước đó."
 6573,时间作为诊断指标不可靠，因为石榴是一种不可靠的指标，对诊断没有帮助。,"Thời gian như một chẩn đoán không đáng tin cậy bởi vì thời gian như một chẩn đoán không đáng tin cậy bởi vì thời gian như một chẩn đoán không đáng tin cậy bởi vì lựu là một dấu hiệu không đáng tin cậy, không hữu ích cho việc chẩn đoán."
-6574,有助于在基线诊断神经内分泌肿瘤。有时在基线后进行随访。有时，例如在随访期间。,"Hữu ích để chẩn đoán các khối u nội tiết thần kinh ở thời điểm cơ bản. Đôi khi để theo dõi sau khi cơ bản. Đôi khi, chẳng hạn như trong quá trình theo dõi."
+6574,有时，例如在随访期间。,"Đôi khi, chẳng hạn như trong quá trình theo dõi."
+6574,有助于在基线诊断神经内分泌肿瘤。,Hữu ích để chẩn đoán các khối u nội tiết thần kinh ở thời điểm cơ bản.
 6575,像这样的肿块，是的，但不是用来诊断肿瘤的，你知道，再说一次，如果你，如果那里什么都没有，,"Những thứ như thế này như những thứ như thế này như khối u, vâng, nhưng không phải để chẩn đoán khối u, bạn biết đấy, một lần nữa, nếu bạn, nếu không có gì ở đó,"
 6576,如果您没有任何症状，您可能没有神经内分泌肿瘤。,"Nếu bạn không có bất kỳ triệu chứng nào, bạn có thể không bị u thần kinh nội tiết."
 6576,如果您有转移性疾病，或者您没有任何症状，您可能没有神经内分泌肿瘤。,"Nếu bạn bị bệnh di căn, hoặc nếu bạn không có bất kỳ triệu chứng nào, bạn có thể không bị u thần kinh nội tiết."
@@ -897,8 +1007,8 @@
 6576,如果您有转移性疾病，或者您,"Nếu bạn bị bệnh di căn, hoặc nếu bạn"
 6577,如果有转移性疾病，或者你，比如说，在你的小肠系膜区域有一个肿块，或者你，比如说，在你的小肠系膜区域有一个肿块，或者你，比如说，在你的小肠系膜区域有一个肿块,"có bệnh di căn hoặc bạn có, ví dụ, một khối u trong, ví dụ, một khối u trong, ví dụ, một khối u trong mạc treo ruột non của bạn, khu vực"
 6578,小生物群落，为你的小肠提供营养的区域，为你的小肠提供营养的区域，为你的小肠提供营养的区域，实际上很常见，实际上很常见，实际上很常见，尤其是对于小肠,"Sinh quyển nhỏ, khu vực cung cấp cho ruột non của bạn, cung cấp cho ruột non của bạn, cung cấp cho ruột non của bạn, thực sự khá phổ biến, thực sự khá phổ biến, thực sự khá phổ biến, đặc biệt là đối với ruột non"
-6579,特别是对于小肠神经元使用者，我们看不到皮肤上的原发肿瘤。但这并不意味着,"Điều này đặc biệt đúng với những người tiêu thụ tế bào thần kinh ruột non, nơi chúng ta không nhìn thấy khối u chính trên da. Điều đó không có nghĩa là"
-6580,这并不意味着它不存在，它只是意味着它不存在，它只是意味着它不存在，它只是意味着它通常太小，以至于它通常太小，以至于它通常太小，以至于无法在,"da. Điều đó không có nghĩa là nó không có ở đó, nó chỉ có nghĩa là nó không có ở đó, nó chỉ có nghĩa là nó không có ở đó, nó chỉ có nghĩa là nó thường quá nhỏ để nó thường quá nhỏ để nó thường quá nhỏ để thực sự được phát hiện trên một"
+6579,但这并不意味着,Điều đó không có nghĩa là
+6580,这并不意味着它不存在，它只是意味着它不存在，它只是意味着它不存在，它只是意味着它通常太小，以至于它通常太小，以至于它通常太小，以至于无法在,"Điều đó không có nghĩa là nó không có ở đó, nó chỉ có nghĩa là nó không có ở đó, nó chỉ có nghĩa là nó không có ở đó, nó chỉ có nghĩa là nó thường quá nhỏ để nó thường quá nhỏ để nó thường quá nhỏ để thực sự được phát hiện trên một"
 6581,实际上，它可以在多洛肽 PET CT 或 CTE 多洛肽 PET CT 或 CTE 扫描中被检测到。,"Thực ra, nó có thể được phát hiện trên máy quét Dolotape Pet CT hoặc trên máy quét CTE Dolotape Pet CT hoặc trên máy quét CTE."
 6581,所以，我认为，我认为，,"Vì vậy, tôi nghĩ rằng, rằng,"
 6582,所以，我认为，那个，当，如果你对神经内分泌肿瘤有足够的了解，以及神经内分泌肿瘤，以及,"Vì vậy, tôi nghĩ rằng, điều đó, khi, nếu bạn biết đủ về khi, nếu bạn biết đủ về khi, nếu bạn biết đủ về các khối u thần kinh nội tiết này, và các khối u thần kinh nội tiết này, và"
@@ -908,10 +1018,15 @@
 6585,如果你举个例子。,Nếu bạn đưa cho bạn một ví dụ.
 6585,我举个例子。,Tôi đưa cho bạn một ví dụ.
 6585,如果你有一个淋巴结肿块或肿块有一个淋巴结肿块或肿块有一个淋巴结肿块或肿块，你认为基本上,Nếu bạn có khối u hạch bạch huyết hoặc khối u có khối u hạch bạch huyết hoặc khối u có khối u hạch bạch huyết hoặc khối u mà bạn nghĩ là về cơ bản
-6587,你小肠的一部分，它们被称为回盲血管，你做过扫描，但扫描结果没有显示其他异常。,"Một phần của ruột non của bạn, chúng được gọi là các mạch máu hồi manh tràng, nhưng bạn đã được chụp quét và không có gì khác được hiển thị. Ừm"
-6588,没有其他显示。嗯，没有其他显示。嗯，最有可能的是，原发肿瘤最有可能的是，原发肿瘤最有可能的是，原发肿瘤位于小肠，位于小肠，位于小肠，位于远端小肠，靠近远端小肠，靠近,"Không hiển thị gì khác. À, không hiển thị gì khác. À, rất có thể, khối u chính rất có thể, khối u chính rất có thể, khối u chính nằm trong ruột non trong nằm trong ruột non trong nằm trong ruột non trong phần ruột non cuối cùng cạnh phần ruột non cuối cùng cạnh"
-6589,嗯，然后当右结肠。嗯，然后当右结肠。嗯，然后当你带他们去手术室时，你就带他们去手术室。,"Ruột non xa gần ruột già bên phải. Ừm, và sau đó khi ruột già bên phải. Ừm, và sau đó khi ruột già bên phải. Ừm, và sau đó khi bạn đưa họ đến phòng phẫu thuật, bạn đưa họ đến phòng phẫu thuật"
-6590,你把他们带到手术室，这就是你要看到的。重要的是要了解疾病。,"Bạn đưa họ vào phòng phẫu thuật, đó là những gì bạn sẽ thấy. Điều quan trọng là phải hiểu được căn bệnh."
+6587,嗯,Ừm
+6587,你小肠的一部分，它们被称为回盲血管，你做过扫描，但扫描结果没有显示其他异常。,"Một phần của ruột non của bạn, chúng được gọi là các mạch máu hồi manh tràng, nhưng bạn đã được chụp quét và không có gì khác được hiển thị."
+6588,没有其他显示。,Không hiển thị gì khác.
+6588,嗯，没有其他显示。,"À, không hiển thị gì khác."
+6588,嗯，最有可能的是，原发肿瘤最有可能的是，原发肿瘤最有可能的是，原发肿瘤位于小肠，位于小肠，位于小肠，位于远端小肠，靠近远端小肠，靠近,"À, rất có thể, khối u chính rất có thể, khối u chính rất có thể, khối u chính nằm trong ruột non trong nằm trong ruột non trong nằm trong ruột non trong phần ruột non cuối cùng cạnh phần ruột non cuối cùng cạnh"
+6589,嗯，然后当你带他们去手术室时，你就带他们去手术室。,"Ừm, và sau đó khi bạn đưa họ đến phòng phẫu thuật, bạn đưa họ đến phòng phẫu thuật"
+6589,右结肠旁的远端小肠。,Ruột non xa gần ruột già bên phải.
+6590,重要的是要了解疾病。,Điều quan trọng là phải hiểu được căn bệnh.
+6590,你把他们带到手术室，这就是你要看到的。,"Bạn đưa họ vào phòng phẫu thuật, đó là những gì bạn sẽ thấy."
 6591,了解疾病，了解疾病过程，了解这些肿瘤如何以及在何处扩散，然后通常只是,"để hiểu bệnh, để hiểu quá trình bệnh, để hiểu cách thức và nơi các khối u này có xu hướng lan rộng, và sau đó, thường chỉ"
 6592,然后，通常只是看看常规扫描，你就能对 DotaTape 的情况有一个了解。,"Sau đó, thường chỉ cần xem xét các lần quét thông thường, bạn có thể có một ý tưởng hoặc DotaTape có thể có một ý tưởng."
 6593,它对于外科医生了解肿瘤的位置也很重要。,Nó cũng quan trọng đối với các bác sĩ phẫu thuật để biết vị trí của khối u.
@@ -923,9 +1038,10 @@
 6597,太好了，你把它拿出来了，但你没有运行剩下的部分，你没有运行剩下的部分，你没有运行剩下的部分，这个小平衡，所以你有这个小平衡，所以你有这个小平衡，所以你有这个小平衡，所以你有未知的第二原发肿瘤，你还没有找到，对吧？,"Tuyệt vời, bạn đã lấy nó ra, nhưng sau đó bạn đã không chạy phần còn lại, bạn đã không chạy phần còn lại, bạn đã không chạy phần còn lại của số dư nhỏ, vì vậy bạn có số dư nhỏ, vì vậy bạn có số dư nhỏ, vì vậy bạn có số dư nhỏ, vì vậy bạn có các khối u nguyên phát thứ cấp không xác định mà bạn chưa tìm thấy, phải không?"
 6598,你还没找到，对吧？你还没找到，对吧？,"mà bạn chưa tìm thấy, phải không? mà bạn chưa tìm thấy, phải không?"
 6598,所以我觉得就像玛丽贝斯说的，我觉得就像玛丽贝斯说的，我觉得就像玛丽贝斯说的，之前，我觉得，你知道，之前，我觉得，你知道，,"Vì vậy, tôi nghĩ giống như Marybeth đã nói, tôi nghĩ giống như Marybeth đã nói, tôi nghĩ giống như Marybeth đã nói, trước đây, tôi nghĩ, bạn biết đấy, trước đây, tôi nghĩ, bạn biết đấy,"
-6600,对于这个问题真的很重要。对于你最后的问题，它是否重要？,"Bởi vì điều đó thực sự quan trọng. Đối với câu hỏi cuối cùng của bạn, nó có quan trọng không?"
+6600,对于你最后的问题，它是否重要？,"Đối với câu hỏi cuối cùng của bạn, nó có quan trọng không?"
 6600,它是否重要，取决于你是否看到或知道原发肿瘤。,"Nó có quan trọng không, tùy thuộc vào việc bạn có thấy hoặc biết khối u chính không."
 6600,你是否看到或知道原发肿瘤？,Bạn có thấy hoặc biết khối u chính không.
+6600,对于这个问题真的很重要。,Bởi vì điều đó thực sự quan trọng.
 6601,你正在进行手术，你正在进行手术，你正在进行手术，你试图治愈病人。试图治愈病人。试图治愈病人。,Bạn đang phẫu thuật và bạn đang phẫu thuật và bạn đang phẫu thuật và bạn đang cố gắng chữa bệnh cho bệnh nhân. cố gắng chữa bệnh cho bệnh nhân. cố gắng chữa bệnh cho bệnh nhân.
 6601,你的疾病是局限的。,Bệnh của bạn là cục bộ.
 6601,你的疾病是局限的。,Bệnh của bạn là cục bộ.
@@ -936,15 +1052,24 @@
 6605,作为外科医生，我们可以在术前或手术过程中做很多事情。,"Có rất nhiều việc chúng ta có thể làm với tư cách là bác sĩ phẫu thuật, trước mổ hoặc trong khi mổ."
 6605,手术室里有超声波。,Siêu âm trong phòng mổ.
 6606,外科医生在术前或手术过程中试图弄清楚这一点。,"Các bác sĩ phẫu thuật, trước khi phẫu thuật hoặc trong khi phẫu thuật, cố gắng tìm ra điều đó."
+6607,转移性疾病？,Bệnh di căn?
 6607,我们已经进行了,Chúng tôi đã
+6607,不太可能，我当然有一批病人，你知道他们有肝脏病变。,"Ít hơn và tôi chắc chắn có một số bệnh nhân, bạn biết là họ đã bị tổn thương gan."
 6608,我们已经采取了措施。我们已经切除了肝脏病灶，并对肠道进行了检查。我们对肠道进行了检查。,Chúng tôi đã lấy ra các tổn thương gan và chúng tôi chạy các tổn thương gan và chúng tôi chạy các tổn thương gan và chúng tôi chạy ruột.
 6609,我们检查了肠道。,Chúng tôi đã kiểm tra ruột.
 6609,我们到处查看。,Chúng tôi đã nhìn khắp nơi.
 6609,我们做了胰腺的超声检查。,Chúng tôi đã làm siêu âm tuyến tụy.
 6609,我们做了胰腺的超声检查。,Chúng tôi đã làm siêu âm tuyến tụy.
 6609,我们做了胰腺的超声检查。,Chúng tôi đã làm siêu âm tuyến tụy.
-6612,意思是说，即使你进行手术，肝脏的复发率也很高。,"Nghĩa là, ngay cả khi bạn phẫu thuật, tỷ lệ tái phát rất cao ở gan. Vì vậy,"
-6613,所以，所以，你知道，这并不意味着你不能知道，这并不意味着你不能知道，这并不意味着你不能活很长时间。这并不意味着活很长时间。这并不意味着活很长时间。,"Vì vậy, vì vậy, bạn biết đấy, điều đó không có nghĩa là bạn không thể biết, điều đó không có nghĩa là bạn không thể biết, điều đó không có nghĩa là bạn không thể sống lâu. Điều đó không có nghĩa là sống lâu. Điều đó không có nghĩa là sống lâu. Điều đó không có nghĩa là chúng không phải là liệu pháp tuyệt vời, chúng không phải là liệu pháp tuyệt vời"
+6610,我的意思是，有一些例外情况，,"Ý tôi là, có những trường hợp ngoại lệ, nơi"
+6610,我到处都找了，就是找不到原发肿瘤。,Tôi đã tìm kiếm khắp nơi. Và không có khối u nguyên phát nào được tìm thấy.
+6611,呃，当你这种情况是这种情况。,"Ờ, khi bạn điều này là trường hợp. Ờ, khi bạn điều này là trường hợp."
+6611,呃，当你有转移性疾病时，你有转移性疾病时，你有转移性疾病时，猫从后面出来了。,"Ờ, khi bạn bị bệnh di căn, bạn bị bệnh di căn, bạn bị bệnh di căn, con mèo đã thoát khỏi túi."
+6612,因此，,"Vì vậy,"
+6612,意思是说，即使你进行手术，肝脏的复发率也很高。,"Nghĩa là, ngay cả khi bạn phẫu thuật, tỷ lệ tái phát rất cao ở gan."
+6613,所以，所以，你知道，这并不意味着你不能知道，这并不意味着你不能知道，这并不意味着你不能活很长时间。,"Vì vậy, vì vậy, bạn biết đấy, điều đó không có nghĩa là bạn không thể biết, điều đó không có nghĩa là bạn không thể biết, điều đó không có nghĩa là bạn không thể sống lâu. Điều đó không có nghĩa là sống lâu."
+6613,这并不意味着活很长时间。,Điều đó không có nghĩa là sống lâu.
+6613,这并不意味着它们不是很好的治疗方法，它们不是很好的治疗方法,"Điều đó không có nghĩa là chúng không phải là liệu pháp tuyệt vời, chúng không phải là liệu pháp tuyệt vời"
 6613,肝脏中的含量很高。,Cao trong gan.
 6614,它们不是治疗你的好疗法，但在那种情况下，我认为，你知道，如果你真的不能,"Chúng không phải là liệu pháp tuyệt vời để điều trị bạn, nhưng trong những tình huống đó, tôi nghĩ rằng, bạn biết đấy, nếu bạn thực sự không thể"
 6615,你知道，如果你真的找不到原发肿瘤，你真的找不到原发肿瘤，如果你真的找不到原发肿瘤，在你经验范围内，你已经找过该找的地方，那你已经找过该找的地方，那你已经找过该找的地方，那就是,"Bạn biết đấy, nếu bạn thực sự không thể, bạn biết đấy, nếu bạn thực sự không thể tìm thấy một khối u nguyên phát trong kinh nghiệm của bạn và bạn đã tìm kiếm ở những nơi cần tìm, thì đó là"
@@ -956,8 +1081,9 @@
 6617,如果肿瘤是转移性疾病，且手术切除可行，则进行手术切除转移性疾病。,"Nếu bệnh là di căn và có thể phẫu thuật cắt bỏ, chúng ta sẽ phẫu thuật cắt bỏ bệnh di căn."
 6618,继续监测患者，也许原发肿瘤会在某个时间点出现，然后你就可以采取措施。,"Tiếp tục theo dõi bệnh nhân và có thể khối u nguyên phát sẽ xuất hiện ở một số điểm nào đó, và sau đó bạn có thể hành động."
 6619,我会照顾它，或者也许它不会。,"Tôi sẽ chăm sóc nó, hoặc có thể là không."
+6619,我会照顾它，或者也许它不会。,"Tôi sẽ chăm sóc nó, hoặc có thể là không."
 6619,然后你就可以照顾它，或者也许它不会。,"Rồi bạn có thể chăm sóc nó, hoặc có thể là không."
-6619,我会照顾它，或者也许它不会。我的意思是，我有一个病人，我的意思是，我有一个病人，我的意思是，我有一个病人，我做了右肝叶切除术，,"Tôi sẽ chăm sóc nó, hoặc có thể là không. Ý tôi là, tôi có một bệnh nhân nơi tôi muốn nói, tôi có một bệnh nhân nơi tôi muốn nói, tôi có một bệnh nhân nơi tôi đã thực hiện một phẫu thuật cắt bỏ thùy gan phải"
+6619,我的意思是，我有一个病人，我的意思是，我有一个病人，我的意思是，我有一个病人，我做了右肝叶切除术，,"Ý tôi là, tôi có một bệnh nhân nơi tôi muốn nói, tôi có một bệnh nhân nơi tôi muốn nói, tôi có một bệnh nhân nơi tôi đã thực hiện một phẫu thuật cắt bỏ thùy gan phải"
 6621,你知道，它再也没有出现过，我们，我们，我们只是没有备份，我们，我们，我们只是没有备份，我们，我们，我们只是不知道原发肿瘤在哪里。,"Bạn biết đấy, nó không bao giờ xuất hiện trở lại, chúng tôi, chúng tôi, chúng tôi chỉ không sao lưu, chúng tôi, chúng tôi, chúng tôi chỉ không sao lưu, chúng tôi, chúng tôi, chúng tôi chỉ không biết khối u nguyên phát ở đâu."
 6622,顺便说一下，现在有一些染色方法，在病理学上也有一些染色方法。,"Lưu ý là hiện nay có một số phương pháp nhuộm, trên một số phương pháp nhuộm hiện nay, trên một số phương pháp nhuộm hiện nay, về bệnh lý học, cũng có"
 6623,病理学，还有病理学，还有分子，分子遗传学，肿瘤的分子遗传学，它们可以给你一个提示，它们可以给你一个提示，它们可以给你一个提示，提示原发肿瘤在哪里。,"Bệnh lý, cũng có bệnh lý, cũng có phân tử, di truyền học phân tử, di truyền học phân tử của khối u, chúng có thể cho bạn một gợi ý, chúng có thể cho bạn một gợi ý, chúng có thể cho bạn một gợi ý về vị trí của khối u chính."
@@ -976,7 +1102,9 @@
 6630,是的，非常感谢您提供这些有用的信息。,"Vâng, cảm ơn bạn rất nhiều vì những thông tin hữu ích đó."
 6630,休斯医生，您如何判断患者是否需要手术？,"Tiến sĩ Hughes, làm sao bạn xác định được liệu bệnh nhân có cần phẫu thuật hay không?"
 6631,患者是否适合手术，最佳手术方案是什么，还有其他可能的治疗方法？,Bệnh nhân có phải là ứng viên phẫu thuật không và phương pháp phẫu thuật tốt nhất là gì và các phương pháp điều trị khả thi khác là gì?
-6632,其他可能的治疗方法有哪些？这是一个好问题。,Các phương pháp điều trị có thể khác là gì? Đó là một câu hỏi tuyệt vời.
+6632,我认为,Tôi nghĩ rằng
+6632,其他可能的治疗方法有哪些？,Các phương pháp điều trị có thể khác là gì?
+6632,这是一个好问题。,Đó là một câu hỏi tuyệt vời.
 6633,我认为，作为内分泌外科医生，我们所做最重要的事情之一就是当我们,"Tôi nghĩ rằng đó có lẽ là một trong những điều quan trọng nhất mà chúng tôi làm với tư cách là bác sĩ phẫu thuật nội tiết, đó là khi chúng tôi"
 6634,肿瘤的类型是什么？,Loại khối u là gì?
 6634,例如，病人的肿瘤在哪里？,"Ví dụ, khối u ở đâu?"
@@ -998,16 +1126,25 @@
 6641,例如，对于消费者来说，胰腺的位置很重要。,"Ví dụ, đối với người tiêu dùng, vị trí trong tuyến tụy là quan trọng."
 6642,如果胰腺没有受到影响，并且没有影响到主胰管，那么有时可以进行称为核化的治疗。,"Nếu tuyến tụy không bị ảnh hưởng và không ảnh hưởng đến ống tụy chính, thì đôi khi bạn có thể thực hiện cái gọi là nhân hóa."
 6644,正常的胰腺，它是一个正常的胰腺，与其他类型的胰腺肿瘤略有不同，然后，如果它确实涉及到,"tuyến tụy bình thường, là một tuyến tụy bình thường, hơi khác so với các loại khối u tuyến tụy khác, và sau đó, nếu nó có liên quan đến"
-6645,然后，如果确实涉及到主胰管，那么就必须进行胰腺正式切除。,"Sau đó, nếu nó liên quan đến ống dẫn mật chính, thì bạn phải tiến hành cắt bỏ tuyến tụy chính thức. Nếu bạn ở"
+6645,如果你在,Nếu bạn ở
+6645,然后，如果确实涉及到主胰管，那么就必须进行胰腺正式切除。,"Sau đó, nếu nó liên quan đến ống dẫn mật chính, thì bạn phải tiến hành cắt bỏ tuyến tụy chính thức."
 6646,如果你在胰腺的尾部，胰腺的尾部，胰腺的尾部，涉及，你知道，切入涉及，你知道，切入涉及，你知道，切入它前面的部分，而这,"Nếu bạn ở phần đuôi của tuyến tụy, phần đuôi của tuyến tụy, phần đuôi của tuyến tụy, điều đó liên quan đến, bạn biết đấy, việc cắt vào liên quan đến, bạn biết đấy, việc cắt vào liên quan đến, bạn biết đấy, việc cắt vào phía trước nó trong khi điều này"
+6647,如果它在,Nếu nó ở trong
 6647,它的前面，而这个前面，而这个负边缘，并取负边缘，并取负边缘，并取下游部分，朝向脾脏。,"phía trước nó trong khi phần trước này, trong khi cạnh âm này và lấy cạnh âm này và lấy cạnh âm này và lấy phần hạ lưu hướng về lách."
 6648,朝向脾脏。如果它在胰腺头部，而胰腺头部靠近小肠十二指肠，那么通常会,"Nếu nó nằm ở đầu tuyến tụy, nơi đầu tuyến tụy nằm cạnh ruột non tá tràng, thì thường sẽ"
 6649,十二指肠，然后，通常需要胰腺切除术或惠普尔手术,"tá tràng, sau đó, thường sẽ yêu cầu cắt bỏ tuyến tụy hoặc một thủ tục Whipple, đó là"
+6650,嗯，如果它是小肠神经内分泌肿瘤，那么,"Ừm, nếu đó là một khối u thần kinh nội tiết ở ruột non, thì"
 6651,如果存在神经内分泌肿瘤，并且该神经内分泌肿瘤需要进行小肠切除术，我们会尽力保留尽可能多的肠道。,"Nếu có khối u nội tiết thần kinh và khối u đó cần phẫu thuật cắt bỏ ruột non, chúng tôi luôn cố gắng bảo tồn càng nhiều ruột càng tốt."
 6652,我们总是尽可能保留回盲瓣，因为它是一个小瓣膜，允许所有液体通过。,"Chúng tôi luôn cố gắng bảo tồn van hồi tràng-manh tràng nếu có thể, bởi vì đó là van nhỏ cho phép tất cả chất lỏng đi qua."
-6653,阀门使所有来自小肠的液体从小肠流入结肠。有时，它流入结肠。有时，它流入结肠。,"Van cho phép tất cả chất lỏng từ ruột non đi từ ruột non vào ruột già. Đôi khi, nó đi vào ruột già. Đôi khi, nó đi vào ruột già. Đôi khi, điều đó không thể xảy ra do vị trí."
+6653,有时，由于位置原因，这是不可能的。,"Đôi khi, điều đó không thể xảy ra do vị trí."
+6653,有时，它流入结肠。,"Đôi khi, nó đi vào ruột già."
+6653,有时，它流入结肠。,"Đôi khi, nó đi vào ruột già."
+6653,阀门使所有来自小肠的液体从小肠流入结肠。,Van cho phép tất cả chất lỏng từ ruột non đi từ ruột non vào ruột già.
 6654,由于其位置或转移到沿其的淋巴结，这不可能。,Điều này không thể xảy ra do vị trí của nó hoặc nơi nó di chuyển đến các hạch bạch huyết dọc theo các mạch máu.
-6655,有时你必须把它取出来，把肠子放回去，把肠子放回去，把肠子缝合起来。嗯，我们怎样才能把它们缝合起来。嗯，我们怎样才能把它们缝合起来。,"Đôi khi bạn phải lấy nó ra, cho ruột vào lại, cho ruột vào lại, khâu ruột lại. Ừm, làm sao chúng ta có thể khâu chúng lại với nhau. Ừm, làm sao chúng ta có thể khâu chúng lại với nhau. Ừm, cách chúng ta thực hiện những ca phẫu thuật này khác nhau, nhưng"
+6655,嗯，我们做这些手术的方式各不相同，但是,"Ừm, cách chúng ta thực hiện những ca phẫu thuật này khác nhau, nhưng"
+6655,有时你必须把它取出来，把肠子放回去，把肠子放回去，把肠子缝合起来。,"Đôi khi bạn phải lấy nó ra, cho ruột vào lại, cho ruột vào lại, khâu ruột lại."
+6655,嗯，我们怎样才能把它们缝合起来。,"Ừm, làm sao chúng ta có thể khâu chúng lại với nhau."
+6655,嗯，我们怎样才能把它们缝合起来。,"Ừm, làm sao chúng ta có thể khâu chúng lại với nhau."
 6656,手术方法多种多样，但我的意思是，有时我们会做腹腔镜辅助手术。,"Các ca phẫu thuật khác nhau, nhưng điều tôi muốn nói là đôi khi chúng tôi thực hiện các ca phẫu thuật được hỗ trợ bằng nội soi."
 6657,我们做腹腔镜辅助手术，可以做小肠手术，但我们总是喜欢医生告诉我们的那样。,"Chúng tôi thực hiện các ca phẫu thuật hỗ trợ nội soi, nơi chúng tôi có thể thực hiện một ca phẫu thuật ruột non nhỏ, nhưng chúng tôi luôn muốn làm theo cách bác sĩ đã nói với chúng tôi."
 6658,医生总是告诉我们，我们喜欢跑小肠，因为我们想要感觉小肠，以确保我们,"Bác sĩ luôn nói với chúng tôi rằng chúng tôi thích chạy ruột non, bởi vì chúng tôi muốn cảm nhận ruột non, để đảm bảo rằng chúng tôi"
@@ -1018,12 +1155,21 @@
 6663,我们称原发部位到淋巴结和肝脏，有时我们会对转移性疾病进行手术,"Chúng tôi gọi vị trí chính đến các hạch bạch huyết và gan, có những lúc chúng tôi sẽ phẫu thuật cho bệnh di căn"
 6664,针对转移性疾病，我们会进行手术，我们称之为手术减瘤或去瘤。,"Phẫu thuật bệnh di căn, đó là những gì chúng tôi gọi là giảm khối u phẫu thuật hoặc giảm khối u."
 6664,你会听到这些术语。,Bạn sẽ nghe những thuật ngữ này ở đâu
-6665,你会听到这些术语，如果你能从这个数据中排除掉绝大多数肿瘤，介于 75% 到 90% 之间。,"Bạn sẽ nghe những thuật ngữ đó ở đâu nếu bạn có thể loại bỏ phần lớn các khối u trong dữ liệu này, từ 75% đến 90%. Ừm, tôi"
-6666,数据在 75% 到 90% 之间。嗯，我倾向于使用 75% 的数据，但我如果能得到更新的数据，那就更好了。,"Dữ liệu nằm trong khoảng từ 75% đến 90%. Ừm, tôi có xu hướng sử dụng dữ liệu 75%, nhưng nếu có thể có được dữ liệu mới hơn thì tốt hơn."
+6665,嗯，我,"Ừm, tôi"
+6665,你会听到这些术语，如果你能从这个数据中排除掉绝大多数肿瘤，介于 75% 到 90% 之间。,"Bạn sẽ nghe những thuật ngữ đó ở đâu nếu bạn có thể loại bỏ phần lớn các khối u trong dữ liệu này, từ 75% đến 90%."
+6666,数据在 75% 到 90% 之间。,Dữ liệu nằm trong khoảng từ 75% đến 90%.
+6666,嗯，我倾向于使用 75% 的数据，但我如果能得到更新的数据，那就更好了。,"Ừm, tôi có xu hướng sử dụng dữ liệu 75%, nhưng nếu có thể có được dữ liệu mới hơn thì tốt hơn."
 6667,更新的数据，但如果您可以切除 75% 的转移性肿瘤，以及您的原发肿瘤，那么，,"dữ liệu mới hơn nhưng nếu bạn có thể loại bỏ 75% khối u di căn, cũng như khối u chính của bạn, thì,"
-6669,生存和获益的进展。但是，并非每个人都受益。但是，并非每个人都受益。,"Sự sống còn và tiến triển của lợi ích. Ờ, nhưng không phải ai cũng được hưởng lợi. Ờ, nhưng không phải ai cũng được hưởng lợi. Ờ, nhưng không phải ai cũng hung hăng như vậy."
-6670,所以，这就是为什么你必须找到一位拥有这种经验的外科医生。嗯，有时，,"Vì vậy, đó là lý do tại sao bạn phải tìm một bác sĩ phẫu thuật có kinh nghiệm như vậy. Ừm, và đôi khi,"
-6671,嗯，有时，经历。嗯，有时，肿瘤广泛，在骨头里，肿瘤广泛，在骨头里，肿瘤广泛，在骨头里，诸如此类，诸如此类，诸如此类，有时手术切除,"kinh nghiệm. Ừm và đôi khi, kinh nghiệm. Ừm và đôi khi, khối u lan rộng và trong xương, khối u lan rộng và trong xương, khối u lan rộng và trong xương và những thứ như vậy và những thứ như vậy và những thứ như vậy và đôi khi phẫu thuật cắt bỏ"
+6669,所以，,"Vì vậy,"
+6669,但是，并非每个人都受益。,"Ờ, nhưng không phải ai cũng được hưởng lợi."
+6669,但是，并非每个人都受益。,"Ờ, nhưng không phải ai cũng được hưởng lợi."
+6669,生存和获益的进展。,Sự sống còn và tiến triển của lợi ích.
+6669,但是，并非每个人都那么积极。,"Ờ, nhưng không phải ai cũng hung hăng như vậy."
+6670,所以，这就是为什么你必须找到一位拥有这种经验的外科医生。,"Vì vậy, đó là lý do tại sao bạn phải tìm một bác sĩ phẫu thuật có kinh nghiệm như vậy."
+6670,嗯，有时，,"Ừm, và đôi khi,"
+6671,嗯，有时，经历。,"Ừm và đôi khi, kinh nghiệm."
+6671,经历。,kinh nghiệm.
+6671,嗯，有时，肿瘤广泛，在骨头里，肿瘤广泛，在骨头里，肿瘤广泛，在骨头里，诸如此类，诸如此类，诸如此类，有时手术切除,"Ừm và đôi khi, khối u lan rộng và trong xương, khối u lan rộng và trong xương, khối u lan rộng và trong xương và những thứ như vậy và những thứ như vậy và những thứ như vậy và đôi khi phẫu thuật cắt bỏ"
 6672,有时手术切除没有意义。,"Đôi khi, phẫu thuật cắt bỏ không hợp lý."
 6672,如果它是一个没有功能的肿瘤，而且它没有产生激素。,Nếu đó là một khối u không hoạt động và nó không sản xuất hormone.
 6673,还有其他方法可以治疗，比如，比如说,"Có những cách khác để điều trị nó, ví dụ như, giả sử"
@@ -1033,18 +1179,25 @@
 6678,因为神经内分泌肿瘤在动脉期非常亮，因为它们摄取了大量的,bởi vì các khối u thần kinh nội tiết rất sáng trong giai đoạn động mạch vì chúng hấp thụ rất nhiều
 6679,它们占据了大量的动脉血流，而不是像正常肝脏那样进入门静脉血流，因此你可以,"chúng chiếm một lượng lớn dòng máu động mạch, trái ngược với dòng máu cửa như trong gan bình thường, và do đó bạn có thể"
 6680,正常的肝脏，因此你可以通过进入肝动脉并切断它们的血液供应来靶向它们。,"Một gan bình thường, vì vậy bạn có thể nhắm mục tiêu chúng bằng cách đi lên động mạch gan và loại bỏ nguồn cung cấp máu của chúng."
-6683,你正在分泌这些激素，这些激素会减少进入血液的量，从而导致你出现症状。,"Bạn đang tiết ra những hormone này, những hormone này có thể làm giảm lượng hormone đi thẳng vào máu và khiến bạn có các triệu chứng. Ừm"
-6684,它会让你出现症状。嗯，它会让你出现症状。嗯，还有其他类型的栓塞，例如放射性栓塞，例如放射性栓塞，例如放射性栓塞，他们会把,"và khiến bạn có các triệu chứng. Ờm, và khiến bạn có các triệu chứng. Ờm, có những loại nhồi máu khác, chẳng hạn như nhồi máu phóng xạ, chẳng hạn như nhồi máu phóng xạ, chẳng hạn như nhồi máu phóng xạ, trong đó họ"
-6685,栓塞术，他们将栓塞术，他们将小放射性颗粒放到小放射性颗粒放到小放射性颗粒放到肝动脉中。嗯，肝动脉中。嗯，肝动脉中。,"nhồi máu, nơi họ đặt nhồi máu, nơi họ đặt những viên thuốc phóng xạ nhỏ lên những viên thuốc phóng xạ nhỏ lên những viên thuốc phóng xạ nhỏ lên động mạch gan nữa. Ừm động mạch gan nữa. Ừm động mạch gan nữa. Ừm và sau đó tất nhiên là"
+6683,嗯,Ừm
+6683,你正在分泌这些激素，这些激素会减少进入血液的量，从而导致你出现症状。,"Bạn đang tiết ra những hormone này, những hormone này có thể làm giảm lượng hormone đi thẳng vào máu và khiến bạn có các triệu chứng."
+6684,嗯，还有其他类型的栓塞，例如放射性栓塞，例如放射性栓塞，例如放射性栓塞，他们会把,"Ờm, có những loại nhồi máu khác, chẳng hạn như nhồi máu phóng xạ, chẳng hạn như nhồi máu phóng xạ, chẳng hạn như nhồi máu phóng xạ, trong đó họ"
+6684,嗯，它会让你出现症状。,"Ờm, và khiến bạn có các triệu chứng."
+6685,嗯，然后当然还有,Ừm và sau đó tất nhiên là
+6685,嗯，肝动脉中。,Ừm động mạch gan nữa.
+6685,嗯，肝动脉中。,Ừm động mạch gan nữa.
 6686,当然还有其他治疗方法，比如 Ludifera 或 PRT，你会听到的。,"Và sau đó, tất nhiên, có những phương pháp điều trị khác như Ludifera hoặc PRT mà bạn sẽ nghe nói đến."
+6687,或者你将要听到的PRT，它在身体的各个部位都有。,hoặc PRT mà bạn sẽ nghe đến. Loại mà kiểu như đi khắp cơ thể.
 6688,这是一个标记为“小辐射标记”的无线电，但您需要拥有5-羟色胺2受体，才能知道这一点。,"Đó là một máy phát thanh được dán nhãn ""nhỏ, dấu hiệu bức xạ"", nhưng bạn cần phải có thụ thể serotonin 2 để biết điều đó."
 6690,PET 扫描可能是您可能适合进行的检查，但它也有一些副作用，您需要考虑这些副作用。,"Chụp PET có thể là một lựa chọn cho bạn, nhưng nó có thể có tác dụng phụ mà bạn cần lưu ý."
 6691,所以，这里面有很多东西，很多东西。,"Vì vậy, có những thứ như vậy. Vì vậy, có những thứ như vậy."
 6691,副作用，而且你必须肾功能良好，肾功能良好，肾功能良好等等。所以，就是这样。,tác dụng phụ và bạn phải có chức năng thận tốt và có chức năng thận tốt và có chức năng thận tốt và những thứ tương tự.
 6692,有很多不同的治疗方法，我希望能回答大部分问题，但可能还有一些问题。,"Có rất nhiều điều liên quan đến tất cả các phương pháp điều trị khác nhau này. Tôi hy vọng điều này sẽ giải đáp phần lớn các câu hỏi, nhưng có thể vẫn còn một số câu hỏi khác."
 6693,但是问题是，有不同的方法，既有手术方法，也有腹腔镜方法，还有机器人辅助手术和开放手术。,"Nhưng vấn đề là có những cách tiếp cận khác nhau, cả phẫu thuật, nội soi, robot và phẫu thuật mở."
-6694,机器人开放手术，机器人开放手术，当然还有多学科团队，包括介入放射科医生。,"Phẫu thuật mở bằng robot, và phẫu thuật mở bằng robot, và sau đó, tất nhiên, có một nhóm đa ngành với bác sĩ phóng xạ can thiệp. Ừm"
-6695,介入放射科医生。嗯，介入放射科医生。嗯，有时如果你在肝脏有一个单一的病灶，你可以进行消融治疗，有时如果你在肝脏有一个单一的病灶，你可以进行消融治疗，有时如果你在肝脏有一个单一的病灶，你可以进行消融治疗，,"Bác sĩ phẫu thuật can thiệp. Ừm, bác sĩ phẫu thuật can thiệp. Ừm, đôi khi nếu bạn có một vị trí duy nhất trong gan, bạn có thể chỉ cần làm một ca tiêu diệt, đôi khi nếu bạn có một vị trí duy nhất trong gan, bạn có thể chỉ cần làm một ca tiêu diệt, đôi khi nếu bạn có một vị trí duy nhất trong gan, bạn có thể chỉ cần làm một ca tiêu diệt,"
+6694,嗯,Ừm
+6694,机器人开放手术，机器人开放手术，当然还有多学科团队，包括介入放射科医生。,"Phẫu thuật mở bằng robot, và phẫu thuật mở bằng robot, và sau đó, tất nhiên, có một nhóm đa ngành với bác sĩ phóng xạ can thiệp."
+6695,嗯，有时如果你在肝脏有一个单一的病灶，你可以进行消融治疗，有时如果你在肝脏有一个单一的病灶，你可以进行消融治疗，有时如果你在肝脏有一个单一的病灶，你可以进行消融治疗，,"Ừm, đôi khi nếu bạn có một vị trí duy nhất trong gan, bạn có thể chỉ cần làm một ca tiêu diệt, đôi khi nếu bạn có một vị trí duy nhất trong gan, bạn có thể chỉ cần làm một ca tiêu diệt, đôi khi nếu bạn có một vị trí duy nhất trong gan, bạn có thể chỉ cần làm một ca tiêu diệt,"
+6695,嗯，介入放射科医生。,"Ừm, bác sĩ phẫu thuật can thiệp."
 6696,当然，它也可以通过手术方式完成，就像它可以通过手术方式完成一样。,"Tất nhiên, nó có thể được thực hiện bằng phẫu thuật, vì nó có thể được thực hiện bằng phẫu thuật."
 6697,谢谢您，休斯医生。,"Cảm ơn bạn, Bác sĩ Hughes."
 6697,我觉得您的回答真的,Tôi nghĩ câu trả lời của bạn thực sự
@@ -1055,6 +1208,7 @@
 6701,燕小姐，如果可以的话，请来。,"Cô Yen, nếu có thể, hãy đến."
 6701,排序并确保排序，确保每个人都知道下一步，每个人都知道下一步，每个人都知道下一步。,"Phân loại và đảm bảo phân loại và đảm bảo mọi người đều biết bước tiếp theo, mọi người đều biết bước tiếp theo, mọi người đều biết bước tiếp theo sắp đến."
 6702,燕小姐，如果可以的话，现在问您一个问题，现在问您一个问题，现在问您一个问题，照护者和照护者和照护者以及患者能做什么来帮助准备,"Cô Yen, nếu có thể, hãy đặt câu hỏi cho cô ấy ngay bây giờ, hãy đặt câu hỏi cho cô ấy ngay bây giờ, hãy đặt câu hỏi cho cô ấy ngay bây giờ, những người chăm sóc và những người chăm sóc và những người chăm sóc và bệnh nhân có thể làm gì để giúp chuẩn bị cho"
+6702,要来了。,sẽ đến.
 6703,患者应该做些什么来帮助他们为手术本身以及术后阶段做好准备？,Bệnh nhân nên làm gì để chuẩn bị cho cả phẫu thuật và giai đoạn hậu phẫu?
 6703,谢谢您，医生，谢谢您的问题。,"Cảm ơn câu hỏi này, Bác sĩ."
 6704,对于这个问题，奥特曼医生，这是一个非常好的问题，而且是我们支持团队经常遇到的问题。,"Đối với câu hỏi này, Bác sĩ Altman. Đây là một câu hỏi rất hay và là một câu hỏi thường xuyên được đặt ra trong bộ phận hỗ trợ của chúng tôi."
@@ -1064,9 +1218,14 @@
 6707,我们当然知道，外科医生会,"Chúng tôi biết, tất nhiên, rằng bác sĩ phẫu thuật sẽ"
 6707,基于第一手患者和护理人员经验的讨论。,Các cuộc thảo luận dựa trên kinh nghiệm trực tiếp từ bệnh nhân và người chăm sóc.
 6708,当然，外科医生会解释手术，并且像休斯医生刚才做的那样，解释得非常清楚。,"Tất nhiên, bác sĩ phẫu thuật sẽ giải thích về ca phẫu thuật, và sẽ giải thích rất rõ ràng, như bác sĩ Hughes đã làm. Ừm, và tôi cũng"
-6709,我刚刚做完。嗯，我也很好奇，外科医生们。嗯，很好奇，外科医生们。,"Tôi vừa làm xong. Ờ, và tôi cũng tò mò về các bác sĩ phẫu thuật. Ờ, tò mò về các bác sĩ phẫu thuật. Ờ, tò mò về các bác sĩ phẫu thuật. Ờ, trong bảng điều khiển."
-6709,想想这个问题。嗯，我就要,"Hãy suy nghĩ về câu hỏi này. Ờ, tôi sẽ"
-6710,嗯，我只是想问问。嗯，我只是想分享一些来自我们患者社区的建议，当然，这些建议并非,"Ừm, tôi chỉ muốn hỏi. Ừm, tôi chỉ muốn chia sẻ một vài mẹo từ cộng đồng bệnh nhân của chúng tôi, và tất nhiên, những mẹo này không"
+6709,我刚刚做完。,Tôi vừa làm xong.
+6709,嗯，我就要,"Ờ, tôi sẽ"
+6709,想想这个问题。,Hãy suy nghĩ về câu hỏi này.
+6709,嗯，我也很好奇，外科医生们。,"Ờ, và tôi cũng tò mò về các bác sĩ phẫu thuật."
+6709,嗯，很好奇，外科医生们。,"Ờ, tò mò về các bác sĩ phẫu thuật."
+6709,嗯，很好奇，外科医生们。,"Ờ, tò mò về các bác sĩ phẫu thuật."
+6710,嗯，我只是想问问。,"Ừm, tôi chỉ muốn hỏi."
+6710,嗯，我只是想分享一些来自我们患者社区的建议，当然，这些建议并非,"Ừm, tôi chỉ muốn chia sẻ một vài mẹo từ cộng đồng bệnh nhân của chúng tôi, và tất nhiên, những mẹo này không"
 6711,当然，这些建议不能取代医疗团队的指示，我建议您与您的医生讨论您的情况。,"Tất nhiên, những lời khuyên này không thay thế cho hướng dẫn của đội ngũ y tế, và tôi khuyên bạn nên nói chuyện với bác sĩ về tình trạng của mình."
 6712,因此，在您个人的护理方面。,"Vì vậy, về việc chăm sóc cá nhân."
 6712,因此，在您个人的护理方面。,"Vì vậy, về việc chăm sóc cá nhân."
@@ -1077,7 +1236,7 @@
 6714,外科医生告诉我的丈夫，外科医生告诉我的丈夫，他的工作是要尽可能地强壮，而休斯医生则提到要保持身体健康。,Bác sĩ phẫu thuật nói với chồng tôi rằng bác sĩ phẫu thuật nói với chồng tôi rằng công việc của anh ấy là phải khỏe mạnh hết mức có thể và Bác sĩ Hughes đã đề cập đến việc giữ gìn sức khỏe.
 6715,他提到自己身体健康。,Anh ấy đã đề cập đến việc mình khỏe mạnh về mặt y tế.
 6715,因此，对我的丈夫来说，这意味着要通过散步来增强体质，保持身体活跃。,"Vì vậy, đối với chồng tôi, điều đó có nghĩa là trở nên khỏe mạnh hơn bằng cách đi bộ, năng động về thể chất."
-6716,保持身体活跃并食用均衡的营养食物饮食。现在不是开始节食或开始节食的时机。,Tập thể dục thường xuyên và ăn uống cân bằng với chế độ ăn uống cân bằng với chế độ ăn uống cân bằng với các loại thực phẩm bổ dưỡng. Đây không phải là thời điểm để bắt đầu chế độ ăn kiêng hoặc để bắt đầu chế độ ăn kiêng.
+6716,现在不是开始节食或开始节食的时机。,Đây không phải là thời điểm để bắt đầu chế độ ăn kiêng hoặc để bắt đầu chế độ ăn kiêng.
 6717,开始节食或突然成为素食者的时机。,Thời gian để bắt đầu ăn kiêng hoặc đột ngột trở thành người ăn chay.
 6717,不是说突然成为成为素食者有什么问题。,Không phải là đột ngột trở thành người ăn chay.
 6717,不是说突然成为素食者有什么问题。,Không phải là đột ngột trở thành người ăn chay.
@@ -1089,21 +1248,29 @@
 6722,询问疼痛管理。,Hỏi về quản lý cơn đau.
 6722,手术后谁来管理疼痛，以及何时开始这种管理关系？,Ai sẽ quản lý cơn đau sau phẫu thuật và khi nào mối quan hệ đó sẽ bắt đầu?
 6723,这种关系会开始吗？,Mối quan hệ đó sẽ bắt đầu?
-6723,护理中是否有一个支付团队参与？嗯，也有人在场，可以,"Có một nhóm thanh toán nào tham gia vào việc chăm sóc? Ừm, cũng tham gia vào việc chăm sóc. Ừm, cũng có người có mặt, người có thể"
+6723,护理中是否有一个支付团队参与？,Có một nhóm thanh toán nào tham gia vào việc chăm sóc?
+6723,嗯，也有人在场，可以,"Ừm, cũng có người có mặt, người có thể"
 6724,有个人在场，可以记笔记，问问题，并在您有疑问或管理方面存在问题时为您辩护,"Có người có mặt để ghi chú, đặt câu hỏi và bênh vực cho bạn nếu bạn có vấn đề, vấn đề với việc quản lý"
+6725,您是,Bạn là
 6725,这非常有帮助。,Nó rất hữu ích.
 6725,关于管理担忧、管理疼痛问题或与医疗团队沟通困难的问题。,"Mối quan tâm, vấn đề về quản lý mối quan tâm, vấn đề về quản lý cơn đau hoặc khó khăn về cơn đau, hoặc khó khăn trong việc giao tiếp với nhóm y tế của bạn."
 6726,你服用很多药物，缺乏睡眠、疼痛和压力。,"Bạn đang dùng rất nhiều loại thuốc, thiếu ngủ, đau đớn, căng thẳng."
+6726,团队。,Đội.
 6726,这很有帮助。,Nó rất hữu ích.
 6726,有很多事情让你迷糊，,"Có rất nhiều thứ đang làm bạn mông lung,"
 6727,所以沟通，和判断。,"Vì vậy, giao tiếp và phán đoán."
 6727,所以沟通，和判断。,"Vì vậy, giao tiếp và phán đoán."
 6727,很多事情混淆了，很多事情混淆了，沟通，和判断。,"Rất nhiều điều làm mờ, rất nhiều điều làm mờ, giao tiếp và phán đoán."
-6727,所以，有个人在那里会很有帮助。嗯，还有就是,"Vì vậy, thật hữu ích khi có ai đó ở đó. Ừm, và một điều nữa là"
+6727,所以，有个人在那里会很有帮助。,"Vì vậy, thật hữu ích khi có ai đó ở đó."
+6727,嗯，还有就是,"Ừm, và một điều nữa là"
 6728,还有，另外一件事是，真的要考虑营造一个疗愈的环境。,"Và một điều nữa là, thực sự cần phải suy nghĩ về việc thiết lập một môi trường chữa lành."
-6729,医生、护士和工作人员，他们负责照顾员工，他们负责照顾员工，他们负责所有医疗事宜。嗯，但所有医疗事宜。嗯，但所有医疗事宜。,"Các bác sĩ, y tá, nhân viên, họ đang chăm sóc nhân viên, họ đang chăm sóc nhân viên, họ đang chăm sóc tất cả các vấn đề y tế. Ừm, nhưng tất cả các vấn đề y tế. Ừm, nhưng tất cả các vấn đề y tế. Ừm, nhưng cũng xem xét việc chuẩn bị âm nhạc cũng xem xét việc chuẩn bị âm nhạc"
+6729,嗯，但所有医疗事宜。,"Ừm, nhưng tất cả các vấn đề y tế."
+6729,嗯，但所有医疗事宜。,"Ừm, nhưng tất cả các vấn đề y tế."
+6729,医生、护士和工作人员，他们负责照顾员工，他们负责照顾员工，他们负责所有医疗事宜。,"Các bác sĩ, y tá, nhân viên, họ đang chăm sóc nhân viên, họ đang chăm sóc nhân viên, họ đang chăm sóc tất cả các vấn đề y tế."
+6729,嗯，但也要考虑准备音乐也要考虑准备音乐,"Ừm, nhưng cũng xem xét việc chuẩn bị âm nhạc cũng xem xét việc chuẩn bị âm nhạc"
 6730,还可以考虑准备一个播放列表，里面包含治愈音乐，以及下载或练习一些治愈音乐。,Cũng nên xem xét việc chuẩn bị một danh sách phát nhạc chữa lành và tải xuống hoặc thực hành một số nhạc chữa lành.
 6731,下载或练习一些正念冥想、正念冥想、正念冥想、呼吸练习或呼吸练习、呼吸练习或想象练习。,"Tải xuống hoặc thực hành một số thiền định chánh niệm, thiền định chánh niệm, thiền định chánh niệm, bài tập thở hoặc bài tập thở, bài tập thở hoặc bài tập hình dung. Họ bài tập hình dung."
+6731,他们,Họ
 6732,然后，在准备回家方面，我们喜欢,"Và sau đó, về việc chuẩn bị cho việc trở về nhà, chúng tôi muốn"
 6732,它们都有助于愈合。,Tất cả chúng đều có thể giúp chữa lành.
 6732,并且都可以帮助愈合。,Và tất cả đều có thể giúp chữa lành.
@@ -1133,20 +1300,28 @@
 6749,好的日子和不好的日子，以及病人好的日子和不好的日子，病人常常说，恢复比预期要长得多。,"Những ngày tốt đẹp và những ngày tồi tệ, và những ngày của bệnh nhân và những ngày tồi tệ, và bệnh nhân thường nói rằng mất nhiều thời gian hơn dự kiến để hồi phục."
 6750,而且没有必要与其他人的恢复情况进行比较。,Và không cần so sánh với cách người khác hồi phục.
 6750,如果你比其他人更快地做完，你不会得到金星。,Bạn sẽ không nhận được sao vàng nếu bạn làm nhanh hơn người khác.
+6751,而且这可能比你预期的要花费更多时间。,Và nó có thể mất nhiều thời gian hơn bạn mong đợi.
 6751,这完全是关于你自己的。,Tất cả điều này là về bạn.
-6751,而且这可能比你预期的要花费更多时间。,Và nó có thể mất nhiều thời gian hơn bạn mong đợi. Để cảm thấy như bạn đang
 6751,关注他人如何恢复。,Về cách người khác phục hồi.
-6752,您期望恢复到正常状态。为了感觉自己回到了正常状态，因此对自己的宽容很重要。,"Bạn mong đợi trở lại trạng thái bình thường của mình. Để cảm thấy như chính mình, điều quan trọng là phải bao dung với bản thân."
-6753,非常感谢尹小姐提供的那些有用的提示和见解。我们还有一个问题想问您。,"Cảm ơn cô Yin rất nhiều vì những lời khuyên và hiểu biết hữu ích đó. À, chúng tôi có một câu hỏi cuối cùng dành cho cô. À, cô nghĩ gì"
+6752,您期望恢复到正常状态。,Bạn mong đợi trở lại trạng thái bình thường của mình.
+6753,非常感谢尹小姐提供的那些有用的提示和见解。,Cảm ơn cô Yin rất nhiều vì những lời khuyên và hiểu biết hữu ích đó.
 6754,您认为神经内分泌肿瘤患者及其照护者有哪些未满足的需求？,Bạn nghĩ gì về những nhu cầu chưa được đáp ứng của bệnh nhân mắc u thần kinh nội tiết và người chăm sóc họ?
-6755,这是他们的照护者？这是一个很大的问题。嗯，我们都认识到，获取是一个大问题。,"Người chăm sóc của họ? Ồ. Đây là người chăm sóc của họ? Ồ. Đây là một câu hỏi lớn. Ừm, tất cả chúng ta đều nhận ra rằng việc tiếp cận là một vấn đề lớn."
-6756,获得真正理解这一点的提供者，以及获得包括临床试验在内的治疗方法。,"Truy cập vào các nhà cung cấp thực sự hiểu điều đó và truy cập vào các phương pháp điều trị bao gồm cả các thử nghiệm lâm sàng. Ừm, có"
-6757,临床试验。嗯，有临床试验。嗯，当然还有资金缺口，当然还有资金缺口，当然还有资金缺口，包括药物成本，包括药物成本，包括药物成本，治疗费用，前往看病的旅费,"Thử nghiệm lâm sàng. Ừm, có thử nghiệm lâm sàng. Ừm, dĩ nhiên là có khoảng cách tài chính, dĩ nhiên là có khoảng cách tài chính, dĩ nhiên là có khoảng cách tài chính, bao gồm chi phí thuốc, bao gồm chi phí thuốc, bao gồm chi phí thuốc, điều trị, đi lại để khám bệnh"
+6755,这是一个很大的问题。,Đây là một câu hỏi lớn.
+6755,他们的照护者？,Người chăm sóc của họ?
+6755,这是他们的照护者？,Đây là người chăm sóc của họ? Ồ.
+6755,哇。,Ồ.
+6755,嗯，我们都认识到，获取是一个大问题。,"Ừm, tất cả chúng ta đều nhận ra rằng việc tiếp cận là một vấn đề lớn."
+6756,问题。,Vấn đề.
+6756,嗯，还有,"Ừm, có"
+6756,获得真正理解这一点的提供者，以及获得包括临床试验在内的治疗方法。,Truy cập vào các nhà cung cấp thực sự hiểu điều đó và truy cập vào các phương pháp điều trị bao gồm cả các thử nghiệm lâm sàng.
+6757,临床试验。,Thử nghiệm lâm sàng.
+6757,嗯，有临床试验。,"Ừm, có thử nghiệm lâm sàng."
+6757,嗯，当然还有资金缺口，当然还有资金缺口，当然还有资金缺口，包括药物成本，包括药物成本，包括药物成本，治疗费用，前往看病的旅费,"Ừm, dĩ nhiên là có khoảng cách tài chính, dĩ nhiên là có khoảng cách tài chính, dĩ nhiên là có khoảng cách tài chính, bao gồm chi phí thuốc, bao gồm chi phí thuốc, bao gồm chi phí thuốc, điều trị, đi lại để khám bệnh"
 6758,治疗、前往接受治疗、前往看专家或医生，以及一个重要未满足需求是覆盖服务不足地区,"điều trị, Du lịch để tìm kiếm điều trị, Du lịch để gặp chuyên gia hoặc bác sĩ và một nhu cầu chưa được đáp ứng quan trọng là tiếp cận những người thiếu dịch vụ"
 6759,我们知道在诊断和治疗方面存在种族差异。,Chúng tôi biết rằng có sự bất bình đẳng về chủng tộc trong việc chẩn đoán và điều trị.
 6759,接触服务不足的社区。,tiếp cận các cộng đồng thiếu dịch vụ.
 6760,诊断和治疗患者，我们需要做得更好，提高临床试验招募的多样性。,"Chẩn đoán và điều trị bệnh nhân, và chúng ta cần làm tốt hơn bằng cách tăng cường sự đa dạng trong việc tuyển dụng cho các thử nghiệm lâm sàng."
-6761,临床试验招募也是如此。嗯，这需要我们所有人共同努力，才能弥合这些护理方面的差距。,"Đăng ký thử nghiệm lâm sàng cũng vậy. Ừm, điều đó sẽ yêu cầu tất cả chúng ta cùng làm việc để cố gắng lấp đầy những khoảng trống trong việc chăm sóc."
+6761,临床试验招募也是如此。,Đăng ký thử nghiệm lâm sàng cũng vậy.
 6762,在教育需求方面，我想说，,"Về nhu cầu giáo dục, tôi muốn nói rằng,"
 6763,就教育需求而言，我认为，就教育需求而言，我认为，就个人而言，高等级肺神经内分泌肿瘤，类癌性心脏病，罕见的肺神经内分泌肿瘤，例如Theopera,"Về nhu cầu giáo dục, tôi muốn nói, nhu cầu giáo dục, tôi muốn nói, cá nhân, ung thư phổi cấp độ cao, bệnh tim carcinoid, các NET hiếm gặp như Theopera và"
 6764,像 Theopera 这样的罕见网状物，以及像 Theopera 和肾上腺皮质癌这样的罕见网状物，以及我会说在患者了解方面存在差距，我会说在患者了解方面存在差距，我会说在患者了解方面存在差距，在患者了解方面存在差距，在患者了解方面存在差距。,Những mạng lưới hiếm gặp như Theopera và những mạng lưới hiếm gặp như Theopera và ung thư vỏ thượng thận và tôi nói rằng có một khoảng trống về mặt bệnh nhân biết những gì
@@ -1156,7 +1331,8 @@
 6768,我个人认为，我们需要更多地关注网络癌症。,Cá nhân tôi tin rằng chúng ta cần chú ý nhiều hơn đến ung thư mạng.
 6768,今年，我们有网络癌症日、网络癌症意识日和网络癌症意识月。,"Và trong tháng này, chúng ta có Ngày ung thư mạng, Ngày nâng cao nhận thức về ung thư mạng và Tháng nâng cao nhận thức về ung thư mạng."
 6769,在循环、社会、情感和心理健康方面，需要更多关注。,"Cần có nhiều sự chú ý hơn về mặt chu kỳ, sức khỏe xã hội, cảm xúc và tinh thần. Ừm"
-6770,还有心理健康护理。嗯，病人和照护者，病人和照护者，病人和照护者都经历着很多压力，很多悲伤和损失。,"Và chăm sóc sức khỏe tâm thần nữa. Ừm, cả bệnh nhân và người chăm sóc, cả bệnh nhân và người chăm sóc, cả bệnh nhân và người chăm sóc đều đang trải qua rất nhiều căng thẳng, rất nhiều nỗi buồn và mất mát."
+6770,嗯，病人和照护者，病人和照护者，病人和照护者都经历着很多压力，很多悲伤和损失。,"Ừm, cả bệnh nhân và người chăm sóc, cả bệnh nhân và người chăm sóc, cả bệnh nhân và người chăm sóc đều đang trải qua rất nhiều căng thẳng, rất nhiều nỗi buồn và mất mát."
+6770,还有心理健康护理。,Và chăm sóc sức khỏe tâm thần nữa.
 6771,压力，如此多的悲伤和失去，癌症诊断带来的压力，如此多的悲伤和失去。,"Căng thẳng, quá nhiều nỗi buồn và mất mát với chẩn đoán ung thư. Căng thẳng, quá nhiều nỗi buồn và mất mát với chẩn đoán ung thư."
 6771,压力，如此多的悲伤和失去，癌症诊断带来的压力，如此多的悲伤和失去。,"Căng thẳng, quá nhiều nỗi buồn và mất mát, căng thẳng, quá nhiều nỗi buồn và mất mát với chẩn đoán ung thư."
 6774,心理学家会在所有新患者的首次预约中在场，这有助于消除对心理健康的耻辱感。,Nhà tâm lý học có mặt trong cuộc hẹn đầu tiên với mỗi bệnh nhân mới. Điều này giúp giảm thiểu sự kỳ thị đối với sức khỏe tâm thần.
@@ -1176,7 +1352,11 @@
 6782,我们将过渡到您对其中一个过渡的评论中。,Chúng tôi sẽ chuyển sang một trong những bình luận mà bạn đã đưa ra về quá trình chuyển đổi.
 6785,目前有哪些临床试验领域可用？,Hiện tại có những lĩnh vực thử nghiệm lâm sàng nào đang có sẵn?
 6785,实际上有很多努力，非常棒。,"Có, thực sự có rất nhiều nỗ lực, điều đó thật tuyệt vời."
-6786,我的意思是，现在有很多努力在进行。我的意思是，现在有很多努力在进行。我的意思是，它已经进行了临床试验。,"Tốt, có rất nhiều nỗ lực đang được thực hiện ngay bây giờ. Ý tôi là, có rất nhiều nỗ lực đang được thực hiện ngay bây giờ. Ý tôi là, có rất nhiều nỗ lực đang được thực hiện ngay bây giờ. Ý tôi là, nó đã được thực hiện cho các thử nghiệm lâm sàng."
+6786,我通常,Tôi thường
+6786,很好，现在有很多努力在进行。,"Tốt, có rất nhiều nỗ lực đang được thực hiện ngay bây giờ."
+6786,我的意思是，现在有很多努力在进行。,"Ý tôi là, có rất nhiều nỗ lực đang được thực hiện ngay bây giờ."
+6786,我的意思是，现在有很多努力在进行。,"Ý tôi là, có rất nhiều nỗ lực đang được thực hiện ngay bây giờ."
+6786,我的意思是，它已经进行了临床试验。,"Ý tôi là, nó đã được thực hiện cho các thử nghiệm lâm sàng."
 6787,临床试验。,Các thử nghiệm lâm sàng.
 6787,我通常认为临床试验，从新的事物方面考虑，比如正在测试或正在推进的新事物。,Tôi thường nghĩ về các thử nghiệm lâm sàng theo khía cạnh những điều mới được thử nghiệm hoặc đang được phát triển.
 6788,所以，就像给一些移动东西的例子一样。,"Vì vậy, giống như để cung cấp các ví dụ với những thứ đang chuyển động"
@@ -1186,6 +1366,9 @@
 6791,但是现在，其中一个,"Nhưng bây giờ, một trong những"
 6792,但现在，其中一项研究正在提出问题，我们还能做更多吗？,"Nhưng bây giờ, một trong các nghiên cứu đang đặt câu hỏi, chúng ta có thể làm nhiều hơn không?"
 6792,我们可以给予口服化疗吗？,Chúng ta có thể cho hóa trị uống không?
+6792,扫描。,Các lần quét.
+6793,嗯，嗯，看看它是否能有所帮助，看看它是否能有所帮助。,"Ờ, và và xem liệu điều đó có giúp được không, xem liệu điều đó có giúp được không."
+6793,我们给患者口服一种叫做奥卡替姆的化疗药物？,Chúng tôi cho uống thuốc hóa trị bằng miệng gọi là Orcaptem?
 6794,所以，这是一项关于患者的研究。,"Vì vậy, đó là một nghiên cứu về bệnh nhân."
 6794,看看这是否对患者有帮助。,Hãy xem liệu điều đó có giúp bệnh nhân hay không.
 6794,所以，这是一项正在进行的研究，因为我们知道 CapTEM 对,"Vì vậy, đó là một nghiên cứu đang được thực hiện bởi vì chúng tôi biết rằng CapTEM hoạt động trong"
@@ -1207,10 +1390,12 @@
 6803,这样，对于内部辐射。,"Vì vậy, đối với bức xạ bên trong."
 6805,意思是，它是一种治疗方法。,"Nghĩa là, nó là một liệu pháp."
 6805,它已经获得批准几年了，但它被批准为我们所说的二线疗法。,đã được phê duyệt trong vài năm nay nhưng nó đã được phê duyệt trong vài năm nay nhưng nó đã được phê duyệt trong vài năm nay nhưng nó được phê duyệt như những gì chúng ta gọi là liệu pháp tuyến thứ hai.
+6806,治疗。,Liệu pháp.
 6806,意思是，患者已经接受过线性潮汐治疗，或者已经接受过线性潮汐治疗，或者已经接受过线性潮汐治疗，或者已经接受过奥克替肽治疗，现在已经无效了，现在他们正在,"Nghĩa là, bệnh nhân đã được điều trị bằng tuyến tính thủy triều, hoặc đã được điều trị bằng tuyến tính thủy triều, hoặc đã được điều trị bằng tuyến tính thủy triều, hoặc đã được điều trị bằng octreotide, và bây giờ nó không còn hiệu quả nữa, và bây giờ họ đang"
 6807,现在他们正在工作，现在他们要进行PRRT。,Bây giờ họ đang làm việc và bây giờ họ sẽ đi PRRT.
 6807,其中一项研究正在询问,Một trong những nghiên cứu đang hỏi
-6808,患有转移性疾病的患者。嗯，现在就开始使用洛替尼 177 会有益吗？,"Bệnh nhân bị bệnh di căn. Ừm, liệu có lợi khi bắt đầu sử dụng Lotecan 177 ngay bây giờ không?"
+6808,嗯，现在就开始使用洛替尼 177 会有益吗？,"Ừm, liệu có lợi khi bắt đầu sử dụng Lotecan 177 ngay bây giờ không?"
+6808,患有转移性疾病的患者。,Bệnh nhân bị bệnh di căn.
 6809,然后另一个问题是？,Và sau đó câu hỏi khác là?
 6809,使用洛蒂西恩177，而不是等到以后？,"Sử dụng Lotician 177, thay vì chờ sau?"
 6809,然后另一个问题是，我们知道洛蒂西恩1,"Và sau đó câu hỏi khác là, chúng ta biết rằng Leticia 1"
@@ -1247,7 +1432,8 @@
 6831,更深入、更全面的理解将使我们能够开发出更精确、更持久的效果的治疗干预措施。,"Và một sự hiểu biết tốt hơn, được nâng cao hơn sẽ cho phép chúng ta phát triển các can thiệp điều trị chính xác hơn, có thể kéo dài hơn."
 6832,当我们无法理解发病机制和基础生物学时，你就会看到这对当今公共卫生的巨大影响。,"Khi chúng ta không thể hiểu được cơ chế bệnh sinh và sinh học cơ bản, bạn có thể thấy những ảnh hưởng rất nghiêm trọng đối với sức khỏe cộng đồng ngày nay."
 6833,没错，我们有很多悬而未决的问题阻碍了公共卫生的干预措施。,"Đúng vậy, chúng ta có rất nhiều câu hỏi chưa được giải đáp đang cản trở các can thiệp y tế công cộng."
-6834,如果有人有抗体，如果他们的喉咙里有病毒 RNA，他们是否受到保护？这意味着他们有传染性吗？,"Nếu ai đó có kháng thể, họ có được bảo vệ nếu ai đó có RNA virus trong cổ họng không? Điều đó có nghĩa là họ có khả năng lây nhiễm không?"
+6834,如果有人有抗体，如果他们的喉咙里有病毒 RNA，他们是否受到保护？,"Nếu ai đó có kháng thể, họ có được bảo vệ nếu ai đó có RNA virus trong cổ họng không?"
+6834,这意味着他们有传染性吗？,Điều đó có nghĩa là họ có khả năng lây nhiễm không?
 6834,你知道，有时一些基本的东西,"Bạn biết đấy, một số điều cơ bản này đôi khi"
 6835,对基本生物学的理解不足,Sự thất bại trong việc hiểu sinh học cơ bản
 6835,在追求开发医疗保健产品的过程中，我们是否会忽略一些东西，然后这些东西回来困扰我们？,"Liệu chúng ta có bỏ qua những điều cơ bản trong nỗ lực của chúng ta để, bạn biết đấy, chỉ phát triển các sản phẩm chăm sóc sức khỏe, và sau đó chúng quay lại ám ảnh chúng ta?"
@@ -1299,16 +1485,20 @@
 6867,是的，您知道，除了在实验室工作，比如研究结核菌的细胞壁，我的实验室还有另外两个重点领域。,"Vâng, bạn biết đấy, ngoài việc làm việc trong, bạn biết đấy, trong phòng thí nghiệm, nhìn vào thành tế bào của vi khuẩn lao, bạn biết đấy, phòng thí nghiệm của tôi có hai lĩnh vực tập trung lớn khác"
 6868,所以第一个是我提到的想法,"Vì vậy, đầu tiên là ý tưởng mà tôi đã đề cập"
 6868,而且它们在某种程度上与我们最终如何，你知道，尝试帮助解决今天的冠状病毒问题有关。,"Và chúng phần nào liên quan đến cách chúng ta kết thúc, bạn biết đấy, cố gắng hỗ trợ giải quyết vấn đề virus corona ngày nay."
-6869,我们开始聊天的时候，为什么治疗肺结核患者要这么长时间？我的意思是，如果你今天感染了细菌性疾病，,"Khi chúng ta bắt đầu trò chuyện, tại sao phải điều trị bệnh nhân lao trong thời gian dài như vậy? Ý tôi là, nếu bạn bị bệnh do vi khuẩn ngày hôm nay,"
-6870,然后你开始服用抗生素治疗，你会服用大约五天的抗生素。对吧，你会记得，如果你曾经服用过抗生素，你的医生会告诉你什么？,"Và bạn bắt đầu điều trị bằng kháng sinh, bạn uống kháng sinh trong khoảng năm ngày. Đúng rồi, và bạn sẽ nhớ, nếu bạn đã từng dùng kháng sinh, bác sĩ của bạn nói gì?"
+6869,我的意思是，如果你今天感染了细菌性疾病，,"Ý tôi là, nếu bạn bị bệnh do vi khuẩn ngày hôm nay,"
+6869,我们开始聊天的时候，为什么治疗肺结核患者要这么长时间？,"Khi chúng ta bắt đầu trò chuyện, tại sao phải điều trị bệnh nhân lao trong thời gian dài như vậy?"
+6870,对吧，你会记得，如果你曾经服用过抗生素，你的医生会告诉你什么？,"Đúng rồi, và bạn sẽ nhớ, nếu bạn đã từng dùng kháng sinh, bác sĩ của bạn nói gì?"
+6870,然后你开始服用抗生素治疗，你会服用大约五天的抗生素。,"Và bạn bắt đầu điều trị bằng kháng sinh, bạn uống kháng sinh trong khoảng năm ngày."
 6871,你知道，而那里的真正假设是存在细菌。,"Bạn biết đấy, và thực sự giả thuyết ở đây là có vi khuẩn."
-6871,整个疗程。对，完成整个疗程。,"Toàn bộ khóa học. Đúng vậy, hoàn thành toàn bộ khóa học."
+6871,对，完成整个疗程。,"Đúng vậy, hoàn thành toàn bộ khóa học."
+6871,整个疗程。,Toàn bộ khóa học.
 6872,你知道，如果你感染了细菌，有些细菌会对抗生素迅速反应并死亡。,"Bạn biết đấy, nếu bạn bị nhiễm vi khuẩn, sẽ có những vi khuẩn phản ứng rất nhanh với kháng sinh và chết."
 6873,它们在基因上对抗生素敏感。,Chúng nhạy cảm với kháng sinh về mặt di truyền.
 6873,它们会死亡，只是死亡时间更长。,"Chúng sẽ chết, nhưng chỉ mất nhiều thời gian hơn để chết."
 6873,体内存在对抗抗生素的细菌。,Có những vi khuẩn trong cơ thể bạn kháng lại kháng sinh.
 6874,所以我一开始就想问，,"Và vì vậy tôi bắt đầu muốn hỏi,"
-6875,为什么我们需要对结核病患者进行六个月的治疗？六个月里发生了什么，可以在五天内对结核病患者实现？,Tại sao chúng ta cần điều trị bệnh nhân lao trong sáu tháng? Điều gì xảy ra trong sáu tháng có thể đạt được trong năm ngày với bệnh nhân lao?
+6875,为什么我们需要对结核病患者进行六个月的治疗？,Tại sao chúng ta cần điều trị bệnh nhân lao trong sáu tháng?
+6875,六个月里发生了什么，可以在五天内对结核病患者实现？,Điều gì xảy ra trong sáu tháng có thể đạt được trong năm ngày với bệnh nhân lao?
 6876,因此，我们开始在约翰内斯堡的南非结核病患者中寻找。,"Vì vậy, chúng tôi đã bắt đầu tìm kiếm ở những bệnh nhân lao ở Nam Phi tại Johannesburg."
 6876,我们这里有很多结核病，也有很多与艾滋病毒相关的结核病。,Chúng tôi có rất nhiều bệnh lao và cũng có rất nhiều bệnh lao liên quan đến HIV.
 6877,因此，我们去了我们的社区。,"Vì vậy, chúng tôi đã đến các cộng đồng của mình."
@@ -1327,8 +1517,9 @@
 6886,我们去了这些社区的诊所。,Chúng tôi đã đến những phòng khám này trong những cộng đồng này.
 6887,而我们发现的结果令人难以置信地惊讶。,Và những gì chúng tôi tìm thấy thật đáng kinh ngạc.
 6887,你知道，在结核病患者开始治疗之前，,"Bạn biết đấy, một người bị nhiễm bệnh lao trước khi họ thậm chí bắt đầu điều trị,"
-6889,您会发现，那些活跃复制的细菌，或者那些很容易培养的细菌，实际上会被很快消灭。,"Bạn nhận thấy rằng những vi khuẩn đang nhân bản một cách tích cực, hoặc những vi khuẩn bạn có thể nuôi cấy rất dễ dàng, thực sự bị loại bỏ khá nhanh chóng. Đó là những vi khuẩn ở trong trạng thái phân hóa, chúng tồn tại."
-6890,可培养状态或非复制状态。它们是那些存在很长时间的。,trạng thái có thể nuôi cấy hoặc trạng thái không sao chép. Đó là những trạng thái tồn tại trong một thời gian rất dài.
+6889,您会发现，那些活跃复制的细菌，或者那些很容易培养的细菌，实际上会被很快消灭。,"Bạn nhận thấy rằng những vi khuẩn đang nhân bản một cách tích cực, hoặc những vi khuẩn bạn có thể nuôi cấy rất dễ dàng, thực sự bị loại bỏ khá nhanh chóng."
+6890,可培养状态或非复制状态。,trạng thái có thể nuôi cấy hoặc trạng thái không sao chép.
+6890,它们是那些存在很长时间的。,Đó là những trạng thái tồn tại trong một thời gian rất dài.
 6891,现在，这一点很重要，因为当我们想要缩短治疗时间时，我们需要了解哪些人群,"Bây giờ, điều này rất quan trọng bởi vì khi chúng ta muốn rút ngắn thời gian điều trị, chúng ta cần biết những nhóm dân cư nào"
 6891,患者需要接受的长期治疗过程。,Quá trình điều trị dài hạn mà bệnh nhân phải trải qua.
 6892,因此，现在我们已经能够证明，如果你想用新药缩短治疗时间，我们需要确保这些新药确实有效。,"Và bây giờ chúng ta đã có thể chứng minh rằng nếu bạn muốn rút ngắn liệu trình điều trị bằng thuốc mới, chúng ta cần đảm bảo rằng những loại thuốc mới đó thực sự hiệu quả."
@@ -1359,7 +1550,8 @@
 6905,另一种方法是培养。,Cách khác là nuôi cấy.
 6905,所以，这是我们诊断结核病的一种方法。,"Vì vậy, đó là một cách chúng tôi chẩn đoán bệnh lao."
 6905,现在，如果你体内只有很少的病原体，它会误诊为阴性。,"Bây giờ, nếu bạn có rất ít sinh vật, nó sẽ chẩn đoán sai là âm tính."
-6906,培养需要长达 42 天才能得到阴性结果。这太糟糕了。,Nuôi cấy mất đến 42 ngày để cho kết quả âm tính. Điều này thật khủng khiếp.
+6906,培养需要长达 42 天才能得到阴性结果。,Nuôi cấy mất đến 42 ngày để cho kết quả âm tính.
+6906,这太糟糕了。,Điều này thật khủng khiếp.
 6906,我们有这些可能错误的诊断，导致患者等待很长时间,Chúng tôi đã có những chẩn đoán có thể sai và khiến bệnh nhân phải chờ đợi rất lâu
 6907,因此，为了解决这个问题，您知道，在分子诊断领域，尤其是…,"Vì vậy, để giải quyết vấn đề này, bạn biết đấy, rất nhiều công việc đã được thực hiện về chẩn đoán phân tử, đặc biệt là…"
 6908,在检测到结核病 DNA 时，南非政府通过其国家卫生部，大约在 2010 年决定实施结核病分子诊断。,"Khi phát hiện DNA lao. Khoảng năm 2010, chính phủ Nam Phi, thông qua bộ y tế quốc gia, đã quyết định triển khai chẩn đoán phân tử cho bệnh lao."
@@ -1394,6 +1586,7 @@
 6923,然后政府找到了我们。,Và chính phủ đã tiếp cận chúng tôi.
 6924,我的同事莱斯利·斯科特和兰迪·史蒂文斯在金山大学，我们工作的地方，他们找到我们，说：‘听着，,"và đồng nghiệp của tôi, Leslie Scott và Randy Stevens tại Đại học Witwatersrand, nơi chúng tôi làm việc, họ đã tiếp cận chúng tôi và nói rằng, 'Này,"
 6925,所以我和我的团队坐在一起，你知道的，我们想，嗯，GeneXpert 或者实际上任何分子设备都不在乎细菌是活的还是死的。,"Bạn có thể hỗ trợ việc này? Và vì vậy, tôi đã ngồi với nhóm của mình và, bạn biết đấy, chúng tôi đã nghĩ, tốt, GeneXpert hoặc trên thực tế, bất kỳ thiết bị phân tử nào cũng không quan tâm liệu vi khuẩn có còn sống hay đã chết."
+6926,对吧？,Phải không?
 6926,它只是检测一段DNA。,Nó chỉ phát hiện một đoạn DNA.
 6926,只要有DNA，你就会得到结果，如果它有效的话。,"Miễn là có DNA, bạn sẽ nhận được kết quả, nếu nó hoạt động."
 6926,所以我们做的是开发了一条管道,"Vì vậy, những gì chúng tôi đã làm là phát triển một đường ống"
@@ -1428,6 +1621,7 @@
 6940,就这样，从一个做着结核杆菌细胞壁研究的小实验室，突然间，我们成为了帮助许多国家的一个实验室。,"Và như vậy, đột ngột từ việc là một phòng thí nghiệm nhỏ, nơi mà, bạn biết đấy, họ đã thực hiện một số điều thực sự tuyệt vời trên thành tế bào vi khuẩn lao, chúng tôi đã trở thành một phòng thí nghiệm cho phép nhiều quốc gia"
 6941,但卫生系统中存在一些问题。,Nhưng đã có một vài vấn đề trong hệ thống y tế.
 6941,为了真正验证他们的肺结核诊断。,Để thực sự xác thực chẩn đoán lao của họ.
+6941,这很棒。,Và điều đó thật tuyệt vời.
 6942,总有危机，总有紧急情况。,Luôn có khủng hoảng. Luôn có tình trạng khẩn cấp.
 6942,通常，你知道，有人会来找我们说，我们需要，我们需要新的床位，或者我们需要耐药的床位。,"Và thường thì, bạn biết đấy, ai đó sẽ đến gặp chúng tôi và nói rằng, chúng tôi cần, chúng tôi cần thêm giường bệnh hoặc chúng tôi cần giường bệnh cho những người kháng thuốc."
 6943,然后我们必须把它杀死。,"Sau đó, chúng tôi phải giết nó."
@@ -1438,15 +1632,18 @@
 6944,然后我们会，你知道，我们会做流式细胞术，测量生物体，为你创建斑点。,"Và sau đó chúng tôi sẽ, bạn biết đấy, chúng tôi sẽ thực hiện phân tích dòng chảy tế bào, đo lường các sinh vật, tạo ra các điểm cho bạn."
 6945,所以，在某个时刻，我说，这行不通了，你知道，所以我们又坐下来和团队一起，我说，,"Vì vậy, tại một thời điểm nào đó, tôi đã nói, điều này không còn hiệu quả nữa, bạn biết đấy, vì vậy chúng tôi lại ngồi xuống với nhóm và tôi nói,"
 6945,你知道，这有点，正如你所料，这有点不可取。,"Bạn biết đấy, điều đó hơi, như bạn có thể tưởng tượng, điều đó hơi không mong muốn."
+6946,我们怎么才能让它更快呢？,Làm sao chúng ta có thể làm cho điều này nhanh hơn?
+6946,对吧？,Đúng không?
 6946,这些分子装置并不在乎细菌是活的还是死的。,Những thiết bị phân tử này không quan tâm vi khuẩn có sống hay chết.
-6946,我们怎么才能让它更快呢？对，所以我们就扩展了我们的思维。,"Làm sao chúng ta có thể làm cho điều này nhanh hơn? Đúng rồi, và vì vậy chúng ta chỉ cần mở rộng suy nghĩ của mình. Đúng không?"
+6946,对，所以我们就扩展了我们的思维。,"Đúng rồi, và vì vậy chúng ta chỉ cần mở rộng suy nghĩ của mình."
 6947,然后我就问我的团队，它是否在乎细菌是结核菌还是其他细菌？,"Và sau đó tôi hỏi nhóm của mình, liệu nó có quan tâm liệu vi khuẩn có phải là lao hay không?"
-6948,我们只需要确保那段小小的 DNA 存在。没错，我们所做的是采用了生物模仿这种方法。,"Chúng ta chỉ cần đảm bảo rằng mẩu DNA nhỏ đó có mặt. Đúng vậy, và điều chúng tôi đã làm là bắt đầu tiếp cận theo cách này gọi là mô phỏng sinh học."
+6948,我们只需要确保那段小小的 DNA 存在。,Chúng ta chỉ cần đảm bảo rằng mẩu DNA nhỏ đó có mặt.
 6949,当你观察自然界时，你会发现自然界经过数十万年的进化，已经解决了我们今天面临的问题。,"Để bắt chước những gì xảy ra trong tự nhiên. Và khi bạn nhìn vào tự nhiên, bạn sẽ thấy rằng tự nhiên đã trải qua hàng trăm nghìn năm tiến hóa để giải quyết những vấn đề mà chúng ta phải đối mặt ngày nay."
 6950,因此，我们采用了生物仿生方法，寻找安全无害、室温下稳定的细菌。,"Vì vậy, chúng tôi đã sử dụng phương pháp biomimicry, tìm kiếm những loại vi khuẩn an toàn, không gây hại và ổn định ở nhiệt độ phòng."
 6951,它们并不难种植。,Chúng không khó trồng.
 6951,我们设计它们的基因组，只携带被这些结核病分子诊断识别到的 DNA 片段。,Và chúng tôi thiết kế bộ gen của chúng chỉ để mang các đoạn DNA được nhận biết bởi các chẩn đoán phân tử lao này.
 6952,令人惊讶的是，当你把这些安全细菌放入设备中时，它会将其识别为结核杆菌，因为它无法区分。,"Và thật bất ngờ, khi bạn đưa những vi khuẩn an toàn đó vào thiết bị, nó gọi đó là lao vì nó không biết sự khác biệt."
+6953,这很快。,Nó nhanh chóng.
 6953,你知道，这些细菌生长很快。,"Bạn biết đấy, những vi khuẩn này phát triển nhanh."
 6953,没有安全问题，你知道，所以,"Không có lo ngại về an toàn, bạn biết đấy, và vì vậy"
 6953,为某人培养某些东西两天。,Để phát triển một cái gì đó cho ai đó trong hai ngày.
