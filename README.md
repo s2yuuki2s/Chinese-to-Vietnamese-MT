@@ -51,7 +51,7 @@ Tiến hành chạy khảo sát các mô hình để chọn ra mô hình tốt n
 
 ## 5. Data cho fine tune
 
-Đây là data được dùng để tiến hành fine-tune [link](https://drive.google.com/file/d/1L4OfhB-DTaHvP_LhOAZ52CICoeylapEk/view?usp=sharing). Đây là dữ liệu được tổng hơp từ các file JSON1, JSON2, PDF1.
+Đây là data được dùng để tiến hành fine-tune [link](https://drive.google.com/file/d/1TqXCoVG0VlN8pYFhZwOW5V_olyVSHUyd/view?usp=sharing). Đây là dữ liệu được tổng hơp từ các file JSON1, JSON2, PDF1.
 
 ## 6. Mô hình được lựa chọn để fine-tune
 
