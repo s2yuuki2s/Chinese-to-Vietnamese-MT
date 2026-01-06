@@ -21,11 +21,27 @@
 └── notebooks/          # Chứa các file notebook để thực hiện các yêu cầu của đồ án
 ```
 
-## 3.Clone repository
+## 3. Chạy khảo sát các mô hình
 
-```basg
-git clone https://github.com/s2yuuki2s/Chinese-to-Vietnamese-MT.git
-```
+Tiến hành chạy khảo sát các mô hình để chọn ra mô hình tốt nhất. Các mô hình được tiến hành chạy kiểm tra trên colab.
+
+#### MarianMT
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s2yuuki2s/Chinese-to-Vietnamese-MT/blob/main/notebooks/MarianMT_pretrained_model.ipynb)
+
+#### mBART50
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s2yuuki2s/Chinese-to-Vietnamese-MT/blob/main/notebooks/mbart-test.ipynb)
+
+#### Llama3
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<https://colab.research.google.com/github/s2yuuki2s/Chinese-to-Vietnamese-MT/blob/main/notebooks/Llama3_1_(8B)_zeroshot.ipynb>)
+
+## 3. Data cho fine tune
+
+Đây là data được dùng để tiến hành fine-tune [link](https://drive.google.com/file/d/1L4OfhB-DTaHvP_LhOAZ52CICoeylapEk/view?usp=sharing)
+
+## 4. Mô hình được lựa chọn để fine-tune
 
 ### Code thực thi mô hình chính
 
@@ -35,7 +51,3 @@ Sau quá trình đánh giá và lựa chọn. Nhóm quyết định lựa chọn
 
 Tiến hành quá trình fine-tune mô hình trên colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s2yuuki2s/Chinese-to-Vietnamese-MT/blob/main/notebooks/Final.ipynb)
-
-## 4. Data
-
-Đây là data được dùng để tiến hành fine-tune [link](https://drive.google.com/file/d/1L4OfhB-DTaHvP_LhOAZ52CICoeylapEk/view?usp=sharing)
