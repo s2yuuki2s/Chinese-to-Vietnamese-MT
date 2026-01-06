@@ -33,6 +33,7 @@ Sau quá trình đánh giá và lựa chọn. Nhóm quyết định lựa chọn
 
 ### Open Colab
 
+Tiến hành quá trình fine-tune mô hình trên colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s2yuuki2s/Chinese-to-Vietnamese-MT/blob/main/notebooks/Final.ipynb)
 
 ## 4. Data
