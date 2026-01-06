@@ -37,11 +37,11 @@ Tiến hành chạy khảo sát các mô hình để chọn ra mô hình tốt n
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<https://colab.research.google.com/github/s2yuuki2s/Chinese-to-Vietnamese-MT/blob/main/notebooks/Llama3_1_(8B)_zeroshot.ipynb>)
 
-## 3. Data cho fine tune
+## 4. Data cho fine tune
 
 Đây là data được dùng để tiến hành fine-tune [link](https://drive.google.com/file/d/1L4OfhB-DTaHvP_LhOAZ52CICoeylapEk/view?usp=sharing)
 
-## 4. Mô hình được lựa chọn để fine-tune
+## 5. Mô hình được lựa chọn để fine-tune
 
 ### Code thực thi mô hình chính
 
